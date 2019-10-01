@@ -320,28 +320,6 @@
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>เสียง Qualcomm® aptX™</item>
-        <item>เสียงQualcomm® aptX™ HD</item>
-        <item>LDAC</item>
-        <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>เสียง Qualcomm® aptX™</item>
-        <item>เสียงQualcomm® aptX™ HD</item>
-        <item>LDAC</item>
-        <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
-    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | ใช้งานได้"</item>
@@ -795,11 +773,6 @@
         <item>10 นาที</item>
         <item>30 นาที</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>กราฟิก</item>
-        <item>เปอร์เซ็นต์ (ในไอคอน)</item>
-        <item>เปอร์เซ็นต์ (ถัดจากไอคอน)</item>
-    </string-array>
     <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
@@ -997,10 +970,6 @@
         <item>เครือข่ายช้าเนื่องจากสัญญาณอ่อนเกินไป</item>
         <item>กำลังย้าย…</item>
     </string-array>
-    <string-array name="notch_battery_indicator_style_entries">
-        <item>กราฟิก</item>
-        <item>เปอร์เซ็นต์</item>
-    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>ค้นหา</item>
         <item>การตั้งค่า</item>
@@ -1008,54 +977,6 @@
     <string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>ไม่มี</item>
@@ -1194,28 +1115,6 @@
         <item>ถาม</item>
         <item>ไม่อนุญาตเลย</item>
         <item>อนุญาตเสมอ</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>ปิด</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>ปิด</item>
-        <item>64K ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>256K ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>1M ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>4M ต่อแต่ละบันทึกบัฟเฟอร์</item>
-        <item>16M ต่อแต่ละบันทึกบัฟเฟอร์</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>ปิด</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>ปิด</item>
@@ -1396,11 +1295,6 @@
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>ต้องการใช้ Wi-Fi</item>
-        <item>ต้องการใช้อินเทอร์เน็ตมือถือ</item>
-        <item>Wi-Fi เท่านั้น</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
