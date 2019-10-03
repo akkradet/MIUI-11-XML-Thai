@@ -1,0 +1,8 @@
+    <string-array name="alert_reminder_interval_active_values">
+        <item>1</item>
+        <item>2</item>
+        <item>15</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="default_vibration_pattern">
+    </string-array>

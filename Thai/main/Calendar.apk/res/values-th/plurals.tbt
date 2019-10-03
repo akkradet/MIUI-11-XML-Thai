@@ -1,0 +1,33 @@
+/* 0x01000004 - other
+   0x01000005 - zero
+   0x01000006 - one
+   0x01000007 - two
+   0x01000008 - few
+   0x01000009 - many */
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d??</item>
+        <item quantity="one">%1$d??</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d??</item>
+        <item quantity="one">%1$d??</item>
+    </plurals>
+    <plurals name="feed_list_dislike_title">
+        <item quantity="other">??%1$d???</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other"> days</item>
+        <item quantity="one"> day</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other"> hours</item>
+        <item quantity="one"> hour</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other"> minutes</item>
+        <item quantity="one"> minute</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Next reminder in %1$d minutes</item>
+        <item quantity="one">Next reminder in %1$d minute</item>
+    </plurals>
