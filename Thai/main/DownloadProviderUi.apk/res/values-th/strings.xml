@@ -27,10 +27,10 @@
      <string name="button_wait_for_wifi">Wait</string>
      <string name="cancel">ยกเลิก </string>
      <string name="cancel_running_download">ยกเลิก </string>
-     <string name="channel_active">Active download</string>
-     <string name="channel_complete">Download complete</string>
-     <string name="channel_insufficient_space">Insufficient space</string>
-     <string name="channel_waiting">Download waiting</string>
+     <string name="channel_active">下载中</string>
+     <string name="channel_complete">下载完成</string>
+     <string name="channel_insufficient_space">空间不足</string>
+     <string name="channel_waiting">等待中</string>
      <string name="check_new_downloaded_action">เรียกดู</string>
      <string name="check_new_downloaded_file">พบไฟล์ใหม่</string>
      <string name="clear_data">ทำความสะอาด</string>
@@ -241,7 +241,7 @@
      <string name="permlab_downloadManager">Access download manager.</string>
      <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
      <string name="permlab_downloadWithoutNotification">Download files without notification</string>
-     <string name="permlab_seeAllExternal">See all downloads to USB storage</string>
+     <string name="permlab_seeAllExternal">See all downloads to SD card</string>
      <string name="pref_download_settings_title">จำกัดขนาดการดาวน์โหลด</string>
      <string name="pref_summary_any_bytes_popup">รอดาวน์โหลดไฟล์ผ่าน Wi-Fi เท่านั้น</string>
      <string name="pref_summary_enable_max_bytes_popup">แสดงหน้าต่างแจ้งเตือนหากใช้การดาวน์โหลดผ่านเครือข่ายข้อมูลมือถือ</string>

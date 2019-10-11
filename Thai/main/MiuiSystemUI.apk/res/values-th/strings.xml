@@ -7,6 +7,8 @@
      <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
      <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
      <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">นำทางขึ้น</string>
      <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
      <string name="abc_action_mode_done">เสร็จสิ้น</string>
@@ -331,7 +333,13 @@
      <string name="battery_detail_switch_summary">ลดประสิทธิภาพและข้อมูลพื้นหลัง</string>
      <string name="battery_detail_switch_title">ตัวประหยัดแบตเตอรี่</string>
      <string name="battery_info_status_charging">กำลังชาร์จ</string>
+     <string name="battery_info_status_charging_ac">Charging on AC</string>
+     <string name="battery_info_status_charging_ac_short">Charging</string>
      <string name="battery_info_status_charging_lower">ชาร์จแบต</string>
+     <string name="battery_info_status_charging_usb">Charging over USB</string>
+     <string name="battery_info_status_charging_usb_short">Charging</string>
+     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
+     <string name="battery_info_status_charging_wireless_short">Charging</string>
      <string name="battery_info_status_discharging">ไม่ได้ชาร์จอยู่</string>
      <string name="battery_info_status_full">เต็ม</string>
      <string name="battery_info_status_not_charging">ไม่ได้ชาร์จอยู่</string>
@@ -527,6 +535,7 @@
      <string name="connected_via_network_scorer">เชื่อมต่อโดยอัตโนมัติผ่าน %1$s</string>
      <string name="connected_via_network_scorer_default">เชื่อมต่อโดยอัตโนมัติผ่านเครือข่ายผู้ให้บริการ</string>
      <string name="connected_via_passpoint">เชื่อมต่อผ่าน %1$s</string>
+     <string name="connected_via_wfa">Connected via WLAN assistant</string>
      <string name="content_description_menu_button">เมนู</string>
      <string name="convert_to_fbe_warning">"แปลงพาร์ทิชันข้อมูลเป็นแบบไฟล์เข้ารหัส
  คำเตือน: การดำเนินการนี้จะลบข้อมูลทั้งหมดของคุณ
@@ -655,6 +664,8 @@
      <string name="enable_power_save_mode">เปิดใช้งานตัวประหยัดแบตเตอรี่</string>
      <string name="enable_terminal_summary">เปิดเทอร์มินัลแอปเพื่อให้สามารถเข้าถึง shell ในเครื่อง</string>
      <string name="enable_terminal_title">เทอร์มินัลภายใน</string>
+     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
+     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
      <string name="enabled_by_admin">เปิดโดยแอดมิน</string>
      <string name="ethernet_label">อีเธอร์เน็ต</string>
      <string name="expand_button_title">ขั้นสูง</string>
@@ -854,6 +865,7 @@
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">ไม่สามารถสลับระหว่างพื้นที่เมื่อการควบคุมโดยผู้ปกครองเปิดอยู่</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Can&apos;t switch between spaces when Ultra battery saver is on</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">คุณจำเป็นต้องเข้าสู่พื้นที่ปกติก่อนที่อุปกรณ์จะทำการรีบูต</string>
+     <string name="input_password_handle_sdcard_fs">قۇلۇپ ئېكرانىدىن ئايرىلغان بوشلۇققا كىرگىلى بولمايدۇ، دەسلەپكى بوشلۇقتىن كىرىڭ</string>
      <string name="input_password_hint_text">ใส่รหัสผ่าน</string>
      <string name="input_pattern_hint_text">วาดรูปแบบของคุณเพื่อปลดล็อก:</string>
      <string name="input_pin_code">ป้อนรหัส PIN</string>
@@ -959,14 +971,9 @@
      <string name="keyguard_indication_charging_time_slowly">กำลังชาร์จปกติ (อีก %s จะเต็ม)</string>
      <string name="keyguard_indication_trust_disabled">อุปกรณ์จะล็อกจนกว่าคุณจะปลดล็อกด้วยตนเอง</string>
      <string name="keyguard_instructions_when_pattern_disabled">กดเมนูเพื่อปลดล็อก</string>
-     <string name="keyguard_left_calculator">Calculator</string>
-     <string name="keyguard_left_calendar">Calendar</string>
-     <string name="keyguard_left_contacts">Contacts</string>
      <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-     <string name="keyguard_left_music">Music</string>
-     <string name="keyguard_left_notes">Notes</string>
-     <string name="keyguard_left_remotecentral">Mi Remote</string>
-     <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_remotecentral">SMS</string>
+     <string name="keyguard_left_smarthome">Contacts</string>
      <string name="keyguard_left_torch">ไฟฉาย</string>
      <string name="keyguard_left_view_lock_wallpaper">ภาพพื้นหลังรายวัน</string>
      <string name="keyguard_low_battery">เชื่อมต่อสายชาร์ต</string>
@@ -1059,6 +1066,7 @@
      <string name="left_icon">ไอคอนซ้าย</string>
      <string name="left_keycode">คีย์โค๊ดซ้าย</string>
      <string name="left_nav_bar_button_type">ประเภทปุ่มซ้ายพิเศษ</string>
+     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="legacy_vpn_name">VPN</string>
      <string name="list_delimeter">, </string>
      <string name="local_backup_password_summary_change">แตะเพื่อแก้ไขหรือลบรหัสผ่านสำหรับการสำรองข้อมูลหน้าจอหลักเต็มรูปแบบ</string>
@@ -1269,6 +1277,7 @@ d MMMM"</string>
      <string name="notification_menu_remove_from_filter_title">สำคัญ</string>
      <string name="notification_menu_snooze_description">ตัวเลือกเลื่อนการแจ้งเตือน</string>
      <string name="notification_more_settings">การตั้งค่าเพิ่มเติม</string>
+     <string name="notification_num_channels">%d 個通知類別</string>
      <string name="notification_otg_gamestick_in">เชื่อมต่อตัวควบคุมเกมส์แล้ว</string>
      <string name="notification_otg_gamestick_out">ตัดการเชื่อมต่อตัวควบคุมเกมส์แล้ว</string>
      <string name="notification_otg_keyboard_in">เชื่อมต่อแป้นพิมพ์แล้ว</string>
@@ -1336,13 +1345,20 @@ d MMMM"</string>
      <string name="pointer_location">กำหนดตำแหน่งพิกัด</string>
      <string name="pointer_location_summary">ภาพซ้อนทับแสดงข้อมูลการแตะในปัจจุบัน</string>
      <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
+     <string name="power_charging_duration">%1$s - %2$s until full</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
+     <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
+     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharge_by">แบตเตอรี่เหลืออยู่ %2$s ใช้ได้อีกประมาณ %1$s</string>
      <string name="power_discharge_by_enhanced">แบตเตอรี่เหลืออยู่ %2$s ใช้ได้อีกประมาณ %1$s</string>
      <string name="power_discharge_by_only">แบตเตอรี่ใช้ได้อีกประมาณ %1$s</string>
      <string name="power_discharge_by_only_enhanced">แบตเตอรี่ใช้ได้อีกประมาณ %1$s</string>
-     <string name="power_discharging_duration">About %1$s left (%2$s)</string>
-     <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
+     <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
+     <string name="power_discharging_duration_short">%1$s - %2$s left</string>
      <string name="power_notification_controls_description">"สำหรับการควบคุมการแจ้งเตือนแบตเตอรี่ คุณสามารถตั้งค่าระดับความสำคัญได้ตั้งแต่ 0 - 5 สำหรับการแจ้งเตือนของแอป 
 
 "<b>ระดับ 5</b>" 
@@ -1506,7 +1522,7 @@ d MMMM"</string>
      <string name="quick_settings_sync_label">ซิงค์</string>
      <string name="quick_settings_tethering_label">แชร์เครือข่าย</string>
      <string name="quick_settings_tiles">default</string>
-     <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+     <string name="quick_settings_tiles_default">wifi,cell,bt,papermode,flashlight,rotation,airplane,batterysaver,quietmode,gps,hotspot,vibrate,mute,autobrightness,night,edit</string>
      <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
      <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
      <string name="quick_settings_time_label">เวลา</string>
@@ -1622,6 +1638,7 @@ d MMMM"</string>
      <string name="search_hint">ค้นหาเว็บไซต์ แอป ผู้ติดต่อ และวิดีโอ…</string>
      <string name="search_menu_title">ค้นหา</string>
      <string name="select_application">เลือกแอป</string>
+     <string name="select_logd_level">Select log level</string>
      <string name="select_logd_size_dialog_title">เลือกขนาดสำหรับบันทึกบัฟเฟอร์</string>
      <string name="select_logd_size_title">ขนาดบัฟเฟอร์ของบันทึกการใช้</string>
      <string name="select_logpersist_dialog_title">เลือกล็อกบัฟเฟอร์เพื่อเก็บข้อมูลบนอุปกรณ์อย่างต่อเนื่อง</string>
@@ -1644,6 +1661,8 @@ d MMMM"</string>
      <string name="show_battery_percentage">แสดงเปอร์เซ็นต์ของแบตเตอรี่</string>
      <string name="show_battery_percentage_summary">แสดงเปอร์เซ็นต์ระดับแบตเตอรี่ภายในไอคอนแถบสถานะเมื่อไม่ได้ชาร์จ</string>
      <string name="show_brightness">แสดงความสว่างในการตั้งค่าด่วน</string>
+     <string name="show_cpu_usage">Show CPU usage</string>
+     <string name="show_cpu_usage_summary">Show CPU usage using screen overlay</string>
      <string name="show_demo_mode">แสดงโหมดแสดงตัวอย่าง</string>
      <string name="show_hw_layers_updates">แสดงการอัปเดตระดับฮาร์ดแวร์</string>
      <string name="show_hw_layers_updates_summary">ฮาร์ดแวร์ที่กำลังอัปเดตจะกะพริบเป็นสีเขียว</string>
@@ -1691,6 +1710,8 @@ d MMMM"</string>
 d MMM"</string>
      <string name="status_bar_date_format_12">"E
 d MMM"</string>
+     <string name="status_bar_date_formatter">%2$s
+%1$s</string>
      <string name="status_bar_ethernet">อีเธอร์เน็ต</string>
      <string name="status_bar_input_method_settings_configure_input_methods">ติดตั้งวิธีการป้อนข้อมูล</string>
      <string name="status_bar_latest_events_title">การแจ้งเตือน</string>
@@ -1802,7 +1823,6 @@ d MMM"</string>
      <string name="structure_face_unlock_really_person">ดูเหมือนว่าสิ่งที่คุณป้อนเป็นวัตถุไม่ไช่ใบหน้าจริง</string>
      <string name="structure_face_unlock_tof_covered">ไม่สามารถเพิ่มข้อมูลใบหน้า ขยับออกห่างจากหน้าจอ</string>
      <string name="summary_collapsed_preference_list">%1$s %2$s</string>
-     <string name="summary_empty"></string>
      <string name="switch_bar_off">ปิด</string>
      <string name="switch_bar_on">เปิด</string>
      <string name="switch_system_user">กลับไปยังพื้นที่ปกติ</string>
@@ -1922,14 +1942,6 @@ d MMM"</string>
      <string name="usb_notification_mtp_ticker_text">เชื่อมต่อเป็นอุปกรณ์สื่อมีเดีย (ไฟล์)</string>
      <string name="usb_notification_ptp_info">การเข้าถึงรูปภาพที่บันทึกไว้ในอุปกรณ์นี้</string>
      <string name="usb_notification_ptp_ticker_text">เชื่อมต่อเป็นอุปกรณ์สื่อมีเดีย (รูปภาพ)</string>
-     <string name="usb_port_overheated_dialog_content">Charging port is overheated. Disconnect the charger from your device and check whether the charging port is clean. Contact customer support if you have any questions.</string>
-     <string name="usb_port_overheated_notification_content">Disconnect the charger from your device and check whether the charging port is clean.</string>
-     <string name="usb_port_overheated_title">Charging port is overheated. Disconnect the charger.</string>
-     <string name="usb_port_short_circuit_dialog_content">Charging of your device has been restricted. Disconnect the charger and wipe off the charging port removing all liquids to restore charging capability.</string>
-     <string name="usb_port_short_circuit_notification_content">Disconnect the charger and wipe off the charging port removing all liquids.</string>
-     <string name="usb_port_short_circuit_recovered_content">You can use it for charging or connecting to other devices.</string>
-     <string name="usb_port_short_circuit_recovered_title">Charging port works normally now</string>
-     <string name="usb_port_short_circuit_title">There&apos;s vapor in the charging port</string>
      <string name="usb_preference_title">ตัวเลือกถ่ายโอนไฟล์ USB</string>
      <string name="usb_ptp_text">รูปภาพ</string>
      <string name="usb_share_net_info">ใช้การเชื่อมต่ออินเทอร์เน็ตของคอมพิวเตอร์</string>
@@ -2022,6 +2034,10 @@ d MMM"</string>
      <string name="wapi_yes">ใช่</string>
      <string name="weather_description_no_aqi">%1$s</string>
      <string name="weather_publish_time">อัพเดทล่าสุด %1$s</string>
+     <string name="wifi_aggressive_handover">Automatic WLAN to Cellular handover</string>
+     <string name="wifi_aggressive_handover_summary">When enabled, connection will switch to mobile data more actively when WLAN signal is low.</string>
+     <string name="wifi_allow_scan_with_traffic">Always allow WLAN roam scans</string>
+     <string name="wifi_allow_scan_with_traffic_summary">Allow or restrict WLAN roam scans based on the amount of data traffic present in the interface.</string>
      <string name="wifi_ap_unable_to_handle_new_sta">จุดเข้าใช้งานชั่วคราวเต็มรูปแบบ</string>
      <string name="wifi_auto_sel_wapi_cert">เลือกโดยอัตโนมัติ</string>
      <string name="wifi_cant_connect">ไม่สามารถเชื่อมต่อได้</string>
@@ -2104,8 +2120,8 @@ d MMM"</string>
      <string name="wireless_charge_reset_device_detail">ตรวจสอบให้แน่ใจว่าตำแหน่งของอุปกรณ์ของคุณอยู่บนที่แท่นชาร์จอย่างถูกต้อง</string>
      <string name="wireless_charge_stop">หยุดการชาร์จไร้สาย</string>
      <string name="wrong_password">รหัสผ่านไม่ถูกต้อง</string>
-     <string name="yoigo_mcc">214</string>
-     <string name="yoigo_mnc">04</string>
+     <string name="yoigo_mcc ">214</string>
+     <string name="yoigo_mnc ">04</string>
      <string name="zen_alarm_warning">คุณจะไม่ได้ยินเสียงปลุก %1$s</string>
      <string name="zen_alarm_warning_indef">คุณจะไม่ได้ยินเสียงปลุก %1$s นอกเสียจากว่าคุณจะปิดการทำงานนี้ก่อน</string>
      <string name="zen_alarms_introduction">คุณจะไม่ถูกรบกวนด้วยเสียงและการสั่น ยกเว้นจากการปลุก คุณยังได้ยินสิ่งที่คุณเลือกที่จะเล่นรวมถึงเพลง วิดีโอ และเกมส์</string>

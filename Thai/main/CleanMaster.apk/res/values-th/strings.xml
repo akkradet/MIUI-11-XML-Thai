@@ -180,7 +180,7 @@
      <string name="clip_board_history_desc">Copied/cut contents</string>
      <string name="clipboard">Clipboard</string>
      <string name="close">ปิด</string>
-     <string name="close_debug_mode">Натисніть %1$d для вимкнення налагодження</string>
+     <string name="close_debug_mode">يەنە %1$d قېتىم چەكسىڭىز تەڭشەش ھالىتى تاقىلىدۇ</string>
      <string name="confirm_auto_cleaner">ตกลง</string>
      <string name="conn_of_function_safe">การเชื่อมต่อเครือข่ายของแอปความปลอดภัย</string>
      <string name="connecting">กำลังเชื่อมต่อ…</string>
@@ -267,8 +267,6 @@
      <string name="facebook_clean_exit_confirm_ok">หยุด</string>
      <string name="facebook_clean_exit_confirm_title">หยุดการสแกน?</string>
      <string name="facebook_cleaner">ตัวทำความสะอาด Facebook</string>
-     <string name="facebook_function_summery">Clear the items cached by Facebook</string>
-     <string name="facebook_function_title">Facebook cleaner</string>
      <string name="facebook_group_cache">ไฟล์แคช</string>
      <string name="facebook_group_gif">GIFs</string>
      <string name="facebook_group_image">รูปภาพ</string>
@@ -489,7 +487,7 @@
      <string name="open">เปิดใช้งาน</string>
      <string name="open_app">เปิด</string>
      <string name="open_browser">เปิดด้วยเบราว์เซอร์</string>
-     <string name="open_debug_mode">Натисніть %1$d для увімкнення налагодження</string>
+     <string name="open_debug_mode">يەنە %1$d قېتىم چەكسىڭىز تەڭشەش ھالىتى ئېچىلدۇ</string>
      <string name="open_file_error">ไม่พบแอปที่ใช้เปิดไฟล์นี้</string>
      <string name="optimizecenter_data_support_cm">สนับสนุนโดย Clean Master</string>
      <string name="optimizecenter_data_support_tc">สนับสนุนโดย Tencent</string>

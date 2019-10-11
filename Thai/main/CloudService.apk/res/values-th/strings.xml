@@ -51,7 +51,7 @@
      <string name="find_device_error_server">ข้อผิดพลาดจากเซิร์ฟเวอร์</string>
      <string name="find_device_gdpr_prompt">โดยการเปิดใช้งานค้นหาอุปกรณ์นี้ คุณยอมรับใน <u><a href="app://com.miui.cloudservice.gdpr.license"> นโยบายความเป็นส่วนตัว</a></u>ของเรา หากคุณต้องการถอนการให้สิทธิ์ กรุณาปิดใช้งานคุณลักษณะนี้</string>
      <string name="find_device_operation_failure_rpc">ไม่สามารถดำเนินการได้เนื่องจากข้อผิดพลาด RPC</string>
-     <string name="find_device_pref_alert_content">Tìm thiết bị đã liên kết với Tài khoản Mi. Bạn cần đặt mật khẩu hoặc nhập mật khẩu đã đặt. Chắc chắn rằng bạn nhớ mật khẩu và ID Tài khoản Mi của bạn. Tin nhắn SMS được yêu cầu gửi đi để kich hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này. Khi bạn chuyển đổi Thẻ SIM, một tin nhắn sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
+     <string name="find_device_pref_alert_content">يانفون ئىزدەش ئىقتىدارى شياۋمى ھېساباتىغا تايىنىدۇ،يانفونىڭىزنىڭ بىخەتەرلىكى ئۈچۈن،پارول كىرگۈزۈشىڭىز ياكى تەڭشىشىڭىز كېرەك،ھېسابات ۋە پارولنى ئېسىڭىزدە چىڭ ساقلاڭ. يانفونىڭىز بىر دانە ئۇچۇر ئەۋەتىپ بۇ مۇلازىمەتنى ئاكتىپلىشى مۇمكىن</string>
      <string name="find_device_send_sms_alert">"
 
 หากคุณเปลี่ยนซิมการ์ด ระบบจะส่งข้อความอีกครั้งเพื่อเปิดใช้งานบริการดังกล่าวโดยอัตโนมัติ"</string>
@@ -205,7 +205,7 @@
      <string name="micloud_main_head_menu_state_close">ปิด</string>
      <string name="micloud_main_head_menu_state_open">เปิด</string>
      <string name="micloud_main_head_menu_state_unavailable">ไม่รองรับ</string>
-     <string name="micloud_main_last_synced">마지막 동기화:</string>
+     <string name="micloud_main_last_synced">ئالدىنقى ماس قەدەملەش:</string>
      <string name="micloud_main_manual_sync">ซิงค์ด้วยตนเอง</string>
      <string name="micloud_main_memory_low_title">ที่จัดเก็บข้อมูลภายในของโทรศัพท์ใกล้จะเต็มแล้ว</string>
      <string name="micloud_main_network_error">เชื่อมต่อเครือข่ายไม่ได้</string>
@@ -218,7 +218,7 @@
      <string name="micloud_main_wait_wlan">กำลังรอ Wi-Fi</string>
      <string name="micloud_main_wait_wlan_charge">เชื่อมต่อ Wi-Fi และชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
      <string name="micloud_main_wait_wlan_charge_sleep">เชื่อมต่อ Wi-Fi ปิดหน้าจอและชาร์จอุปกรณ์ให้เต็มเพื่อดำเนินการซิงค์ต่อ</string>
-     <string name="micloud_main_waiting_for_sync">동기화 대기 중...</string>
+     <string name="micloud_main_waiting_for_sync">ماس قەدەملەشنى كۈتىۋاتىدۇ</string>
      <string name="micloud_manage_space_data">จัดการข้อมูล Mi คลาวด์</string>
      <string name="micloud_manaul_sync_success_button_text">ดูรายละเอียด</string>
      <string name="micloud_manaul_sync_success_time_prefix">Last sync: %s</string>
@@ -375,7 +375,7 @@
      <string name="priv_dialog_finddevice_all_purpose_pad">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it&apos;s lost.</string>
      <string name="priv_dialog_finddevice_all_purpose_phone">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it&apos;s lost.</string>
      <string name="priv_dialog_sync_all_purpose">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
-     <string name="priv_doc_cloudservice">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at i<font color="#FF0000"><b>.mi.com.</font></b>
+     <string name="priv_doc_cloudservice">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at <b><font color="#FF0000">i.mi.com</b></font>.
 
 An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
 
@@ -394,9 +394,9 @@ For syncing contacts
 • Storage:
 For saving items on your device (e.g. images, videos, songs)
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our <a href="app://com.miui.cloudservice.user_agreement.license"><u>User Agreement a</a></u>nd <a href="app://com.miui.cloudservice.gdpr.license"><u>Privacy Policy b</a></u>efore using Xiaomi Cloud.
+Read and agree to our<u><a href="app://com.miui.cloudservice.user_agreement.license"> User Agreement </u></a>and<u><a href="app://com.miui.cloudservice.gdpr.license"> Privacy Policy </u></a>before using Xiaomi Cloud.
 </string>
-     <string name="priv_doc_finddevice_pad">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <font color="#FF0000"><b>i.mi.com</font></b> to locate, lock, or reset it.
+     <string name="priv_doc_finddevice_pad">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <b><font color="#FF0000">i.mi.com</b></font> to locate, lock, or reset it.
 
 We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
@@ -405,9 +405,9 @@ For identifying your device
 • Location:
 For locating your device and switching to the lost mode
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </a></u>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </a></u>before using Find device.
+Read and agree to our<u><a href="app://com.miui.cloudservice.user_agreement.license"> User Agreement </u></a>and<u><a href="app://com.miui.cloudservice.gdpr.license"> Privacy Policy </u></a>before using Find device.
 </string>
-     <string name="priv_doc_finddevice_phone">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <font color="#FF0000"><b>i.mi.com</font></b> to locate, lock, or reset it.
+     <string name="priv_doc_finddevice_phone">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <b><font color="#FF0000">i.mi.com</b></font> to locate, lock, or reset it.
 
 We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
@@ -416,9 +416,9 @@ For identifying your device
 • Location:
 For locating your device and switching to the lost mode
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </a></u>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </a></u>before using Find device.
+Read and agree to our<u><a href="app://com.miui.cloudservice.user_agreement.license"> User Agreement </u></a>and<u><a href="app://com.miui.cloudservice.gdpr.license"> Privacy Policy </u></a>before using Find device.
 </string>
-     <string name="priv_doc_finddevice_with_telephony_feature_pad">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <font color="#FF0000"><b>i.mi.com</font></b> to locate, lock, or reset it.
+     <string name="priv_doc_finddevice_with_telephony_feature_pad">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <b><font color="#FF0000">i.mi.com</b></font> to locate, lock, or reset it.
 
 An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
 
@@ -430,9 +430,9 @@ For identifying your device
 • Location:
 For locating your device and switching to the lost mode
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </a></u>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </a></u>before using Find device.
+Read and agree to our<u><a href="app://com.miui.cloudservice.user_agreement.license"> User Agreement </u></a>and<u><a href="app://com.miui.cloudservice.gdpr.license"> Privacy Policy </u></a>before using Find device.
 </string>
-     <string name="priv_doc_finddevice_with_telephony_feature_phone">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <font color="#FF0000"><b>i.mi.com</font></b> to locate, lock, or reset it.
+     <string name="priv_doc_finddevice_with_telephony_feature_phone">Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to <b><font color="#FF0000">i.mi.com</b></font> to locate, lock, or reset it.
 
 An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
 
@@ -444,7 +444,7 @@ For identifying your device
 • Location:
 For locating your device and switching to the lost mode
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
-Read and agree to our<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </a></u>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </a></u>before using Find device.
+Read and agree to our<u><a href="app://com.miui.cloudservice.user_agreement.license"> User Agreement </u></a>and<u><a href="app://com.miui.cloudservice.gdpr.license"> Privacy Policy </u></a>before using Find device.
 </string>
      <string name="privacy_and_agreement">Terms and conditions</string>
      <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>

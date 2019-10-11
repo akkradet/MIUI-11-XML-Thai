@@ -349,7 +349,6 @@
      <string name="ball_hupu">HuPu</string>
      <string name="ball_net_errot">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
      <string name="ball_recent_no_data">ไม่มีข้อมูลเกี่ยวกับการแข่งขันที่กำลังจะมา</string>
-     <string name="battery_history">Battery</string>
      <string name="beijing">Beijing</string>
      <string name="bicycle">จักรยาน</string>
      <string name="bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
@@ -460,8 +459,6 @@
      <string name="cleanup_memory">ล้างแคช</string>
      <string name="cleanup_power">ทำความสะอาดเชิงลึก</string>
      <string name="clear">Clear</string>
-     <string name="clock_alarm">Alarm</string>
-     <string name="clock_parent">Clock</string>
      <string name="closed">Off</string>
      <string name="common_google_play_services_enable_button">เปิดใช้</string>
      <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
@@ -992,8 +989,8 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="function_video_music_title">Music &amp; video</string>
      <string name="function_youku_record">Recent videos</string>
      <string name="function_youku_title">Youku</string>
-     <string name="function_zhihu_search">Search</string>
-     <string name="function_zhihu_title">Zhihu</string>
+     <string name="function_zhihu_search">Add</string>
+     <string name="function_zhihu_title">Alarm</string>
      <string name="generate_view_failed">全国人民都来了? 稍候再试试</string>
      <string name="gmail_compose">เขียน</string>
      <string name="gmail_parent">Gmail</string>
@@ -1001,8 +998,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="go_to_pay">Pay now</string>
      <string name="go_to_school">To and from work or school</string>
      <string name="google">Google</string>
-     <string name="google_assistant">Assistant</string>
-     <string name="google_parent">Google</string>
      <string name="greeting_open">Turn on daily greetings</string>
      <string name="greeting_setting_brief">Get weather info and reminders about scheduled events, alarms, and birthdays every morning and evening</string>
      <string name="greeting_setting_brief_notice">You can change the city in the Weather app</string>
@@ -1156,8 +1151,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="mi_sport">Step counter</string>
      <string name="mi_sport_go_install">Download</string>
      <string name="mi_wallet">Mi Wallet</string>
-     <string name="midrop_parent">Mi Drop</string>
-     <string name="midrop_send">Send</string>
      <string name="mifare_card">Card Emulator</string>
      <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
      <string name="mini_agree">同意</string>
@@ -1907,8 +1900,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="webull_title">Webull</string>
      <string name="weibo_name">New post</string>
      <string name="weibo_parent">Weibo</string>
-     <string name="whatsapp_parent">WhatsApp</string>
-     <string name="whatsapp_photos">Photos</string>
      <string name="which_transport">ปกติคุณเดินทางไปยังจุดหมายปลายทางได้อย่างไร?</string>
      <string name="widget_fav">Favorites</string>
      <string name="widget_fav_open">Show favorite card</string>
@@ -1918,7 +1909,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
      <string name="widget_more">View more</string>
      <string name="widget_no_data">No favorites yet.</string>
      <string name="widget_title">Recently added</string>
-     <string name="wx_aa">Go Dutch</string>
+     <string name="wx_aa">Power</string>
      <string name="wx_collectioncode">Receive payment</string>
      <string name="wx_name">My card</string>
      <string name="wx_parent">WeChat</string>

@@ -46,12 +46,14 @@
      <string name="action_bar_return">ย้อนกลับ</string>
      <string name="action_label">Return</string>
      <string name="action_text_card_manager">ช่อง</string>
+     <string name="ad_card_connecting">连接中</string>
      <string name="ad_card_download_count">%1$d人下载</string>
      <string name="ad_card_download_count_million">%1$d万人下载</string>
      <string name="ad_card_download_use_count">%1$d人正在用</string>
      <string name="ad_card_download_use_count_million">%1$d万人正在用</string>
      <string name="ad_card_downloading">下载中</string>
      <string name="ad_card_install">立即安装</string>
+     <string name="ad_card_installed">已安装</string>
      <string name="ad_card_installing">安装中</string>
      <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
      <string name="ad_card_open_app">马上打开</string>
@@ -77,6 +79,7 @@
      <string name="anti_aggression_day">反侵略日</string>
      <string name="anti_aggression_day_tradition">反侵略日</string>
      <string name="app_label">ปฏิทิน</string>
+     <string name="app_name">common</string>
      <string name="app_not_found">ไม่พบแอปที่เลือก</string>
      <string name="arbor_day">植树节</string>
      <string name="arbor_day_tradition">植樹節</string>
@@ -107,7 +110,7 @@
      <string name="birthday_term">วันเกิด</string>
      <string name="birthday_term_chinese_calendar">%1$s&apos;s birthday (Traditional Chinese calendar)</string>
      <string name="book_card_free">免费</string>
-     <string name="book_card_rating_text">%1$s 条评论</string>
+     <string name="book_card_rating_text">|   %1$s 条评论</string>
      <string name="calendar_permission_desc">จัดการเหตุการณ์</string>
      <string name="can_not_create_long_event">ชื่อกำหนดการยาวเกินไป</string>
      <string name="can_not_modify_allday_event">ไม่สามารถเปลี่ยนกำหนดการทั้งวันได้</string>
@@ -115,8 +118,6 @@
      <string name="can_not_modify_repeating_acrossing_days_event">ไม่สามารถเปลี่ยนกำหนดการหลายวันได้</string>
      <string name="cancel_reminder">ยกเลิกการเตือน</string>
      <string name="cancel_reminder_later">Cancel reminder</string>
-     <string name="card_credit_repayment">还款日期</string>
-     <string name="card_credit_today">今日</string>
      <string name="card_detail_dialog_message">%1$s จะอัปเดททุกๆวัน สมัครเพื่อรับการอัพเดตรายวัน</string>
      <string name="card_detail_dialog_negative">สมัครในภายหลัง</string>
      <string name="card_detail_dialog_positive">สมัครทันที</string>
@@ -140,6 +141,8 @@
      <string name="chongsha">冲煞</string>
      <string name="christmas_day">圣诞节</string>
      <string name="christmas_day_tradition">聖誕節</string>
+     <string name="city_limit_back_icon_tip">返回日历首页</string>
+     <string name="city_limit_set_icon_tip">设置提醒</string>
      <string name="clear_and_bright">清明</string>
      <string name="clear_and_bright_tradition">清明</string>
      <string name="clear_net_mock_success">Net mock clear success</string>
@@ -181,9 +184,12 @@
      <string name="creating_event">สร้างกิจกรรมแล้ว</string>
      <string name="creating_event_with_guest">กำลังส่งคำเชิญ…</string>
      <string name="credit">信用卡</string>
+     <string name="credit_card_date_label">还款日：</string>
+     <string name="credit_card_number_label">卡号：</string>
      <string name="credit_currency">元</string>
-     <string name="credit_detail_amount_label">本期应还</string>
+     <string name="credit_detail_amount_label">应还</string>
      <string name="credit_detail_sms_content">SMS contents</string>
+     <string name="credit_detail_today">今日：</string>
      <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
      <string name="credit_event_title">信用卡账单</string>
      <string name="daily">ทุกวัน</string>
@@ -223,6 +229,7 @@
      <string name="done">ส่งคืน</string>
      <string name="double_seventh_day">七夕</string>
      <string name="double_seventh_day_tradition">七夕</string>
+     <string name="download">下载</string>
      <string name="downloading">下载中</string>
      <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
      <string name="easter">复活节</string>
@@ -241,6 +248,7 @@
      <string name="edit_event_countdown_name_empty_hint">ป้อนชื่อกำหนดการ</string>
      <string name="edit_event_countdown_name_hint">กำหนดการ</string>
      <string name="edit_event_custom_reminder_time_dup">Custom reminder: %1$s</string>
+     <string name="edit_event_custom_reminder_title">Set custom reminder</string>
      <string name="edit_event_dislike_title">您取消日程创建的原因？</string>
      <string name="edit_event_from_label">จาก</string>
      <string name="edit_event_input_year">ป้อนปี</string>
@@ -260,7 +268,7 @@
      <string name="edit_event_to_label">ถึง</string>
      <string name="electricity_amount_label">用电量</string>
      <string name="electricity_bill_event_title">电费缴费：</string>
-     <string name="electricity_detail_title">缴费信息</string>
+     <string name="electricity_detail_title">电费缴费</string>
      <string name="electricity_event_delete_successfully">电费缴费事件删除成功</string>
      <string name="email_guests_label">ส่งอีเมลถึงแขก</string>
      <string name="email_install_hint">จดหมายถูกถอนการติดตั้งแล้ว กรุณาติดตั้งจดหมายอีกครั้งเพื่อเรียกคืนค่าบัญชีปฏิทินหรือเพิ่มใหม่</string>
@@ -304,6 +312,8 @@
      <string name="fb_calendar_account_name">Mi ปฎิทินท้องถิ่น</string>
      <string name="fb_calendar_display_name">วันเกิดเพื่อนใน Facebook</string>
      <string name="fb_calendar_owner_account">Mi ปฏิทิน</string>
+     <string name="feed_actionbar_day">日</string>
+     <string name="feed_close_open_feed">开启今日关注</string>
      <string name="feed_dislike_reason">不感兴趣</string>
      <string name="feed_guide_dialog_title">选择感兴趣频道</string>
      <string name="feed_guide_setting_close">退订今日关注</string>
@@ -357,7 +367,7 @@
      <string name="fools_day_tradition">愚人節</string>
      <string name="fortune_birthday">生日</string>
      <string name="fortune_card_caiwei">财位：</string>
-     <string name="fortune_card_set_bazi">获取运势</string>
+     <string name="fortune_card_set_bazi">设置生辰八字</string>
      <string name="fortune_card_set_bazi_simple">设置生辰</string>
      <string name="fortune_card_taohua">桃花：</string>
      <string name="fortune_card_working">事业学业运势：</string>
@@ -375,9 +385,6 @@
      <string name="gas_amount_label">用气量</string>
      <string name="gas_bill_event_title">燃气缴费：</string>
      <string name="gas_cost_label">需缴费</string>
-     <string name="gas_detail_account_name">户号</string>
-     <string name="gas_detail_deadline">计费截止日期：%1$s</string>
-     <string name="gas_detail_header_title">电费交费提醒</string>
      <string name="gas_detail_name">户号：%1$s</string>
      <string name="gas_detail_title">燃气缴费</string>
      <string name="gas_event_delete_successfully">燃气缴费事件删除成功</string>
@@ -435,7 +442,7 @@
      <string name="horoscope_card_comprehensive">综合运势：</string>
      <string name="horoscope_card_financial">财富运势：</string>
      <string name="horoscope_card_love">爱情运势：</string>
-     <string name="horoscope_card_set_bazi">设置星座</string>
+     <string name="horoscope_card_set_bazi">点击设置星座运势</string>
      <string name="horoscope_card_working">事业运势：</string>
      <string name="horoscope_select_activity_label">เลือกสัญลักษณ์ราศี</string>
      <string name="hotel_detail_title">Hotel details</string>
@@ -490,7 +497,7 @@
      <string name="life_card_title">生活提醒</string>
      <string name="light_snow">小雪</string>
      <string name="light_snow_tradition">小雪</string>
-     <string name="limit">限行尾号</string>
+     <string name="limit">限行</string>
      <string name="limit_after_tomorrow">后天</string>
      <string name="limit_card_limit_desc">限行尾号</string>
      <string name="limit_card_no_limit_data_desc">暂无限行数据</string>
@@ -500,7 +507,6 @@
      <string name="limit_card_preview_desc">订阅并设置限行提醒后更新数据</string>
      <string name="limit_card_set_reminder">设置提醒</string>
      <string name="limit_city_label">城市选择</string>
-     <string name="limit_detail_title">城市限行</string>
      <string name="limit_no_city">无城市数据</string>
      <string name="limit_notification_date_format">M月d日(EE)</string>
      <string name="limit_notification_text">%1$s%2$s限行尾号:%3$s</string>
@@ -616,6 +622,7 @@
      <string name="new_years_day">元旦</string>
      <string name="new_years_day_tradition">元旦</string>
      <string name="news">ข่าว</string>
+     <string name="next_alarm_time">Next reminder at %1$s</string>
      <string name="no_contact_birthday_hint">ไม่พบวันเกิดที่จะนำเข้า</string>
      <string name="no_events_hint">ไม่มีกิจกรรม</string>
      <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
@@ -666,10 +673,6 @@
      <string name="peace_day">和平紀念</string>
      <string name="peace_day_tradition">和平紀念</string>
      <string name="pengzu">彭祖</string>
-     <string name="permission_accounts">For signing in and managing your system account, and associating items with it</string>
-     <string name="permission_contacts">For syncing the birthdays of your contacts and sending reminders</string>
-     <string name="permission_main_purpose">Viewing and managing calendar events, planning trips, receiving reminders, and subscribing to services</string>
-     <string name="permission_storage">For saving reminders and ringtones</string>
      <string name="phone_num">Phone</string>
      <string name="prefDefault_alerts_vibrateWhen">never</string>
      <string name="prefDefault_alerts_vibrate_false">never</string>
@@ -706,7 +709,9 @@
      <string name="preferences_import_train">火车票</string>
      <string name="preferences_import_travel">机票火车票</string>
      <string name="preferences_notification_ringtone_title">เสียง</string>
+     <string name="preferences_popup_alert_smart_summary">MIUI will identify which events are most relevant automatically</string>
      <string name="preferences_popup_alert_smart_summary_new">Time-sensitive events are the events with an exact time</string>
+     <string name="preferences_popup_alert_smart_tips">Replace traditional notifications with pop-up alerts to avoid missing important events. Pop-up alerts won&apos;t appear when you&apos;re playing games, watching fullscreen videos, or using Car mode.</string>
      <string name="preferences_popup_alert_title">Pop-up alerts</string>
      <string name="preferences_show_indic_date_title">แสดงปฏิทินอินเดีย</string>
      <string name="preferences_title">ปฏิทิน</string>
@@ -724,16 +729,19 @@
      <string name="refreshing_hint">รอสักครู่…</string>
      <string name="remind_me">เตือนความจำ</string>
      <string name="reminder_later">Remind later</string>
+     <string name="reminder_later_notification_time_format">HH:mm</string>
      <string name="reminder_overdue">Expired</string>
      <string name="repeat_activity_label">กำหนดการซ้ำ</string>
      <string name="repeat_alarm_changed_credit_event">Always remind about credit card bills</string>
      <string name="repeat_alarm_changed_electricity_event">Always remind about electricity bills</string>
+     <string name="repeat_alarm_changed_event">Set repeated reminder</string>
      <string name="repeat_alarm_changed_flight_event">Always remind about flights</string>
      <string name="repeat_alarm_changed_gas_event">Always remind about gas bills</string>
      <string name="repeat_alarm_changed_hotel_event">Always remind about hotels</string>
      <string name="repeat_alarm_changed_loan_event">Always remind about loan repayments</string>
      <string name="repeat_alarm_changed_movie_event">Always remind about movies</string>
      <string name="repeat_alarm_changed_ony_selected">Just for this time</string>
+     <string name="repeat_alarm_changed_title">This is a repeated event. Set reminder?</string>
      <string name="repeat_alarm_changed_train_event">Always remind about trains</string>
      <string name="repeat_alarm_close_title">This is a repeated event. Turn off alarm reminder?</string>
      <string name="repeat_alarm_open_title">This is a repeated event. Set alarm reminder?</string>
@@ -769,7 +777,6 @@
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">ทำซ้ำ</string>
-     <string name="required_permissions">android.permission.RECEIVE_SMS;android.permission.READ_PHONE_STATE;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.GET_ACCOUNTS;</string>
      <string name="response_maybe">อาจจะ</string>
      <string name="response_no">ไม่</string>
      <string name="response_yes">ใช่</string>
@@ -816,7 +823,13 @@
      <string name="setting_title_debug">导出日志</string>
      <string name="setting_title_holiday_display">แสดงวันหยุด</string>
      <string name="setting_title_import_todo">Import tasks</string>
+     <string name="setting_title_limit_card_desc">位于日历首页的限行卡片,该服务需要联网</string>
+     <string name="setting_title_limit_card_display">显示限行服务</string>
+     <string name="setting_title_lottery_card_desc">位于日历首页的彩票开奖卡片，该服务需要联网</string>
+     <string name="setting_title_lottery_card_display">彩票开奖服务</string>
      <string name="setting_title_policy">นโยบายความเป็นส่วนตัว</string>
+     <string name="setting_title_shift_card_desc">位于日历首页的倒班助手卡片,该服务需要联网</string>
+     <string name="setting_title_shift_card_display">显示倒班助手</string>
      <string name="setting_title_weather_card_desc">位于农历卡片右侧的天气信息</string>
      <string name="setting_title_weather_card_display">显示天气服务</string>
      <string name="setting_title_yiji_display">显示黄历宜忌</string>
@@ -896,7 +909,6 @@
      <string name="subscribe_channel_title">ช่อง</string>
      <string name="subscribing_card">สมัครแล้ว</string>
      <string name="subscription_service">订阅服务</string>
-     <string name="subscription_service_unsupported">未同意联网权限，无法使用订阅服务</string>
      <string name="summer_begins">立夏</string>
      <string name="summer_begins_tradition">立夏</string>
      <string name="summer_solstice">夏至</string>
@@ -964,6 +976,7 @@
      <string name="train_event_error_toast">Couldn&apos;t load info</string>
      <string name="train_event_error_train_info">Couldn&apos;t verify ticket</string>
      <string name="train_event_more_info">Scheduling, Wi-Fi, etc.</string>
+     <string name="train_event_reminder">Remind %1$s in advance</string>
      <string name="train_event_service">Train services</string>
      <string name="train_event_station_date_format">MM/dd</string>
      <string name="train_event_station_header_arrive_time">Arrives</string>

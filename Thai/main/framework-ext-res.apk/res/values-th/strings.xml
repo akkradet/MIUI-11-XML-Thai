@@ -81,7 +81,7 @@
      <string name="global_actions_reboot">รีบูต</string>
      <string name="global_actions_shutdown">ปิดเครื่อง</string>
      <string name="global_actions_silent_mode">โหมดปิดเสียง</string>
-     <string name="gotosetting">Festlegen</string>
+     <string name="gotosetting">تەڭشەش</string>
      <string name="handy_mode_enter_dlg_msg">เข้าสู่โหมดถนัดมือ?</string>
      <string name="handy_mode_enter_dlg_title">เข้าสู่โหมดถนัดมือ</string>
      <string name="handy_mode_summary">ออกจากโหมดนี้ได้โดยแตะบริเวณที่ว่างขอบจอ</string>
@@ -232,7 +232,7 @@
      <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
      <string name="status_bar_toggle_cast">ฉายภาพ</string>
      <string name="status_bar_toggle_data">ข้อมูลมือถือ</string>
-     <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
+     <string name="status_bar_toggle_data_action">com.android.phone/.settings.PreferredNetworkTypeListPreference</string>
      <string name="status_bar_toggle_edit">เรียงลำดับ</string>
      <string name="status_bar_toggle_flight_mode">เครื่องบิน</string>
      <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>

@@ -8,7 +8,6 @@
      <string name="enable_float_notification">อนุญาตให้ใช้หน้าต่างแจ้งเตือน</string>
      <string name="enable_lockscreen_notification">อนุญาตให้ใช้การแจ้งเตือนหน้าจอล็อก</string>
      <string name="enable_show_badge_notification">อนุญาตให้ใช้สัญลักษณ์แจ้งเตือน</string>
-     <string name="expand_top_notification">Expand top notification</string>
      <string name="expandable_under_keyguard">เปิดแถบการแจ้งเตือนบนหน้าจอล็อก</string>
      <string name="float_notifications">การแจ้งเตือนหน้าต่างลอย</string>
      <string name="hint_search_all">ค้นหาแอป</string>
