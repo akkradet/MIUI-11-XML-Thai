@@ -1299,7 +1299,7 @@ Broadcasting uses low-power Bluetooth signals.</string>
      <string name="bluetooth_pairing">กำลังจับคู่…</string>
      <string name="bluetooth_pairing_accept">จับคู่</string>
      <string name="bluetooth_pairing_accept_all_caps">จับคู่</string>
-     <string name="bluetooth_pairing_decline">ยกเลิก </string>
+     <string name="bluetooth_pairing_decline">ยกเลิก </string>
      <string name="bluetooth_pairing_device_down_error_message">ไม่สามารถสื่อสารกับ %1$s</string>
      <string name="bluetooth_pairing_dialog_contants_request">%1$s ต้องการเข้าถึงรายชื่อติดต่อและประวัติการโทร</string>
      <string name="bluetooth_pairing_dialog_paring_request">%1$s ต้องการจับคู่ผ่านบลูทูธ เมื่อเชื่อมต่อแล้วจะสามารถเข้าถึงรายชื่อติดต่อและประวัติการโทรของคุณได้</string>
@@ -1485,7 +1485,7 @@ Wiedergabequalität</string>
      <string name="bootloader_status_locked_info">อุปกรณ์ดังกล่าวถูกล็อกอยู่</string>
      <string name="bootloader_status_locked_summary">โทรศัพท์ของคุณปลอดภัย</string>
      <string name="bootloader_status_privacy_dialog_message">Mi Unlock ต้องการเข้าถึง บัญชี Mi ของคุณ เพื่อให้ CPU ID, IMEI, IMSI ทำงานตามปกติ เรารวบรวม ใช้ และประมวลผลข้อมูลของคุณตาม %s ของเรา ตกลงหรือไม่?</string>
-     <string name="bootloader_status_privacy_dialog_no">ยกเลิก </string>
+     <string name="bootloader_status_privacy_dialog_no">ยกเลิก </string>
      <string name="bootloader_status_privacy_dialog_title">สิทธิ์ที่จำเป็น</string>
      <string name="bootloader_status_privacy_dialog_url_text">นโยบายความเป็นส่วนตัว</string>
      <string name="bootloader_status_privacy_dialog_yes">ตกลง</string>
@@ -1495,7 +1495,7 @@ Wiedergabequalität</string>
      <string name="bootloader_summary">แฟรชอุปกรณ์ของคุณผ่าน USB</string>
      <string name="bootloader_tips">หลังจากที่คุณเพิ่มบัญชี Mi อย่าเพิ่งลงชื่อออก ดำเนินการรีเซ็ตค่าโรงงาน หรือล้างข้อมูลระบบแอป หากคุณทำการใดๆข้างต้นให้เพิ่มบัญชีของคุณอีกครั้ง มิเช่นนั้นคุณจะไม่สามารถรูปแบบปลดล็อกอุปกรณ์ของคุณ</string>
      <string name="bootloader_tips_ok">รับทราบ</string>
-     <string name="bootloader_tips_warning">Don&apos;t disconnect from the network, sign out of your Mi Account, perform a factory reset, or erase system data.</string>
+     <string name="bootloader_tips_warning">Do not disconnect from the network, sign out of your Mi Account, perform a factory reset, or erase system data.</string>
      <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="breathing_light_color_menu_title">เลือกสีของไฟสถานะ</string>
      <string name="breathing_light_color_summary">สีของไฟสถานะเมื่อได้รับการแจ้งเตือนใหม่</string>
@@ -1636,12 +1636,12 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
      <string name="camera_laser_sensor_switch">เซ็นเซอร์เลเซอร์ของกล้อง</string>
      <string name="camera_rear">หลัง %s</string>
      <string name="camera_summary">Kameraeinstellungen (ohne Fotos)</string>
-     <string name="cancel">ยกเลิก </string>
+     <string name="cancel">ยกเลิก </string>
      <string name="cancel_action">ยกเลิก</string>
      <string name="cancel_alert">ยกเลิกการเปลี่ยนแปลง?</string>
      <string name="cancel_all_caps">Скасувати</string>
      <string name="cancel_backup">Anhalten</string>
-     <string name="cancel_button">ยกเลิก </string>
+     <string name="cancel_button">ยกเลิก </string>
      <string name="cancel_description">Скасувати</string>
      <string name="cancel_download_buton_text">ยกเลิก</string>
      <string name="cancel_lock_screen_dialog_button_label">Abbrechen</string>
@@ -2281,7 +2281,6 @@ https://appleid.apple.com/#!&amp;page=signin để đóng</string>
      <string name="data_warning">เตือนปริมาณอินเทอร์เน็ต</string>
      <string name="data_warning_footnote">อุปกรณ์จะวัดคำเตือนปริมาณอินเทอร์เน็ตและขีดจำกัดอินเทอร์เน็ต ซึ่งอาจต่างจากข้อมูลของผู้ให้บริการ</string>
      <string name="datausage_overview_mobile_title">DI ĐỘNG</string>
-     <string name="datausage_overview_mobile_usage">%s trong %s</string>
      <string name="datausage_overview_mobile_usage_warning">Quá giới hạn %s</string>
      <string name="datausage_overview_tab">Tổng quan</string>
      <string name="datausage_overview_wifi_today">Hôm nay</string>
@@ -2512,7 +2511,7 @@ https://appleid.apple.com/#!&amp;page=signin để đóng</string>
      <string name="dialog_restrict_all_wlan_summary">การเชื่อมต่อ Wifi จะถูกจำกัด สำหรับแอพทั้งหมดหลังจากนี้</string>
      <string name="dialog_restrict_all_wlan_title">จำกัดการเชื่อมต่อ Wi-Fi</string>
      <string name="dialog_restrict_negative">จำกัด</string>
-     <string name="dialog_restrict_positive">ยกเลิก </string>
+     <string name="dialog_restrict_positive">ยกเลิก </string>
      <string name="dialog_speaker_auto_clean_button">Verstanden</string>
      <string name="dialog_speaker_auto_clean_content">Reinigung dauert 30 Sekunden. Diese Seite nicht verlassen. Klanglautstärke für den besten Effekt maximieren.</string>
      <string name="dialog_speaker_auto_clean_title">Achtung</string>
@@ -2976,7 +2975,7 @@ Einige Apps funktionieren eventuell erst, wenn sie von ihren Entwicklern aktuali
      <string name="enterprise_privacy_wipe_device">ผู้ดูแลระบบสามารถลบข้อมูลทั้งหมดในอุปกรณ์</string>
      <string name="eq_auto">ปรับแต่ง</string>
      <string name="eq_blues">บลูส์</string>
-     <string name="eq_cancel">ยกเลิก </string>
+     <string name="eq_cancel">ยกเลิก </string>
      <string name="eq_classical">คลาสสิค</string>
      <string name="eq_country">คันทรี่</string>
      <string name="eq_dance">แด๊นซ์</string>
@@ -3237,9 +3236,9 @@ Sicherungsdateien nicht ändern oder umbenennen.</string>
      <string name="fluency_mode_confirm_and_reboot">รีบูตเดี๋ยวนี้</string>
      <string name="fluency_mode_confirm_title">Перезавантажити пристрій?</string>
      <string name="fluency_mode_confirm_will_fluency_mode_text">Для застосування налаштувань потрібне перезавантаження</string>
-     <string name="fluency_mode_confirm_will_normal_mode_text">Увімкнення анімації й використання додаткової пам&apos;яті може вплинути на продуктивність деяких пристроїв</string>
+     <string name="fluency_mode_confirm_will_normal_mode_text">Увімкнення анімації й використання додаткової пам яті може вплинути на продуктивність деяких пристроїв</string>
      <string name="fluency_mode_enabled_name">Оптимізація системи</string>
-     <string name="fluency_mode_summary">Вимкнути системну анімацію і зменшити використання пам&apos;яті</string>
+     <string name="fluency_mode_summary">Вимкнути системну анімацію і зменшити використання пам яті</string>
      <string name="fold_title">กฎการแจ้งเตือนของกลุ่ม</string>
      <string name="following_us_facebook">facebook</string>
      <string name="following_us_instagram">instagram</string>
@@ -3782,10 +3781,10 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?</string>
      <string name="key_combination_power_home">เปิด/ปิด + โฮม</string>
      <string name="key_combination_power_menu">เปิด/ปิด + เมนู</string>
      <string name="key_fsg_dialog_message">คุณใช้ท่าทางสัมผัสแบบเต็มหน้าจอสำหรับการนำทาง คุณลักษณะที่เกี่ยวข้องกับปุ่มจะใช้ไม่ได้ในขณะนี้ สลับเป็นปุ่มหรือไม่?</string>
-     <string name="key_fsg_dialog_negative">ยกเลิก </string>
+     <string name="key_fsg_dialog_negative">ยกเลิก </string>
      <string name="key_fsg_dialog_positive">สลับไปยังปุ่ม</string>
      <string name="key_gesture_function_dialog_message">%1$s เป็นทางลัดสำหรับ %2$s แทนที่ด้วย %3$s หรือไม่?</string>
-     <string name="key_gesture_function_dialog_negative">ยกเลิก </string>
+     <string name="key_gesture_function_dialog_negative">ยกเลิก </string>
      <string name="key_gesture_function_dialog_positive">แทนที่</string>
      <string name="key_gesture_function_optional">ท่าทางและการกดแป้นพิมพ์ที่เลือกได้</string>
      <string name="key_gesture_function_preview">กลวิธีการแตะและปุ่มที่ใช้งาน</string>
@@ -3982,7 +3981,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?</string>
      <string name="launching_pho">กำลังเปิดใช้ข้อมูลโทรศัพท์…</string>
      <string name="launching_rep">กำลังรายงาน…</string>
      <string name="layout_exhuge_font_take_effect_tips">ขนาดข้อความ XXL จำทำงานบนโทรศัพท์ ข้อความและรายชื่อติดต่อเท่านั้น</string>
-     <string name="layout_exhuge_font_tips">ตัวเลือกพร้อมใช้งานเพิ่มเติมใน  %1$s</string>
+     <string name="layout_exhuge_font_tips">ตัวเลือกพร้อมใช้งานเพิ่มเติมใน  %1$s</string>
      <string name="layout_exhuge_font_tips_reg">สิ่งอำนวยความสะดวก > ขนาดหน้าจอ</string>
      <string name="layout_size_exhuge">XXL</string>
      <string name="layout_size_exhuge_text">XXL</string>
@@ -4246,7 +4245,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"ตั้งรหัส PIN 
  สำหรับพื้นที่ทับซ้อน"</string>
      <string name="lockpassword_choose_your_pin_message">เพื่อความปลอดภัย โปรดตั้ง PIN</string>
-     <string name="lockpassword_choose_your_pin_title">ป้อน %d-%d ตัวเลข</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">ป้อน %d-%d ตัวเลข</string>
      <string name="lockpassword_choose_your_screen_lock_header">ตั้งค่าการล็อกหน้าจอ</string>
      <string name="lockpassword_clear_label">ล้าง</string>
      <string name="lockpassword_confirm_for_second_user">ยืนยันรหัสผ่านพื้นที่ทับซ้อนของคุณ</string>
@@ -4606,7 +4605,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?</string>
      <string name="miracast_connection_failed_generic">Không thể kết nối đến thiết bị hiển thị</string>
      <string name="miracast_dialog_title">%1$s</string>
      <string name="miracast_disable_dhcp">Tắt HDCP</string>
-     <string name="miracast_disconnect_dialog">Якщо Ви відволічетесь, з&apos;єднання з %1$s буде завершене.</string>
+     <string name="miracast_disconnect_dialog">Якщо Ви відволічетесь, з єднання з %1$s буде завершене.</string>
      <string name="miracast_display_category">Hiển thị</string>
      <string name="miracast_empty_list">Пошук бездротових дисплеїв…</string>
      <string name="miracast_enable_dhcp">Bật HDCP</string>
@@ -4737,15 +4736,15 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?</string>
      <string name="miui_sos_contacts_add">รายชื่อติดต่อฉุกเฉิน</string>
      <string name="miui_sos_contacts_category">รายชื่อติดต่อฉุกเฉิน</string>
      <string name="miui_sos_emergency_contacts">รายชื่อติดต่อฉุกเฉิน</string>
-     <string name="miui_sos_emergency_contacts_quantity">%d hinzugefügt</string>
+     <string name="miui_sos_emergency_contacts_quantity" formatted="false">%d hinzugefügt</string>
      <string name="miui_sos_emergency_delete">Delete</string>
-     <string name="miui_sos_emergency_delivered_sms">%1s (%2s) ยอมรับแล้ว</string>
+     <string name="miui_sos_emergency_delivered_sms"  formatted="false">%1s (%2s) ยอมรับแล้ว</string>
      <string name="miui_sos_emergency_delivered_sms_noname">%1s ยอมรับแล้ว</string>
-     <string name="miui_sos_emergency_failed_sms">ไม่สามารถส่งข้อความไปยัง %1s (%2s)</string>
+     <string name="miui_sos_emergency_failed_sms" formatted="false">ไม่สามารถส่งข้อความไปยัง %1s (%2s)</string>
      <string name="miui_sos_emergency_failed_sms_noname">ไม่สามารถส่งข้อความไปยัง %1s</string>
      <string name="miui_sos_enable_switch_summary">กดปุ่มเปิด/ปิดเครื่อง 5 ครั้งเพื่อส่งข้อความฉุกเฉินกับตำแหน่งพิกัดของคุณไปยังรายชื่อฉุกเฉินของคุณ</string>
      <string name="miui_sos_enable_switch_title">ฉุกเฉิน</string>
-     <string name="miui_sos_exit_dialog_cancel">ยกเลิก </string>
+     <string name="miui_sos_exit_dialog_cancel">ยกเลิก </string>
      <string name="miui_sos_exit_dialog_message">คุณเปิดใช้งานฉุกเฉิน SOS ข้อมูลตำแหน่งพิกัดของคุณจะถูกส่งไปยังรายชื่อติดต่อฉุกเฉิน ปิดใช้งานหรือไม่?</string>
      <string name="miui_sos_exit_dialog_ok">ตกลง</string>
      <string name="miui_sos_exit_dialog_title">ปิดการใช้งานฉุกเฉิน SOS</string>
@@ -4860,18 +4859,18 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden.</string>
      <string name="move_app_dlg_text">Процес може зайняти кілька хвилин. Не відключайте SD карту.</string>
      <string name="move_app_failed_dlg_text">ไม่สามารถย้ายแอปพลิเคชัน %1$s</string>
      <string name="move_app_failed_dlg_title" />
-     <string name="move_app_free_on_device">%1$s вільно у внутрішній пам&apos;яті</string>
+     <string name="move_app_free_on_device">%1$s вільно у внутрішній пам яті</string>
      <string name="move_app_free_on_sdcard">%1$s вільно на SD карті</string>
-     <string name="move_app_progress_to_device">Переміщення %1$s у внутрішню пам&apos;ять…</string>
+     <string name="move_app_progress_to_device">Переміщення %1$s у внутрішню пам ять…</string>
      <string name="move_app_progress_to_sdcard">Переміщення %1$s на SD карту…</string>
-     <string name="move_app_to_device_dlg_title">Перемістити програму у внутрішню пам&apos;ять?</string>
+     <string name="move_app_to_device_dlg_title">Перемістити програму у внутрішню пам ять?</string>
      <string name="move_app_to_internal">ย้ายไปที่โทรศัพท์</string>
      <string name="move_app_to_sdcard">ย้ายไปยังการ์ด SD</string>
      <string name="move_app_to_sdcard_dlg_title">Перемістити програму на SD карту?</string>
      <string name="move_error_device_admin">ไม่สามารถติดตั้งแอปผู้ดูแลระบบอุปกรณ์ในสื่อภายนอก</string>
      <string name="moving">กำลังย้าย</string>
      <string name="mqs_privacy_automatically_upload">อัพโหลดโดยอัตโนมัติในภายหลัง</string>
-     <string name="mqs_privacy_dialog_cancel">ยกเลิก </string>
+     <string name="mqs_privacy_dialog_cancel">ยกเลิก </string>
      <string name="mqs_privacy_dialog_confirm">อัพโหลด</string>
      <string name="mqs_privacy_dialog_content">อัปโหลดบันทึกเพื่อช่วยในการค้นหาและแก้ไขปัญหานี้หรือไม่? บันทึกอาจมีข้อมูลส่วนบุคคลของคุณรวมทั้งข้อมูลเกี่ยวกับสถานที่ของคุณ</string>
      <string name="mqs_privacy_dialog_title">เกิดข้อผิดพลาด</string>
@@ -5105,7 +5104,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden.</string>
      <string name="new_device_suggestion_summary">ทัวร์ชมโทรศัพท์เครื่องใหม่</string>
      <string name="new_device_suggestion_title">มีอะไรใหม่และน่าสนใจบ้าง</string>
      <string name="new_password_to_new_fingerprint_dialog_msg">สแกนลายนิ้วมือของคุณเพื่อใช้ปลดล็อกหน้าจอ</string>
-     <string name="new_password_to_new_fingerprint_dialog_negative_msg">ยกเลิก </string>
+     <string name="new_password_to_new_fingerprint_dialog_negative_msg">ยกเลิก </string>
      <string name="new_password_to_new_fingerprint_dialog_positive_msg">เพิ่ม</string>
      <string name="new_password_to_new_fingerprint_dialog_tittle">เพิ่มลายนิ้วมือ</string>
      <string name="next_button_label">ถัดไป</string>
@@ -5194,7 +5193,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden.</string>
      <string name="night_mode_title">Thema</string>
      <string name="night_mode_yes">Dunkel</string>
      <string name="no">ไม่</string>
-     <string name="no_account_found">Couldn&apos;t find apps which can add accounts</string>
+     <string name="no_account_found">Couldn t find apps which can add accounts</string>
      <string name="no_all_caps">НІ</string>
      <string name="no_application">ไม่มี</string>
      <string name="no_applications">ไม่มีแอปใดๆ</string>
@@ -5249,7 +5248,7 @@ Der Wechsel zu %1$s wird Ihren %2$s-Dienst nicht beenden.</string>
      <string name="notch_settings">Notch</string>
      <string name="notch_style_mod_description">Notch and status bar display options</string>
      <string name="notch_style_mod_title">Hide notch</string>
-     <string name="notch_style_show">Don&apos;t hide</string>
+     <string name="notch_style_show">Do not hide</string>
      <string name="notch_style_status_bar_inside">Hide without moving status bar</string>
      <string name="notch_style_status_bar_outside">Hide and move status bar</string>
      <string name="note_title">Notizen</string>
@@ -5436,7 +5435,7 @@ Dies ermöglicht es der App auch, Nicht stören ein- und auszuschalten und die e
      <string name="notifications_sent_never">ไม่เลย</string>
      <string name="notifications_sent_weekly">~%1$s ต่อสัปดาห์</string>
      <string name="notifications_silenced">ปิดเสียงเตือน</string>
-     <string name="notifications_summary_divider"> / </string>
+     <string name="notifications_summary_divider"> / </string>
      <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
      <string name="notifications_title">การแจ้งเตือน</string>
      <string name="notifications_two_items">%1$s / %2$s</string>
@@ -5623,7 +5622,7 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
      <string name="paper_mode_customize_time_title">กำหนดช่วงเวลาเอง</string>
      <string name="paper_mode_end_time_title">ปิดใช้งาน</string>
      <string name="paper_mode_get_location_dlg_msg">การเข้าถึงตำแหน่งของคุณจำเป็นต้องใช้ในการคำนวณเวลาสำหรับพระอาทิตย์ตกและขึ้น</string>
-     <string name="paper_mode_get_location_dlg_negative_btn_text">ยกเลิก </string>
+     <string name="paper_mode_get_location_dlg_negative_btn_text">ยกเลิก </string>
      <string name="paper_mode_get_location_dlg_positive_btn_text">ไปที่เมนูการตั้งค่า</string>
      <string name="paper_mode_get_location_dlg_title">ตั้งตำแหน่งพิกัด</string>
      <string name="paper_mode_side_effect_hint">ความเข้มสูงอาจส่งผลกระทบต่อวิธีแสดงเนื้อหา</string>
@@ -6151,7 +6150,7 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
      <string name="privacy_dashboard_summary">Berechtigungen, Kontoaktivitäten, persönliche Daten</string>
      <string name="privacy_dashboard_title">Datenschutz</string>
      <string name="privacy_delete_space_dlg_message">แก้ไขรหัสผ่านพื้นที่ทับซ้อน คุณจะต้องลบพื้นที่ทับซ้อนปัจจุบันของคุณและสร้างใหม่</string>
-     <string name="privacy_dlg_button_cancel">ยกเลิก </string>
+     <string name="privacy_dlg_button_cancel">ยกเลิก </string>
      <string name="privacy_factory_reset_dlg_button_text">รีเซ็ต</string>
      <string name="privacy_factory_reset_dlg_message">หากคุณลืมรหัสผ่านของคุณ คุณจะต้องดำเนินการรีเซ็ตให้เป็นค่าจากโรงงานเพื่อตั้งค่าใหม่</string>
      <string name="privacy_factory_reset_dlg_title">สำรองข้อมูลของคุณ</string>
@@ -6234,7 +6233,7 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
      <string name="process_stats_avg_ram_use">Середнє використання ОЗП</string>
      <string name="process_stats_bg_ram_use">การใช้ RAM (พื้นหลัง)</string>
      <string name="process_stats_max_ram_use">Максимальне використання ОЗП</string>
-     <string name="process_stats_memory_status">Поточна пам&apos;ять: %1$s</string>
+     <string name="process_stats_memory_status">Поточна пам ять: %1$s</string>
      <string name="process_stats_os_cache">แคช</string>
      <string name="process_stats_os_kernel">เคอร์เนล</string>
      <string name="process_stats_os_label">ระบบปฏิบัติการ Android</string>
@@ -6616,7 +6615,7 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
      <string name="runningservices_settings_title">บริการที่กำลังใช้งาน</string>
      <string name="runtime_permissions_summary_no_permissions_granted">ไม่มีการมอบสิทธิ์</string>
      <string name="runtime_permissions_summary_no_permissions_requested">ไม่มีการขอสิทธิ์</string>
-     <string name="rx_link_speed">%1$d Mbit/s</string>
+     <string name="rx_link_speed">%1$d Mbit/s</string>
      <string name="rx_link_speed_label">Verbindungsgeschwindigkeit erhalten:</string>
      <string name="rx_wifi_speed">Verbindungsgeschwindigkeit erhalten</string>
      <string name="safety_and_regulatory_info">คู่มือความปลอดภัยและกฎข้อบังคับ</string>
@@ -6654,7 +6653,7 @@ Mindestens %s freigeben.</string>
      <string name="screen">หน้าจอ</string>
      <string name="screen_button">Bildschirmtasten</string>
      <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string>
-     <string name="screen_cancel">ยกเลิก </string>
+     <string name="screen_cancel">ยกเลิก </string>
      <string name="screen_cells_config_title">Bố cục Màn hình chính</string>
      <string name="screen_color_and_optimize">สี &amp; ความเปรียบต่าง</string>
      <string name="screen_color_and_optimize_disabled">ไม่สามารถปรับอุณหภูมิสีในโหมดอ่านได้</string>
@@ -7435,7 +7434,7 @@ Ihr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, z
      <string name="show_screen_updates_summary">แฟลชหน้าต่างพื้นผิวทั้งหมดเมื่ออัพเดท</string>
      <string name="show_search_bar_title">Show search</string>
      <string name="show_silently">Show silently</string>
-     <string name="show_silently_summary">Don&apos;t make sound, vibrate, or peek these notifications into view on the current screen.</string>
+     <string name="show_silently_summary">Do not make sound, vibrate, or peek these notifications into view on the current screen.</string>
      <string name="show_soft_keyboard_permanently">Завжди показувати клавіатуру</string>
      <string name="show_system_app">System-Apps anzeigen</string>
      <string name="show_touches">แสดงการแตะ</string>
@@ -7664,7 +7663,7 @@ PIN อาจไม่ถูกต้อง"</string>
      <string name="sort_order_recent_notification">ล่าสุด</string>
      <string name="sort_order_size">จัดเรียงตามขนาด</string>
      <string name="sos_privacy_and_content_policy">ข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัว</string>
-     <string name="sos_privacy_dialog_button_cancel">ยกเลิก </string>
+     <string name="sos_privacy_dialog_button_cancel">ยกเลิก </string>
      <string name="sos_privacy_dialog_button_ok">ยอมรับ</string>
      <string name="sos_privacy_dialog_message">"อ่านและยอมรับใน %s ของเราก่อนใช้คุณลักษณะนี้ 
 คุณลักษณะนี้จำเป็นต้องใช้สิทธิ์การเข้าถึงตำแหน่ง ใช้เครือข่ายมือถือ และอ่านรายชื่อติดต่อของคุณ ยอมรับหรือไม่?"</string>
@@ -7724,8 +7723,8 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator.</string>
      <string name="standard_configuration_version_rear_camera_mi3">13 МП</string>
      <string name="standard_configuration_version_screen_resolution">1920 × 1080</string>
      <string name="standard_configuration_version_screen_resolution_mi3">1920 × 1080</string>
-     <string name="standard_configuration_version_screen_size">5.15&apos;</string>
-     <string name="standard_configuration_version_screen_size_mi3">5&apos;</string>
+     <string name="standard_configuration_version_screen_size">5.15 </string>
+     <string name="standard_configuration_version_screen_size_mi3">5 </string>
      <string name="standard_info">การโทรและการแจ้งเตือนจะถูกปิดเสียง</string>
      <string name="standby_bucket_summary">แอปสแตนบาย สถานะ: %s</string>
      <string name="start_backup">Sichern</string>
@@ -7946,7 +7945,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator.</string>
      <string name="storage_menu_rename">เปลี่ยนชื่อ</string>
      <string name="storage_menu_set_up">ตั้งค่า</string>
      <string name="storage_menu_unmount">นำอุปกรณ์ออก</string>
-     <string name="storage_menu_usb">USB підключення до комп&apos;ютера</string>
+     <string name="storage_menu_usb">USB підключення до комп ютера</string>
      <string name="storage_mount_failure">ไม่สามารถต่อเชื่อม%1$s</string>
      <string name="storage_mount_success">ต่อเชื่อม%1$sแล้ว</string>
      <string name="storage_movies_tv">แอปภาพยนตร์และทีวี</string>
@@ -8119,7 +8118,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator.</string>
      <string name="summary_range_verbal_combination">%1$s ถึง %2$s</string>
      <string name="super_resolution_access_title">Accessible apps</string>
      <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
-     <string name="super_resolution_maintain">Super resolution isn&apos;t available yet.</string>
+     <string name="super_resolution_maintain">Super resolution isn t available yet.</string>
      <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
      <string name="super_resolution_reboot_tips">This feature allows to make blurry images in WeChat and Toutiao crisper. Launch apps again after you turn this feature on.</string>
      <string name="super_resolution_title">Super resolution</string>
@@ -8305,24 +8304,11 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator.</string>
      <string name="tethering_hardware_offload">การเร่งฮาร์ดแวร์การแชร์เครือข่าย</string>
      <string name="tethering_hardware_offload_summary">ใช้การเร่งฮาร์ดแวร์การแชร์เครือข่าย หากมี</string>
      <string name="tethering_help_button_text">ความช่วยเหลือ</string>
-     <string name="tethering_help_dialog_text"> <b>USB tethering</b> 
- You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
-
-1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
-
-2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
-
- <b>Portable WLAN hotspot</b> 
- You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
-
-1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
-
-2.You configure the hotspot with the WLAN hotspot settings.</string>
-     <string name="tethering_help_dialog_title">Help</string>
+     <string name="tethering_help_dialog_title">ช่วยเหลือ</string>
      <string name="tethering_no_sim_alert_title">No SIM Card</string>
      <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
      <string name="tethering_settings_not_available">แก้ไขการแชร์เครือข่ายในพื้นที่ปกติ</string>
-     <string name="tethering_settings_summary">Share your device&apos;s mobile data connection via USB or a Mobile HotSpot</string>
+     <string name="tethering_settings_summary">Share your device s mobile data connection via USB or a Mobile HotSpot</string>
      <string name="the_way_of_wakeup_voice_assistant_summary">ปลุกการสั่งงานด้วยเสียงในโหมดเต็มจอ (ไม่มีปุ่มเสมือน)</string>
      <string name="theme_customization_accent_color_title">Akzentfarbe</string>
      <string name="theme_customization_category">Themen</string>
@@ -8693,7 +8679,7 @@ Gefällt Ihnen Mi Mover?</string>
      <string name="two_cdma_dialog_msg">Khe cắm 1 và 2 không thể hỗ trợ CDMA cùng lúc.</string>
      <string name="two_lines_app_title">ชื่อแอป 2 บรรทัด</string>
      <string name="twohours">1 ชั่วโมง</string>
-     <string name="tx_link_speed">%1$d Mbit/s</string>
+     <string name="tx_link_speed">%1$d Mbit/s</string>
      <string name="tx_link_speed_label">Übertragungsgeschwindigkeit:</string>
      <string name="tx_wifi_speed">Übertragungsgeschwindigkeit</string>
      <string name="uicc_eject">Gỡ lưu trữ UICC</string>
@@ -8806,7 +8792,7 @@ Gefällt Ihnen Mi Mover?</string>
      <string name="unlock_set_unlock_password_title">รหัสผ่าน</string>
      <string name="unlock_set_unlock_pattern_summary">ใช้นิ้ววาดรูปแบบที่ใช้ในการปลดล็อกหน้าจอ</string>
      <string name="unlock_set_unlock_pattern_title">รูปแบบ</string>
-     <string name="unlock_set_unlock_pin_summary">ป้อน %d-%d หมายเลขเพื่อปลดล็อกอุปกรณ์</string>
+     <string name="unlock_set_unlock_pin_summary" formatted="false">ป้อน %d-%d หมายเลขเพื่อปลดล็อกอุปกรณ์</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">ตั้งการล็อกหน้าจอ</string>
      <string name="unlock_setup_wizard_fingerprint_details">เมื่อคุณได้ตั้งค่าการล็อกหน้าจอแล้ว คุณยังสามารถตั้งค่าลายนิ้วมือได้ในการตั้งค่า > ความปลอดภัย</string>
@@ -8851,16 +8837,16 @@ Gefällt Ihnen Mi Mover?</string>
      <string name="usage_state_app_usage_detail_title">รายละเอียดการใช้แอป</string>
      <string name="usage_state_app_usage_list_title">เวลาหน้าจอของแอป</string>
      <string name="usage_state_app_usage_list_week_title">เวลาหน้าจอของแอป</string>
-     <string name="usage_state_app_usage_tip_title">เวลาหน้าจอระหว่าง %d:00 และ %d:00</string>
+     <string name="usage_state_app_usage_tip_title" formatted="false">เวลาหน้าจอระหว่าง %d:00 และ %d:00</string>
      <string name="usage_state_app_use_time">เวลาหน้าจอแอป</string>
      <string name="usage_state_channel_mouth">30 วันที่ผ่านมา</string>
      <string name="usage_state_channel_week">7 วันที่ผ่านมา</string>
      <string name="usage_state_date">d MMM</string>
-     <string name="usage_state_device_noti_today_tip_title">การแจ้งเตือนระหว่าง %d:00 และ %d:00</string>
-     <string name="usage_state_device_unlock_today_tip_title">ปลดล็อกอุปกรณ์ระหว่าง %d:00 และ %d:00</string>
+     <string name="usage_state_device_noti_today_tip_title" formatted="false">การแจ้งเตือนระหว่าง %d:00 และ %d:00</string>
+     <string name="usage_state_device_unlock_today_tip_title" formatted="false">ปลดล็อกอุปกรณ์ระหว่าง %d:00 และ %d:00</string>
      <string name="usage_state_friday">ศุกร์</string>
      <string name="usage_state_go_more">แอปเพิ่มเติม</string>
-     <string name="usage_state_hour_minute">%dชั่วโมง %dนาที</string>
+     <string name="usage_state_hour_minute" formatted="false">%dชั่วโมง %dนาที</string>
      <string name="usage_state_less_one_minute">น้อยกว่า 1 นาที</string>
      <string name="usage_state_monday">จันทร์</string>
      <string name="usage_state_mourth_day">เวลาหน้าจอวันที่ %s</string>
@@ -8877,16 +8863,16 @@ Gefällt Ihnen Mi Mover?</string>
      <string name="usage_state_today">วันนี้</string>
      <string name="usage_state_today_total_text">เวลาหน้าจอวันนี้</string>
      <string name="usage_state_tuesday">อังคาร</string>
-     <string name="usage_state_unlock_mourth_day">ปลดล็อกวันที่ %s</string>
+     <string name="usage_state_unlock_mourth_day" formatted="false">ปลดล็อกวันที่ %s</string>
      <string name="usage_state_usage_time">เวลาหน้าจอ</string>
      <string name="usage_state_usage_time_remind">แจ้งเตือนเวลาหน้าจอ</string>
      <string name="usage_state_use_time_remind_title">แจ้งเตือนเวลาหน้าจอ</string>
      <string name="usage_state_wednesday">พุธ</string>
-     <string name="usage_state_week_day_hour_minute">วันหยุดสุดสัปดาห์: %dชม. %dน.</string>
+     <string name="usage_state_week_day_hour_minute" formatted="false">วันหยุดสุดสัปดาห์: %dชม. %dน.</string>
      <string name="usage_state_week_total_text">เวลาหน้าจอ (7 วันที่ผ่านมา)</string>
      <string name="usage_state_which_mouth">MMM</string>
      <string name="usage_state_work_day">วันธรรมดา</string>
-     <string name="usage_state_work_day_hour_minute">วันธรรมดา: %dชม. %dน.</string>
+     <string name="usage_state_work_day_hour_minute" formatted="false">วันธรรมดา: %dชม. %dน.</string>
      <string name="usage_stats_label">สถิติการใช้งาน</string>
      <string name="usage_stats_normal_day">วันธรรมดา</string>
      <string name="usage_stats_week_day">วันหยุดสุดสัปดาห์</string>
@@ -8922,11 +8908,11 @@ Gefällt Ihnen Mi Mover?</string>
      <string name="usagestats_app_category_miui_tools">เครื่องมือ</string>
      <string name="usagestats_app_category_miui_undefined">อื่นๆ</string>
      <string name="usagestats_app_category_miui_video_etc">เพลงและวิดีโอ</string>
-     <string name="usagestats_device_notification_des">จำกัดเวลาบนหน้าจอของวันนี้: %s</string>
+     <string name="usagestats_device_notification_des" formatted="false">จำกัดเวลาบนหน้าจอของวันนี้: %s</string>
      <string name="usagestats_device_notification_des_over">วันนี้คุณได้ใช้หน้าจอถึงเวลาที่จำกัดแล้ว</string>
-     <string name="usagestats_device_notification_des_reset">ขอบเขตของวันนี้: %s | คงเหลือ %s</string>
+     <string name="usagestats_device_notification_des_reset" formatted="false">ขอบเขตของวันนี้: %s | คงเหลือ %s</string>
      <string name="usagestats_device_notification_title">แจ้งเตือนเวลาหน้าจอ</string>
-     <string name="usagestats_device_timeout_des">วันนี้คุณใช้อุปกรณ์มาเป็นเวลา %d ชั่วโมง %d นาที พักสักหน่อย!</string>
+     <string name="usagestats_device_timeout_des" formatted="false">วันนี้คุณใช้อุปกรณ์มาเป็นเวลา %d ชั่วโมง %d นาที พักสักหน่อย!</string>
      <string name="usagestats_device_timeout_negative">เตือนใน 1 ชั่วโมง</string>
      <string name="usagestats_device_timeout_positive">รับทราบ</string>
      <string name="usagestats_device_timeout_title">แจ้งเตือนเวลาหน้าจอ</string>
@@ -9335,7 +9321,7 @@ Speicher freigeben oder nur wichtige Elemente übertragen.</string>
      <string name="vpn_replace">แทนที่</string>
      <string name="vpn_replace_always_on_vpn_disable_message">คุณเชื่อมต่ออยู่กับ VPN แบบเปิดตลอดเวลาแล้ว หากเชื่อมต่อรายการอื่น ระบบจะแทนที่ VPN ที่มีอยู่และปิดโหมดเปิดตลอดเวลา</string>
      <string name="vpn_replace_always_on_vpn_enable_message">ระบบจะแทนที่ VPN ที่มีอยู่และคุณจะไม่มีการเชื่อมต่ออินเทอร์เน็ตจนกว่า VPN จะเชื่อมต่อสำเร็จ</string>
-     <string name="vpn_replace_always_on_vpn_message">You&apos;re already connected to a VPN. If you connect to a different one, your existing VPN will be replaced.</string>
+     <string name="vpn_replace_always_on_vpn_message">You re already connected to a VPN. If you connect to a different one, your existing VPN will be replaced.</string>
      <string name="vpn_replace_always_on_vpn_title">Replace existing VPN?</string>
      <string name="vpn_replace_vpn_message">คุณเชื่อมต่ออยู่กับ VPN แล้ว หากเชื่อมต่อรายการอื่น ระบบจะแทนที่ VPN ที่มีอยู่</string>
      <string name="vpn_replace_vpn_title">แทนที่ VPN ที่มีอยู่หรือไม่</string>
@@ -9480,7 +9466,7 @@ Bitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters.</string>
      <string name="wifi_alert_lockdown_by_device_owner">%1$s verwaltet Ihr Gerät und erlaubt nicht, dieses WLAN zu ändern oder zu löschen. Für weitere Informationen kontaktieren Sie Ihren Administrator.</string>
      <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
      <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
-     <string name="wifi_and_mobile_skipped_message">WARNING: If you skip WLAN, your phone won&apos;t have an Internet connection to use for any initial downloads or updates.</string>
+     <string name="wifi_and_mobile_skipped_message">WARNING: If you skip WLAN, your phone won t have an Internet connection to use for any initial downloads or updates.</string>
      <string name="wifi_ap_2G">2.4 GHz</string>
      <string name="wifi_ap_5G">5.0 GHz</string>
      <string name="wifi_ap_band_config">เลือกย่านความถี่ AP</string>
@@ -9648,7 +9634,7 @@ WLAN Assistant</string>
      <string name="wifi_display_certification_heading">Certification</string>
      <string name="wifi_display_certification_summary">แสดงตัวเลือกสำหรับการรับรองแสดงผลแบบไร้สาย</string>
      <string name="wifi_display_details">การตั้งค่าการแสดงผล</string>
-     <string name="wifi_display_disconnect_text">З&apos;єднання буде завершене: %1$s</string>
+     <string name="wifi_display_disconnect_text">З єднання буде завершене: %1$s</string>
      <string name="wifi_display_disconnect_title">Вимкнути?</string>
      <string name="wifi_display_enable_menu_item">เปิดใช้การแสดงผลแบบไร้สาย</string>
      <string name="wifi_display_listen_channel">Listen channel</string>
@@ -9865,7 +9851,7 @@ WLAN Assistant</string>
      <string name="wifi_password">รหัสผ่าน</string>
      <string name="wifi_poor_network_detection">หลีกเลี่ยงการเชื่อมต่อที่สัญญาณไม่แรงพอ</string>
      <string name="wifi_poor_network_detection_summary">เชื่อมต่อกับ Wi-Fi ก็ต่อเมื่อคุณภาพการเชื่อมต่ออยู่ในเกณฑ์ที่ดีเท่านั้น</string>
-     <string name="wifi_priority_changed">ค่าเดิม %s | ค่าใหม่ %s</string>
+     <string name="wifi_priority_changed" formatted="false">ค่าเดิม %s | ค่าใหม่ %s</string>
      <string name="wifi_priority_label">ความสำคัญ</string>
      <string name="wifi_priority_settings_label">การตั้งค่าลำดับความสำคัญ</string>
      <string name="wifi_priority_settings_summary">จัดลำดับความสำคัญของจุดเข้าใช้งาน (APN)</string>
@@ -9903,13 +9889,13 @@ Für alle Apps, die scannen möchten, erlauben?</string>
  อนุญาตให้ดำเนินการนี้สำหรับแอปทั้งหมดที่ต้องการสแกนหรือไม่"</string>
      <string name="wifi_scan_notify_remember_choice">ไม่ต้องแสดงข้อความนี้อีก</string>
      <string name="wifi_scan_notify_text">เพื่อปรับปรุงความแม่นยำของตำแหน่ง แอปและบริการต่างๆ จะยังคงสแกนหาเครือข่าย Wi‑Fi ได้ทุกเมื่อ แม้ว่า Wi‑Fi จะปิดอยู่ การตั้งค่านี้ใช้เพื่อปรับปรุงสิ่งต่างๆ เช่น ฟีเจอร์และบริการตามสถานที่ คุณเปลี่ยนแปลงการตั้งค่านี้ได้ในLINK_BEGINการตั้งค่าการสแกนLINK_END</string>
-     <string name="wifi_scan_notify_text_location_off">Apps may scan for nearby networks, even when WLAN is off. If you don&apos;t want this to happen, go to Advanced &gt; Scanning always available.</string>
-     <string name="wifi_scan_notify_text_location_on">To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don&apos;t want this to happen, go to Advanced &gt; Scanning always available.</string>
+     <string name="wifi_scan_notify_text_location_off">Apps may scan for nearby networks, even when WLAN is off. If you Do not want this to happen, go to Advanced &gt; Scanning always available.</string>
+     <string name="wifi_scan_notify_text_location_on">To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you Do not want this to happen, go to Advanced &gt; Scanning always available.</string>
      <string name="wifi_scan_notify_text_scanning_off">เปิดการสแกน Wi-Fi ในLINK_BEGINการตั้งค่าการสแกนLINK_ENDเพื่อปรับปรุงความแม่นยำของตำแหน่ง</string>
      <string name="wifi_scan_throttling">WLAN-Scan-Drosselung</string>
      <string name="wifi_scan_throttling_summary">Reduziert den Akkuverbrauch &amp; verbessert die Netzwerkleistung</string>
-     <string name="wifi_secured_first_item">Захист %1$s</string>
-     <string name="wifi_secured_second_item">, захист %1$s</string>
+     <string name="wifi_secured_first_item" formatted="false" >Захист %1$s</string>
+     <string name="wifi_secured_second_item" formatted="false">, захист %1$s</string>
      <string name="wifi_security">ความปลอดภัย</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
      <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -10010,7 +9996,7 @@ Für alle Apps, die scannen möchten, erlauben?</string>
      <string name="wifi_share_connect">เชื่อมต่อ</string>
      <string name="wifi_share_connected_summary">คุณกำลังเชื่อมต่อกับเครือข่าย Wi-Fi สาธารณะที่แชร์โดยผู้ใช้อื่น</string>
      <string name="wifi_share_connected_title">Wi-Fi ที่แชร์ผ่าน MIUI</string>
-     <string name="wifi_share_count">Sie haben %d Netzwerke geteilt</string>
+     <string name="wifi_share_count" formatted="false" >Sie haben %d Netzwerke geteilt</string>
      <string name="wifi_share_current_network">เครือข่ายปัจจุบัน</string>
      <string name="wifi_share_know">ตกลง</string>
      <string name="wifi_share_list_empty">ไม่พบเครือข่ายที่แชร์</string>
@@ -10072,10 +10058,10 @@ Für alle Apps, die scannen möchten, erlauben?</string>
      <string name="wifi_tether_checkbox_text">ฮอตสปอตแบบพกพา</string>
      <string name="wifi_tether_configure_ap_text">ติดตั้งฮอตสปอตแบบพกพา</string>
      <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-     <string name="wifi_tether_configure_subtext">%1$s %2$s แบบพกพา</string>
+     <string name="wifi_tether_configure_subtext" formatted="false">%1$s %2$s แบบพกพา</string>
      <string name="wifi_tether_disabled_by_airplane">ใช้งานไม่ได้เพราะโหมดบนเครื่องบินเปิดอยู่</string>
-     <string name="wifi_tether_enabled_subtext">%1$s ใช้งานอยู่</string>
-     <string name="wifi_tether_enabled_summary">%1$s ใช้งานได้</string>
+     <string name="wifi_tether_enabled_subtext" formatted="false">%1$s ใช้งานอยู่</string>
+     <string name="wifi_tether_enabled_summary" formatted="false">%1$s ใช้งานได้</string>
      <string name="wifi_tether_failed_subtext">ฮอตสปอตแบบพกพาเกิดข้อผิดพลาด</string>
      <string name="wifi_tether_first_use_message">Set up Mobile HotSpot at the First Use</string>
      <string name="wifi_tether_setting_title">การตั้งค่า</string>
