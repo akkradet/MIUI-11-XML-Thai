@@ -1,6 +1,0 @@
-    <string-array name="record_type_values">
-        <item>audio/mpeg</item>
-        <item>audio/amr</item>
-    </string-array>
-    <string-array name="wave_phase">
-    </string-array>
