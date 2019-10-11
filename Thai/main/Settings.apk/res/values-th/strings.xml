@@ -648,7 +648,7 @@ Um zwischen Diensten zu wechseln, mit zwei Fingern nach oben wischen und halten.
      <string name="app_permission_summary_allowed">อนุญาต</string>
      <string name="app_permission_summary_not_allowed">ไม่อนุญาต</string>
      <string name="app_permissions">สิทธิ์ของแอป</string>
-     <string name="app_permissions_group_summary">%d of %d apps allowed</string>
+     <string name="app_permissions_group_summary" formatted="false">%d of %d apps allowed</string>
      <string name="app_permissions_summary">แอปต่างๆ ที่ใช้%1$s</string>
      <string name="app_process_limit_title">กำหนดการดำเนินการในพื้นหลัง</string>
      <string name="app_restrictions_custom_label">ตั้งข้อจำกัดแอป</string>
