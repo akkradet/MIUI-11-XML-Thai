@@ -5496,21 +5496,21 @@ Dies ermöglicht es der App auch, Nicht stören ein- und auszuschalten und die e
      <string name="otg_tip">"USB On-The-Go ช่วยให้ไดรฟ์ USB และแป้นพิมพ์พกพาเชื่อมต่อกับอุปกรณ์มือถือของคุณและแลกเปลี่ยนข้อมูล 
 
 OTG จะปิดโดยอัตโนมัติหลังจากที่ไม่มีการใช้งาน 10 นาที"</string>
-     <string name="other">Andere</string>
+     <string name="other">อื่นๆ</string>
      <string name="other_advanced_settings">การตั้งค่าเพิ่มเติม</string>
      <string name="other_device_info">อื่นๆ</string>
-     <string name="other_input_settings">Zusätzliche Tastatureinstellungen</string>
+     <string name="other_input_settings">การตั้งค่าแป้นพิมพ์เพิ่มเติม</string>
      <string name="other_personal_settings">การตั้งค่าส่วนบุคคล</string>
      <string name="other_relative">อื่นๆ</string>
      <string name="other_settings_sync_settings">ซิงค์</string>
      <string name="other_sound_category_preference_title">เสียงอื่นๆ และการสั่น</string>
      <string name="other_sound_settings">เสียงอื่นๆ</string>
-     <string name="other_sound_settings_title">Weitere Benachrichtigungstöne</string>
-     <string name="others">Other</string>
+     <string name="other_sound_settings_title">เสียงแจ้งเตือนเพิ่มเติม</string>
+     <string name="others">อื่นๆ</string>
      <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
      <string name="overlay_option_device_default">Gerätestandard</string>
      <string name="overlay_settings">แสดงทับแอปอื่นๆ</string>
-     <string name="overlay_toast_failed_to_apply">Überlagerung wurde nicht angewendet</string>
+     <string name="overlay_toast_failed_to_apply">ไม่ได้ใช้การซ้อนทับ</string>
      <string name="owner_info_settings_edit_text_hint">เช่น Android ของสมชาย</string>
      <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="owner_info_settings_summary">ไม่มี</string>
@@ -5523,7 +5523,7 @@ OTG จะปิดโดยอัตโนมัติหลังจากท�
      <string name="page_layout_12">ความปลอดภัย</string>
      <string name="page_layout_13">เครื่องมือ</string>
      <string name="page_layout_14">Ігри</string>
-     <string name="page_layout_15">Програми</string>
+     <string name="page_layout_15">การประยุกต์ใช้งาน</string>
      <string name="page_layout_16">Теми</string>
      <string name="page_layout_17">Життя</string>
      <string name="page_layout_18">ล่าสุด</string>
