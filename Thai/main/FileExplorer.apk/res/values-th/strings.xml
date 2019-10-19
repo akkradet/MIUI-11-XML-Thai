@@ -27,7 +27,6 @@
      <string name="add_private_files">เพิ่มไฟล์</string>
      <string name="all">ทั้งหมด</string>
      <string name="already_latest_version">เวอร์ชันปัจจุบันเป็นเวอร์ชั่นล่าสุด</string>
-     <string name="app_all_purpose">欢迎您使用文件管理器。您可使用本应用以实现管理手机内文件的功能。</string>
      <string name="app_function">Manage files on your device</string>
      <string name="app_name">ตัวจัดการไฟล์</string>
      <string name="app_name_bluetooth">บลูทูธ</string>
@@ -249,7 +248,6 @@
      <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
      <string name="gbk_title">GBK</string>
      <string name="gigabyteShort">GB</string>
-     <string name="grid_mode">Grid view</string>
      <string name="group_title">%2$s ใน %1$s</string>
      <string name="group_title_extra_backup">Backups</string>
      <string name="group_title_extra_expire">About to expire</string>
@@ -276,7 +274,6 @@
      <string name="instruction_pre_phone">Touch to start FTP server</string>
      <string name="just_now">เมื่อสักครู่</string>
      <string name="kilobyteShort">KB</string>
-     <string name="list_mode">List view</string>
      <string name="load_more">ดูเพิ่มเติม</string>
      <string name="loading">รอสักครู่…</string>
      <string name="local_image">รูปภาพ</string>
@@ -382,7 +379,6 @@
      <string name="partial_cancel_successful">ไม่สามารถลบไฟล์บางไฟล์ได้ ย้ายไฟล์ตกค้างไปยัง %s</string>
      <string name="partial_delete_failure">ไม่สามารถลบไฟล์บางส่วนได้ กรุณาลองใหม่</string>
      <string name="partial_encrypt_success">ไม่สามารถซ่อนบางไฟล์ได้ ลองอีกครั้ง</string>
-     <string name="path_name_email">Email</string>
      <string name="permission_denial">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
      <string name="permission_required">ไม่สามารถเข้าถึงไฟล์ได้ อนุญาตให้ตัวจัดการไฟล์เข้าถึงไฟล์ในการตั้งค่า</string>
      <string name="petabyteShort">PB</string>
@@ -508,7 +504,6 @@
      <string name="storage_sd_card">SD การ์ด</string>
      <string name="storage_usb">ที่เก็บข้อมูล USB</string>
      <string name="storage_warning">Can&apos;t use external storage</string>
-     <string name="switch_doc_type">Select format</string>
      <string name="sys_size_enable"> available</string>
      <string name="tab_app">ดูเพิ่มเติม</string>
      <string name="tab_category">Categories</string>

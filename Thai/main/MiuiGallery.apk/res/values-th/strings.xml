@@ -48,15 +48,12 @@
      <string name="album_already_forced_top">ตึงไว้บนสุดแล้ว</string>
      <string name="album_bluetooth">บลูทูธ</string>
      <string name="album_camera_name">กล้อง</string>
-     <string name="album_cloud_list_page_title">Manage synced albums</string>
      <string name="album_creative">ภาพที่แก้ไขแล้วของฉัน</string>
      <string name="album_detail_page_empty">ไม่พบรูปภาพหรือวิดีโอ</string>
      <string name="album_download">ดาวน์โหลด</string>
      <string name="album_faces_name">บุคคล</string>
      <string name="album_favorites_name">รายการโปรด</string>
      <string name="album_from_format">จาก %s</string>
-     <string name="album_hidden_item_button_title">Unhide</string>
-     <string name="album_hidden_page_title">Hide</string>
      <string name="album_jump_failed">รอจนกว่าอัลบั้มจะซิงค์ไปยัง Mi คลาวด์ และลองอีกครั้ง</string>
      <string name="album_member">สมาชิกอัลบั้ม %s</string>
      <string name="album_midrop">Mi Drop</string>
@@ -111,7 +108,6 @@
      <string name="app_name">คลังภาพ</string>
      <string name="app_name_view_picture">ดูรูปภาพ</string>
      <string name="app_name_view_video">เรียกดูวิดีโอ</string>
-     <string name="app_summary">Managing and editing your photos and videos on your device and in Xiaomi Cloud</string>
      <string name="apply">Apply</string>
      <string name="assistant_page_discovery">Discover</string>
      <string name="assistant_page_label">ความทรงจำ</string>
@@ -210,8 +206,6 @@
      <string name="blank_app_name" />
      <string name="blur_refocus_enter"></string>
      <string name="browse_category_title">เรียกดู</string>
-     <string name="btn_cancel">Cancel</string>
-     <string name="btn_sure">OK</string>
      <string name="burst_image_download_item_title">ดาวน์โหลดต้นฉบับ (%s|%s)</string>
      <string name="burst_photo_enter"></string>
      <string name="burst_preview_title">ถ่ายต่อเนื่อง</string>
@@ -342,7 +336,6 @@
      <string name="choose_owner_relation">ความสัมพันธ์</string>
      <string name="choose_people">เลือกอัลบั้มของบุคคล</string>
      <string name="choose_some_people">เลือกอัลบั้มของ %s</string>
-     <string name="chooser_fragment_mishare_title">Share to</string>
      <string name="cityname_1">Wallpaper Carousel</string>
      <string name="cityname_10">Anshun</string>
      <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -756,8 +749,6 @@
      <string name="cloud_guide_auto_backup_title">เลือกอัลบั้มที่ต้องการสำรองข้อมูล</string>
      <string name="cloud_guide_login_title">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ</string>
      <string name="cloud_guide_welcome_title">Mi คลาวด์</string>
-     <string name="cloud_privacy_with_ai_album">Privacy statement on automatic backups and image processing</string>
-     <string name="cloud_privacy_with_face">Privacy statement on automatic backups and face recognition</string>
      <string name="cloud_screenshots_display_name">จับภาพหน้าจอ</string>
      <string name="cloud_settings">การสำรองข้อมูลคลังภาพ</string>
      <string name="cloud_storage_extend">ขยายพื้นที่จัดเก็บคลาวด์</string>
@@ -803,8 +794,6 @@
      <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Wechat โมเมนต์</string>
      <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
      <string name="confirm">ตกลง</string>
-     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
-     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
      <string name="confirm_download_video_message">จำเป็นต้องดาวน์โหลดวิดีโอนี้ให้เสร็จก่อนจึงจะสามารถดูได้ ระบบจะดาวน์โหลดวิดีโอต่อจากเดิมเมื่อมีการเชื่อมต่อกับ Wi-Fi</string>
      <string name="confirm_download_video_title">ดาวน์โหลดวิดีโอ</string>
      <string name="confirm_face">ยืนยันบุคคล</string>
@@ -848,7 +837,6 @@
      <string name="debugging_tip">กำลังสร้างข้อมูลปรับแก้ไข</string>
      <string name="decrypt_video_failed">ไม่สามารถเตรียมวิดีโอ</string>
      <string name="decrypting_video">กำลังเตรียมวิดีโอ…</string>
-     <string name="default_device_name">Unknown device</string>
      <string name="default_relation_name">กลุ่มใหม่</string>
      <string name="define_by_user">กำหนดเอง</string>
      <string name="delete">ลบ</string>
@@ -876,9 +864,6 @@
      <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
      <string name="detail_ms">%1$02d:%2$02d</string>
      <string name="detail_title">รายละเอียด</string>
-     <string name="device_name_with_ellipsize">%1$s…</string>
-     <string name="device_offline">The other device is offline. Start over.</string>
-     <string name="device_type_pc">Computer</string>
      <string name="disable_auto_upload_tip">ปิดใช้ซิงค์กับ Mi คลาวด์สำหรับอัลบั้มนี้?</string>
      <string name="disable_auto_upload_title">ปิดใช้การซิงค์กับ Mi คลาวด์</string>
      <string name="do_not_remind_me">ไม่ต้องแสดงอีก</string>
@@ -887,7 +872,6 @@
      <string name="document_provider_guide_step_3">3. แตะปุ่มเมนูด้านข้าง</string>
      <string name="document_provider_guide_step_4">4. เลือก \"SD การ์ด\"</string>
      <string name="document_provider_guide_step_5">5. แตะ \"เลือก\"</string>
-     <string name="double_tap_for_hr_preview_108m">Double tap again to switch to 108MP preview</string>
      <string name="double_tap_to_higher_definition">แตะสองครั้งอีกทีเพื่อดูตัวอย่างรายการแบบ HD</string>
      <string name="download_canceled">ยกเลิกดาวน์โหลดแล้ว</string>
      <string name="download_error_format">ไม่สามารถดาวน์โหลด %s ได้</string>
@@ -929,8 +913,6 @@
      <string name="editphoto_datetime_needdownload_origin_title">Download original</string>
      <string name="email_picker_title">เพิ่มอีเมลที่แชร์</string>
      <string name="empty"></string>
-     <string name="empty_album_cloud_list_title">No albums to sync</string>
-     <string name="empty_album_hidden_list_title">No hidden albums</string>
      <string name="empty_description_conditions">Remember the things that matter</string>
      <string name="empty_description_no_cards">Remember the things that matter</string>
      <string name="empty_query_text_msg">ไม่ทราบสิ่งที่จะค้นหา…</string>
@@ -944,7 +926,6 @@
      <string name="enable_cloud_for_sharing">เปิดใช้อัลบั้ม Mi คลาวด์เพื่อดูรูปภาพที่แชร์</string>
      <string name="enable_face_album_summary">จัดเรียงรูปภาพตามบุคคลในภาพโดยอัตโนมัติ</string>
      <string name="enable_face_album_title">เรียงตามบุคคล</string>
-     <string name="enable_midrop">Turn on</string>
      <string name="enter_choice_mode">เข้าสู่แชร์สนทนา</string>
      <string name="enter_email_hint">ใส่ที่อยู่อีเมล</string>
      <string name="eras_ad">AD</string>
@@ -1061,9 +1042,6 @@
 พร้อมใช้งาน"</string>
      <string name="feature_guidance_video_editor_smart_effects">เอฟเฟ็กต์​ใหม่พร้อมใช้งาน</string>
      <string name="fileSizeSuffix">%1$s%2$s</string>
-     <string name="file_cannot_print">Can&apos;t print this item.</string>
-     <string name="file_cannot_screen_throw">Can&apos;t cast this item.</string>
-     <string name="file_sending">Transferring files…</string>
      <string name="filter_bi_bw">ขาว&amp;ดำ</string>
      <string name="filter_bi_dusk">พลบค่ำ</string>
      <string name="filter_bi_lilt">ลิลท์</string>
@@ -1133,7 +1111,6 @@
      <string name="filter_sky_download_sdk_without_wifi_title">ดาวน์โหลดปลั๊กอิน</string>
      <string name="filter_sky_dusk">พลบค่ำ</string>
      <string name="filter_sky_glow">เรืองแสง</string>
-     <string name="filter_sky_hint">Skyscaping</string>
      <string name="filter_sky_rainbow">รุ้ง</string>
      <string name="filter_sky_sunny">แจ่มใส</string>
      <string name="filter_sky_sunset">พระอาทิตย์ตก</string>
@@ -1199,7 +1176,6 @@
      <string name="friday">Friday</string>
      <string name="friday_short">Fri</string>
      <string name="friday_shortest">F</string>
-     <string name="functions_are_being_developed">This feature will be available soon. Stay tuned!</string>
      <string name="gallery_setting">การตั้งค่า</string>
      <string name="gallery_sync_disable_toast">การซิงค์คลังภาพปิดอยู่</string>
      <string name="generate_story_summary">MIUI will analyze your photos and create memories. Turn this feature off to stop creating memories.</string>
@@ -1234,7 +1210,6 @@
      <string name="home_page_empty_action">ถ่ายรูป</string>
      <string name="home_page_label">รูปภาพ</string>
      <string name="how_to_set_relation">กดค้างไว้ที่อัลบั้มเพื่อสร้างกลุ่ม</string>
-     <string name="hr_preview_108m">Switched to 108MP preview</string>
      <string name="hybrid_check_network">การตั้งค่าเครือข่าย</string>
      <string name="hybrid_data_error">เกิดข้อผิดพลาด</string>
      <string name="hybrid_locating_fail">ไม่พบตำแหน่งพิกัดของคุณ</string>
@@ -1329,10 +1304,6 @@
      <string name="merge_album">ควบรวม</string>
      <string name="merge_album_title">ควบรวมกับใครสักคน</string>
      <string name="messagelist_sender_self">ฉัน</string>
-     <string name="mi_9t">Mi 9T</string>
-     <string name="mi_9t_pro">Mi 9T Pro</string>
-     <string name="mi_a3">Mi A3</string>
-     <string name="mi_drop">Mi Share</string>
      <string name="micloud_introduce">สำรองข้อมูลรูปภาพและวิดีโอโดยอัตโนมัติ (ต้องใช้บัญชี Mi)</string>
      <string name="midnight">AM</string>
      <string name="monday">Monday</string>
@@ -1439,10 +1410,8 @@
      <string name="movie_template_xmas">คริสมาสต์</string>
      <string name="movie_video_long">วิดีโอยาวกว่า</string>
      <string name="movie_video_short">วิดีโอ 10วิ</string>
-     <string name="multi_file_name">%1$s, %2$s</string>
      <string name="must_pick_file">เลือกรูปภาพ</string>
      <string name="name_split">, </string>
-     <string name="name_with_ellipsize">%1$s…%2$s</string>
      <string name="need_to_turn_on_network">อุปกรณ์ยังไม่ได้เชื่อมกับต่ออินเตอร์เน็ต</string>
      <string name="need_to_turn_on_sync">เปิดใช้การซิงค์กับ Mi คลาวด์</string>
      <string name="need_to_turn_on_sync_first">เปิดใช้ซิงค์กับ Mi คลาวด์ก่อน</string>
@@ -1516,8 +1485,6 @@
      <string name="operation_too_often">ระบบตรวจพบคำร้องขอจากเลขหมายไอพีเดียวกับคุณเกินจำนวนครั้งที่กำหนด กรุณารอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
      <string name="operation_unforce_top">เลิกปักหมุด</string>
      <string name="operation_unhide">เลิกซ่อน</string>
-     <string name="oppo">OPPO</string>
-     <string name="oppo_phone">OPPO</string>
      <string name="orientation_lock_tip">หมุนอัตโนมัติปิดอยู่</string>
      <string name="orientation_unlock_tip">หมุนอัตโนมัติเปิดอยู่</string>
      <string name="origin_gif_name">ไฟล์ต้นฉบับ</string>
@@ -1526,7 +1493,6 @@
      <string name="other_album">อัลบั้มอื่นๆ</string>
      <string name="other_settings">การตั้งค่าเพิ่มเติม</string>
      <string name="owner_album_subtitle">แชร์กับสมาชิก %1$s คน</string>
-     <string name="pc_device_model_name">Computer</string>
      <string name="people_album_empty_title">ภาพถ่ายสามารถจัดเรียงตามคนในธีม</string>
      <string name="people_jump_failed">รอจนกว่ารูปภาพบุคคลได้ซิงค์ไปยัง Mi คลาวด์เสร็จแล้วลองอีกครั้ง</string>
      <string name="people_mark_mode_title">เลือก \"%s\"</string>
@@ -1535,8 +1501,6 @@
      <string name="people_page_unname">ไม่มีชื่อ</string>
      <string name="percent_sign">%</string>
      <string name="permissin_contract_desc">สำหรับการตั้งชื่อคนในรูปถ่าย</string>
-     <string name="permission_contacts_desc">For assigning contacts to people on photos</string>
-     <string name="permission_contacts_name">Contacts</string>
      <string name="permission_contract_name">รายชื่อผู้ติดต่อ</string>
      <string name="permission_optional_category">สิทธิ์เพิ่มเติม</string>
      <string name="permission_phone_desc">สำหรับคำขอเครือข่ายตาม ID อุปกรณ์</string>
@@ -1672,7 +1636,6 @@
      <string name="projection_device_connection_failed">ไม่สามารถเชื่อมโปรเจคเตอร์ได้</string>
      <string name="projection_local_mobile">โทรศัพท์เครื่องนี้</string>
      <string name="projection_multi_title">อุปกรณ์</string>
-     <string name="projection_screen_project_in_screening">You&apos;re using your device for casting now</string>
      <string name="projection_single_title">ฉายภาพหน้าจอไปที่ %s</string>
      <string name="projection_slide_exit">หยุดแสดงภาพแบบสไลด์</string>
      <string name="projection_slide_fail_cause_loading">รีสตาร์ทภาพแบบสไลด์หลังจากรูปภาพถูกโหลด</string>
@@ -1695,15 +1658,6 @@
      <string name="recovery_merge_or_rename">ควบรวมอัลบั้ม</string>
      <string name="recovery_merge_or_rename_message">มีอัลบั้มที่มีชื่อนี้อยู่แล้ว ควบรวมทันทีหรือไม่?</string>
      <string name="recovery_rename">เปลี่ยนชื่อ</string>
-     <string name="redmi_6">Redmi 6</string>
-     <string name="redmi_6_pro">Redmi 6 Pro</string>
-     <string name="redmi_6a">Redmi 6A</string>
-     <string name="redmi_7a">Redmi 7A</string>
-     <string name="redmi_k20">Redmi K20</string>
-     <string name="redmi_k20_pro">Redmi K20 Pro</string>
-     <string name="redmi_note_5">Redmi Note 5</string>
-     <string name="redmi_note_7">Redmi Note 7</string>
-     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
      <string name="refocus_desc">โฟกัสอีกครั้ง</string>
      <string name="relation_text_empty_alert">เพิ่มข้อมูลความสัมพันธ์</string>
      <string name="relation_text_family">สมาชิกในครอบครัว</string>
@@ -1723,9 +1677,6 @@
      <string name="remove_from_secret_fail">ไม่สามารถลบออกจากอัลบั้มซ่อนได้</string>
      <string name="remove_from_secret_failed_with_reason">ไม่สามารถเพิ่มไปยังอัลบั้มซ่อนได้ %1$s</string>
      <string name="remove_from_secret_successful">นำออกจากอัลบั้มซ่อนแล้ว</string>
-     <string name="remove_hidden_status_success">Removed %s from hidden albums</string>
-     <string name="remove_hidden_status_tip">This album will be displayed among other albums if you unhide it.</string>
-     <string name="remove_hidden_status_title">Unhide</string>
      <string name="remove_to_album_title">ควบรวมกับ</string>
      <string name="remove_to_other_album">ควบรวมกับบุคคลอื่น</string>
      <string name="removed_from_favorites_desc">ลบออกจากรายการโปรดแล้ว</string>
@@ -1746,7 +1697,6 @@
      <string name="request_sms_url_failed">ไม่ได้รับข้อมูล</string>
      <string name="request_sms_url_msg">กำลังร้องขอข้อมูล…</string>
      <string name="request_sms_url_title">คำแนะนำ</string>
-     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
      <string name="retry_to_create_album">ลองอีกครั้ง</string>
      <string name="retry_to_request_qr_code">ลองอีกครั้ง</string>
      <string name="runtime_permission_ungranted">คลังภาพถูกปิดเนื่องจากไม่ได้รับอนุญาต</string>
@@ -1757,7 +1707,6 @@
      <string name="scan_barcode_guide">แตะที่ปุ่มแชร์เพื่อสร้างรหัส QR ของอัลบั้ม</string>
      <string name="scan_barcode_to_join">สแกนรหัส QR เพื่อเพิ่มอัลบั้ม</string>
      <string name="scan_qr_code_buttom_text">สแกนรหัส QR เพื่อแสดงอัลบั้มนี้</string>
-     <string name="scanning_device_tips">Searching for devices nearby… Make sure the other device is in discoverable mode.</string>
      <string name="screen_doodle_talkback_size">ความกว้างของลายเส้น</string>
      <string name="screen_editor_btn_delete">Delete</string>
      <string name="screen_editor_btn_save">Save</string>
@@ -1847,7 +1796,6 @@
      <string name="select_item_face">"บุคคลนี้คือ '%s'?"</string>
      <string name="select_origin_tip">ไฟล์ต้นฉบับ (%s)</string>
      <string name="send_file_beautify_failed">ไม่สามารถแชร์ได้</string>
-     <string name="send_files_to">Send items to</string>
      <string name="send_multiple_files_hint_format">ส่ง (%s)</string>
      <string name="send_public_url">ส่ง URL อัลบั้ม</string>
      <string name="send_secret_file_failed">ไม่สามารถแชร์ได้</string>
@@ -1878,8 +1826,6 @@
      <string name="share_public_url_text">ฉันได้แชร์อัลบั้ม %1$s กับคุณ ดูที่ %2$s</string>
      <string name="share_with_family">แชร์ไปยังครอบครัว</string>
      <string name="sharer_quota_fulfiled">คุณได้แชร์อัลบั้มนี้ให้แก่สมาชิกครบจำนวนที่ระบบกำหนดแล้ว</string>
-     <string name="show_cloud_albumlist_summary">Manage the albums you sync with the cloud</string>
-     <string name="show_hidden_album_summary">View and manage hidden albums</string>
      <string name="show_hidden_album_title">แสดงอัลบั้มที่ซ่อน</string>
      <string name="show_in_other_albums_disable_toast_long_press_menu">ย้ายเรียบร้อย ไปยังอัลบั้มอื่นๆ เพื่อเรียกดู</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">ย้ายเรียบร้อย ไปยังอัลบั้มเพื่อเรียกดู</string>
@@ -2055,8 +2001,6 @@
      <string name="the_valentines_day">Valentines Day</string>
      <string name="the_water_lantern_festival">Water Lantern Festival</string>
      <string name="things_album_empty_title">ภาพถ่ายสามารถจัดเรียงสิ่งต่างๆในธีม</string>
-     <string name="throwing_print">Print</string>
-     <string name="throwing_screen">Cast</string>
      <string name="thumbnail_name">รูปภาพย่อ</string>
      <string name="thursday">Thursday</string>
      <string name="thursday_short">Thu</string>
@@ -2070,7 +2014,6 @@
      <string name="tip_file_path">ตำแหน่งจัดเก็บ:</string>
      <string name="tip_not_download">ไฟล์มีไฟล์บนอุปกรณ์ ดาวน์โหลดจาก Mi คลาวด์ขณะทำการเล่น</string>
      <string name="tip_screenshot_package_info">ชื่อแอป:</string>
-     <string name="tips_prompt_enable_midrop">Share files with devices nearby</string>
      <string name="title_set_name">ป้อนชื่อ</string>
      <string name="title_tip">คำแนะนำ</string>
      <string name="title_warn">คำเตือน</string>
@@ -2098,8 +2041,6 @@
      <string name="unpublish_failed">ไม่สามารถยกเลิกการเผยแพร่อัลบั้ม</string>
      <string name="unpublish_succeeded">ไม่เผยแพร่อัลบั้มแล้ว</string>
      <string name="unpublishing">กำลังยกเลิก…</string>
-     <string name="unrecognized_manufacture">Unknown</string>
-     <string name="unrecognized_model">Unknown device</string>
      <string name="unsupport_video">%s ไม่ทำงานกับวิดีโอ</string>
      <string name="user_agree">เห็นด้วย</string>
      <string name="user_agreement2">เงื่อนไขการให้บริการ</string>
@@ -2217,8 +2158,6 @@
      <string name="view_by_gallery_tip">คลังภาพ MIUI</string>
      <string name="view_face_album">ดูอัลบั้ม</string>
      <string name="view_more_face_desc">เรียกดูบุคคลเพิ่มเติม</string>
-     <string name="vivo">vivo</string>
-     <string name="vivo_phone">vivo</string>
      <string name="voice_assistant">ป้อนด้วยเสียง</string>
      <string name="wednesday">Wednesday</string>
      <string name="wednesday_short">Wed</string>
@@ -2227,27 +2166,7 @@
      <string name="where_is_barcode">รหัส QR อยู่ที่ไหน?</string>
      <string name="which_hdpi">nxhdpi</string>
      <string name="who_is_this">บุคคลนี้คือใคร?</string>
-     <string name="xiaomi">Mi</string>
-     <string name="xiaomi_6">Mi 6</string>
-     <string name="xiaomi_8">Mi 8</string>
-     <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
-     <string name="xiaomi_8_se">Mi 8 SE</string>
-     <string name="xiaomi_8_ud">Mi 8 Pro</string>
-     <string name="xiaomi_8_young">Mi 8 Lite</string>
-     <string name="xiaomi_9">Mi 9</string>
-     <string name="xiaomi_9_se">Mi 9 SE</string>
      <string name="xiaomi_account_not_exists_toast">ไม่พบบัญชี Mi ดังกล่าวในระบบ</string>
-     <string name="xiaomi_cc_9">Mi CC9</string>
-     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
-     <string name="xiaomi_cc_9e">Mi CC9e</string>
-     <string name="xiaomi_max_3">Mi MAX 3</string>
-     <string name="xiaomi_mix_2">Mi MIX 2</string>
-     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
-     <string name="xiaomi_mix_3">Mi MIX 3</string>
-     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
-     <string name="xiaomi_note_3">Mi Note 3</string>
-     <string name="xiaomi_phone">Xiaomi</string>
-     <string name="xiaomi_poco_f1">POCO F1</string>
      <string name="yes">ใช่</string>
      <string name="yesterday">เมื่อวานนี้ </string>
      <string name="you_are">คุณเป็น</string>
