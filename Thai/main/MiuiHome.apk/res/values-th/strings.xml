@@ -341,6 +341,9 @@
     <string name="shake_to_align_icons_summary">เขย่าอุปกรณ์ของคุณในขณะที่อยู่ในโหมดแก้ไขเพื่อเติมเซลล์ที่ว่างด้วยไอคอนโดยอัตโนมัติ</string>
     <string name="shake_to_align_icons_title">เขย่าเพื่อเติมเซลล์ที่ว่าง</string>
     <string name="share">แชร์</string>
+    <string name="shortcut_share_dialog_content">ไฟล์ที่คุณส่งจากโทรศัพท์ของคุณและผู้รับจะถูกเลือกและถูกกำหนดโดยคุณ ระวังตัวเมื่อคุณเลือกไฟล์ที่จะแชร์และเลือกผู้รับ คุณไม่สามารถใช้โทรศัพท์เพื่อส่ง ไวรัส มัลแวร์ โทรจัน ระเบิดเวลา และวัตถุอันตรายอื่นๆ ไปยังผู้อื่น อย่าใช้โทรศัพท์ของคุณเพื่อส่งซอฟต์แวร์ใด ๆ ที่อาจส่งผลต่อการใช้งานปกติของอุปกรณ์ของผู้รับหรือรายการใด ๆ ที่อาจเกิดความเสียหายรบกวนขัดขวางหรือกำจัดข้อมูลระบบหรือข้อมูลส่วนบุคคลใด ๆ บนอุปกรณ์มือถือ คุณจะต้องรับผิดชอบต่อความเสียหายที่เกิดขึ้นกับผู้ใช้รายอื่นหรืออุปกรณ์ปลายทาง Xiaomi จะพยายามอย่างเต็มที่เพื่อให้แน่ใจว่าฟังก์ชั่นการใช้งานร่วมกันรวมถึงเทคโนโลยีและข้อมูลที่เกี่ยวข้องปลอดภัยมีประสิทธิภาพแม่นยำและเชื่อถือได้ อย่างไรก็ตามเนื่องจากข้อจำกัดทางเทคโนโลยีในปัจจุบัน Xiaomi ไม่รับประกันว่าการใช้งานร่วมกันจะสมบูรณ์แบบและจะตอบสนองทุกความต้องการของคุณ</string>
+    <string name="shortcut_share_dialog_positive_button">รับทราบ</string>
+    <string name="shortcut_share_dialog_title">ข้อสงวนสิทธิ์</string>
     <string name="show_all">แสดงทั้งหมด</string>
     <string name="show_mem_info_title">แสดงสถานะหน่วยความจำ</string>
     <string name="show_recents_recommend_title">แสดงคำแนะนำ</string>
@@ -349,7 +352,6 @@
     <string name="sort_by_not_defined">เรียงอัตโนมัติ</string>
     <string name="start_activity_failed">ชุดเรียกใช้ระบบไม่ทำงาน</string>
     <string name="starting_preset_app">กำลังเริ่ม…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">ดาวน์โหลดแล้ว</string>
     <string name="status_downloading">กำลังดาวน์โหลด…</string>
     <string name="status_installing">กำลังติดตั้ง</string>
@@ -380,7 +382,6 @@
     <string name="uninstall_xspace_dialog_title_format">ถอนการติดตั้งคู่ \"%s\"?</string>
     <string name="unknown_artist_name">ศิลปินที่ไม่รู้จัก</string>
     <string name="unnamed_folder_name">โฟลเดอร์</string>
-    <string name="unstable_dialog_content">นี่เป็นเวอร์ชั่นตัวอย่างของรูปภาพระบบ Android และอาจมีการเปลี่ยนแปลง การใช้อิมเมจระบบนี้เป็นไปตามข้อตกลงสิทธิ์การใช้งานตัวอย่างสำหรับ Android SDK รูปภาพระบบตัวอย่าง Android ไม่ใช่รุ่นที่เสถียรและอาจมีข้อผิดพลาดและข้อบกพร่องที่อาจส่งผลให้ระบบคอมพิวเตอร์อุปกรณ์หรือข้อมูลของคุณเสียหาย ภาพตัวอย่างระบบ Android นั้นไม่ได้รับการทดสอบเช่นเดียวกับระบบปฏิบัติการของโรงงาน และอาจทำให้อุปกรณ์นี้บริการที่ติดตั้งหรือแอปพลิเคชันหยุดทำงาน</string>
     <string name="wallpaper">ภาพพื้นหลัง</string>
     <string name="wallpaper_auto_change_title">หน้าจอล็อก</string>
     <string name="wallpaper_failed_message">ไม่สามารถตั้งภาพพื้นหลังได้</string>

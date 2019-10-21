@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">บริการการพิมพ์เริ่มต้น</string>
+    <string name="app_name">บริการระบบการพิมพ์</string>
     <string name="printer_busy">ไม่ว่าง</string>
     <string name="printer_out_of_paper">กระดาษหมด</string>
     <string name="printer_out_of_ink">หมึกหมด</string>

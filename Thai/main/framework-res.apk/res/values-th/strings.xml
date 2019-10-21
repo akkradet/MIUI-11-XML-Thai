@@ -995,8 +995,8 @@
     <string name="permdesc_requestInstallPackages">อนุญาตให้แอปพลิเคชันขอการติดตั้งแพ็กเกจ</string>
     <string name="permdesc_route_media_output">อนุญาตให้แอปพลิเคชันกำหนดเส้นทางเอาต์พุตของสื่อไปยังอุปกรณ์ภายนอกอื่นๆ</string>
     <string name="permdesc_runInBackground">แอปนี้สามารถทำงานในพื้นหลัง ซึ่งอาจทำให้แบตเตอรี่หมดเร็วขึ้น</string>
-    <string name="permdesc_sdcardRead">อนุญาตให้แอปอ่านเนื้อหาในการ์ด SD</string>
-    <string name="permdesc_sdcardWrite">อนุญาตให้แอปพลิเคชันเขียนลงบนการ์ด SD</string>
+    <string name="permdesc_sdcardRead">อนุญาตให้แอปอ่านเนื้อหาในที่จัดเก็บข้อมูล USB</string>
+    <string name="permdesc_sdcardWrite">อนุญาตให้แอปเขียนลงใน USB</string>
     <string name="permdesc_sendSms">อนุญาตให้แอปพลิเคชันส่งข้อความ SMS ซึ่งอาจทำให้มีการเรียกเก็บเงินที่ไม่คาดคิด แอปพลิเคชันที่เป็นอันตรายอาจทำให้คุณเสียค่าใช้จ่ายด้วยการส่งข้อความโดยไม่รอการยืนยันจากคุณ</string>
     <string name="permdesc_setAlarm">อนุญาตให้แอปพลิเคชันตั้งเวลาปลุกในแอปพลิเคชันนาฬิกาปลุกที่ติดตั้ง แอปพลิเคชันนาฬิกาปลุกบางรายการอาจไม่ใช้ฟีเจอร์นี้</string>
     <string name="permdesc_setInputCalibration">อนุญาตให้แอปสามารถปรับพารามิเตอร์การเทียบมาตรฐานของหน้าจอสัมผัส ไม่ควรใช้สำหรับแอปทั่วไป</string>
@@ -1137,8 +1137,8 @@
     <string name="permlab_requestInstallPackages">ขอติดตั้งแพ็กเกจ</string>
     <string name="permlab_route_media_output">กำหนดเส้นทางเอาต์พุตของสื่อ</string>
     <string name="permlab_runInBackground">ทำงานในพื้นหลัง</string>
-    <string name="permlab_sdcardRead">อ่านเนื้อหาในการ์ด SD ของคุณ</string>
-    <string name="permlab_sdcardWrite">แก้ไขหรือลบเนื้อหาในการ์ด SD ของคุณ</string>
+    <string name="permlab_sdcardRead">อ่านเนื้อหาในที่จัดเก็บ USB</string>
+    <string name="permlab_sdcardWrite">แก้ไขหรือลบเนื้อหาใน USB</string>
     <string name="permlab_sendSms">ส่งและดูข้อความ SMS</string>
     <string name="permlab_setAlarm">ตั้งปลุก</string>
     <string name="permlab_setInputCalibration">เปลี่ยนการเทียบมาตรฐานอุปกรณ์อินพุต</string>
@@ -1229,7 +1229,7 @@
     <string name="printing_disabled_by">%s ปิดใช้การพิมพ์แล้ว</string>
     <string name="profile_encrypted_detail">โปรไฟล์งานถูกล็อก</string>
     <string name="profile_encrypted_message">แตะเพื่อปลดล็อกโปรไฟล์งาน</string>
-    <string name="progress_erasing">กำลังลบการ์ด SD...</string>
+    <string name="progress_erasing">กำลังลบที่จัดเก็บข้อมูล USB...</string>
     <string name="quick_contacts_not_available">ไม่พบแอปพลิเคชันที่ใช้ดูรายชื่อติดต่อนี้</string>
     <string name="reason_service_unavailable">บริการพิมพ์ไม่ได้เปิดใช้งาน</string>
     <string name="reason_unknown">ไม่ทราบ</string>
@@ -1477,7 +1477,7 @@
     <string name="usb_ptp_notification_title">เปิดโหมด PTP ผ่าน USB</string>
     <string name="usb_supplying_notification_title">กำลังชาร์จอุปกรณ์ที่เชื่อมต่อผ่าน USB</string>
     <string name="usb_tether_notification_title">เปิดการเชื่อมต่ออินเทอร์เน็ตผ่าน USB</string>
-    <string name="usb_unsupported_audio_accessory_message">อุปกรณ์ที่พ่วงไม่สามารถใช้งานร่วมกับโทรศัพท์นี้ แตะเพื่อเรียนรู้เพิ่มเติม</string>
+    <string name="usb_unsupported_audio_accessory_message">อุปกรณ์ที่พ่วงไม่สามารถใช้งานร่วมกับโทรศัพท์นี้ แตะเพื่อดูข้อมูลเพิ่มเติม</string>
     <string name="usb_unsupported_audio_accessory_title">ตรวจพบอุปกรณ์เสริมสำหรับเสียงแบบแอนะล็อก</string>
     <string name="use_a_different_app">ใช้แอปอื่น</string>
     <string name="user_creation_account_exists">อนุญาตให้ %1$s สร้างผู้ใช้ใหม่ด้วย %2$s ไหม</string>
@@ -1580,6 +1580,9 @@
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_to_message">ถึง:</string>
     <string name="wifi_p2p_turnon_message">เริ่มการทำงาน WiFi Direct ซึ่งจะเป็นการปิดการทำงาน WiFi ไคลเอ็นต์/ฮอตสปอต</string>
+    <string name="wifi_softap_config_change">มีการเปลี่ยนแปลงการตั้งค่าฮอตสปอต</string>
+    <string name="wifi_softap_config_change_detailed">อุปกรณ์นี้ไม่รองรับค่ากำหนดของคุณเฉพาะสำหรับ 5 GHz เท่านั้น และจะใช้ย่านความถี่ 5 GHz แทน เมื่อใช้ได้</string>
+    <string name="wifi_softap_config_change_summary">ย่านความถี่ฮอตสปอตมีการเปลี่ยนแปลง</string>
     <string name="wifi_wakeup_enabled_content">คุณอยู่ใกล้เครือข่ายที่บันทึกไว้ ซึ่งก็คือ %1$s</string>
     <string name="wifi_wakeup_enabled_title">เปิด Wi‑Fi โดยอัตโนมัติแล้ว</string>
     <string name="wifi_wakeup_onboarding_action_disable">ไม่ต้องเปิดอีกครั้ง</string>

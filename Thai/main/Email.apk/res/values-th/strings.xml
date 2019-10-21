@@ -36,7 +36,7 @@
     <string name="account_settings_incoming_summary">ชื่อผู้ใช้ รหัสผ่านและการตั้งค่าต่างๆของเซิร์ฟเวอร์</string>
     <string name="account_settings_login_dialog_content_fmt">"ชื่อบัญชีผู้ใช้หรือรหัสผ่าน %s ไม่ถูกต้อง
  คุณต้องการแก้ไขตอนนี้หรือไม่?"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">ไม่สามารถลงชื่อเข้าใช้งานบัญชี %s ได้ เซิร์ฟเวอร์ระบุสาเหตุว่า: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">ไม่สามารถลงชื่อเข้าใช้งานบัญชี %1$s ได้ เซิร์ฟเวอร์ระบุสาเหตุว่า: %2$s</string>
     <string name="account_settings_login_dialog_title">ไม่สามารถเข้าสู่ระบบ</string>
     <string name="account_settings_mail_check_frequency_dialog_title">คุณต้องรีเฟรชจดหมายด้วยตนเองเมื่อต้องการซิงค์อีเมลของคุณ</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">คุณจะต้องซิงค์เมลด้วยตนเองเพื่อให้สามารถซิงค์ข้อความและกิจกรรมในปฏิทินได้</string>
@@ -759,7 +759,7 @@
     <string name="permission_read_attachment_label">เปิดเอกสารแนบ</string>
     <string name="phone">โทรศัพท์</string>
     <string name="photo_load_failed">ไม่สามารถโหลดภาพได้</string>
-    <string name="photo_view_count" formatted="false">%d จาก %d</string>
+    <string name="photo_view_count">%1$d จาก %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">ป้อนข้อมูลบัญชีอีเมลของคุณ</string>
     <string name="pls_parse_bill_discribe">"วิเคราะห์รายการ และข้อมูลท่องเที่ยวในอีเมล
 เพื่อรับการแจ้งเตือนเกี่ยวกับการชำระเงินและการเดินทางของคุณ"</string>
@@ -904,7 +904,7 @@
     <string name="reply">ตอบกลับ</string>
     <string name="reply_add_bodycontent">เพิ่มการตอบกลับไปยังข้อความ?</string>
     <string name="reply_all">ตอบกลับทั้งหมด</string>
-    <string name="reply_attribution" formatted="false">เมื่อวันที่ %s, %s เขียนว่า:</string>
+    <string name="reply_attribution">เมื่อวันที่ %1$s, %2$s เขียนว่า:</string>
     <string name="report_phishing">รายงานว่าเป็นฟิชชิ่ง</string>
     <string name="report_spam">รายงานสแปม</string>
     <string name="request_copy_db_to_disk">จดหมายกำลังร้องขอเพื่อคัดลอกฐานข้อมูลของคุณลงในไฟล์</string>
@@ -987,7 +987,7 @@
     <string name="storage">พื้นที่</string>
     <string name="str_select_all">เลือกทั้งหมด</string>
     <string name="str_select_none">ยกเลิกที่เลือกทั้งหมด</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">เรื่อง</string>
     <string name="sync_contacts_fail_per_content">แตะเพื่ออนุญาตให้เข้าถึงผู้ติดต่อ</string>
     <string name="sync_contacts_fail_per_title">ไม่สามารถซิงค์รายชื่อได้</string>
@@ -1021,7 +1021,8 @@
     <string name="toast_bar_no_connection_network">คุณยังไม่ได้เชื่อมต่อเครือข่ายอินเตอร์เน็ต</string>
     <string name="toast_bar_open_gmail_synchronization">ไม่สามารถเชื่อมต่อกับ Gmail ได้, เปิดพร็อกซี่ Gmail</string>
     <string name="toast_bar_send_fail_remind">ไม่สามารถส่งอีเมล์ได้ บันทึกไปยังโฟลเดอร์ \"ขาออก\"</string>
-    <string name="toast_bar_sync_failed_mi_authority">"Couldn't sync. Wait a minute or two and try again. If you're signing in for the first time, authorize your device via the intranet/SMS token."</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Couldn't sync. Wait a minute or two and try again. View details.
+(If you're using an unauthorized device, connect to the intranet or use a verification code.)"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">เพื่อซิงค์ข้อมูลปฏิทินและรายชื่อผู้ติดต่อ จำเป็นต้องอนุญาตสิทธิ์จดหมายในการตั้งค่า</string>
     <string name="toastbar_calendar_permission_switch_close">เพื่อรับปฏิทินแจ้งเตือน จำเป็นต้องอนุญาตสิทธิ์จดหมายในการตั้งค่า</string>
     <string name="toastbar_contacts_permission_switch_close">เพื่อเพิ่มรายชื่อผู้ติดต่อ จำเป็นต้องอนุญาตสิทธิ์จดหมายในการตั้งค่า</string>

@@ -92,7 +92,8 @@
         <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
-        <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
+        <item>LHDC</item>
+        <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -103,6 +104,7 @@
         <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
+        <item>LHDC</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
