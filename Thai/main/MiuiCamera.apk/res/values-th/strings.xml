@@ -12,6 +12,9 @@
     <string name="video_camera_label">อัดวิดีโอ</string>
     <string name="no_storage">ใส่ SD การ์ดก่อนใช้งานกล้อง</string>
     <string name="not_enough_space">ที่เก็บข้อมูลในเครื่องเต็ม</string>
+	<string name="pref_watermark_off">ปิด</string>
+    <string name="pref_watermark_on">เปิด</string>
+    <string name="pref_watermark_title">ลายน้ำอุปกรณ์</string>
     <string name="preparing_sd">กำลังตรวจสอบพื้นที่จัดเก็บข้อมูลภายในเครื่อง…</string>
     <string name="access_sd_fail">ไม่สามารถเข้าถึงที่เก็บข้อมูล USB ได้</string>
     <string name="confirm_restore_title">เรียกคืนค่าเริ่มต้น</string>
