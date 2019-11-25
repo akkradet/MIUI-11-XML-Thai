@@ -129,7 +129,6 @@
     <string name="account_setup_incoming_username_label_default_hint">คุณสามารถใส่ชื่อโดเมนได้ด้วย</string>
     <string name="account_setup_need_password_verification">บัญชีของคุณใช้รหัสผ่านสองชั้น จำเป็นต้องได้รับการตรวจสอบ</string>
     <string name="account_setup_options_actionbar_title">การตั้งค่าด่วน</string>
-    <string name="account_setup_options_mail_check_frequency_10min">ทุก 10 นาที</string>
     <string name="account_setup_options_mail_check_frequency_12hour">ทุก 12 ชั่วโมง</string>
     <string name="account_setup_options_mail_check_frequency_1hour">ทุกชั่วโมง</string>
     <string name="account_setup_options_mail_check_frequency_4hour">ทุก 4 ชั่วโมง</string>

@@ -236,7 +236,7 @@
     <string name="contact_detail_miprofile_settings_header">การตั้งค่าเพิ่มเติม</string>
     <string name="contact_detail_miprofile_subtitle">แลกนามบัตรกันแล้ว</string>
     <string name="contact_detail_more_calllog">แสดงเพิ่มเติม</string>
-    <string name="contact_detail_profile_switch_fail_network_toast">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
+    <string name="contact_detail_profile_switch_fail_network_toast">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="contact_detail_profile_switch_fail_toast">พบข้อผิดพลาดจากเซิร์ฟเวอร์</string>
     <string name="contact_detail_profile_switch_off">ปิดใช้งานนามบัตร</string>
     <string name="contact_detail_profile_switch_off_fail_toast">ปิดใช้งานนามบัตรไม่สำเร็จ</string>

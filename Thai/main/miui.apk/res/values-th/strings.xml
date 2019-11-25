@@ -594,4 +594,5 @@
     <string name="select_all_description">เลือกทั้งหมด</string>
     <string name="deselect_all_description">ยกเลิกที่เลือกทั้งหมด</string>
     <string name="delete_description">ลบ</string>
+    <string name="search_action_mode_cancel">ยกเลิก </string>
 </resources>
