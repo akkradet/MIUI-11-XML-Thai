@@ -26,4 +26,5 @@
     <string name="summary_collapsed_preference_list">%1$s %2$s</string>
     <string name="v7_preference_off">ปิด</string>
     <string name="v7_preference_on">เปิด</string>
+	<string name="application_name">เบราเซอร์</string>
 </resources>
