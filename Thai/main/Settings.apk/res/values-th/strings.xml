@@ -7673,5 +7673,4 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">ความละเอียด</string>
     <string name="device_description_screen">ขนาดหน้าจอ</string>
-    <string name="device_details_title">รายละเอียดอุปกรณ์</string>
 </resources>
