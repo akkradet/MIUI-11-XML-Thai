@@ -7740,7 +7740,7 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="two_lines_app_title">ชื่อแอปพลิเคชัน ใน 2 บรรทัด</string>
 	<string name="use_in_theme_server">เซิร์ฟเวอร์ธีมทั่วโลก</string>
 	<string name="use_new_miui_fonts_title">การใช้แบบอักษร MIUI ใหม่</string>
-	<string name="use_new_miui_fonts_summary">ใช้แบบอักษร MIUI ใหม่แทนค่าเริ่มต้น  Roboto ใช้งานได้เฉพาะเมื่อใช้ Default ในธีม"</string>
+	<string name="use_new_miui_fonts_summary">ใช้แบบอักษร MIUI ใหม่แทนค่าเริ่มต้น  Roboto ใช้งานได้เฉพาะเมื่อใช้ Default ในธีม</string>
 	<string name="show_bottom_search_bar_title">แสดงแถบค้นหา</string>
 	<string name="disable_screenshot_secure_title">จับภาพหน้าจอในแอปใดก็ได้</string>
     <string name="disable_screenshot_secure_summary">อนุญาตให้จับภาพหน้าจอในแอปที่ปลอดภัย</string>
