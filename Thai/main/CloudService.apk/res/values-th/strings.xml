@@ -23,6 +23,7 @@
     <string name="cloud_storage_already_used">การใช้งาน: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">ที่จัดเก็บข้อมูลคลาวด์</string>
     <string name="cloud_storage_info_type_drive">Mi ไดรฟ์</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_others">อื่นๆ</string>
     <string name="cloud_storage_info_type_pdc">การตั้งค่าระบบ</string>
     <string name="cloud_storage_loading_data">รอสักครู่…</string>
@@ -65,6 +66,10 @@
     <string name="ks_download_success">ดาวน์โหลดเรียบร้อย</string>
     <string name="ks_fingerprint_payment">การชำระเงินด้วยลายนิ้วมือ</string>
     <string name="ks_fingerprint_status">สถานะการชำระเงิน</string>
+    <string name="ks_name_alipay">IFAA</string>
+    <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_soter">Soter</string>
+    <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">พร้อมใช้งาน</string>
     <string name="ks_status_unavailable">ไม่พร้อมใช้งาน</string>
     <string name="ks_update_certificate">ใบรับรอง</string>
@@ -284,6 +289,7 @@
     <string name="micloud_space_applist_detail">จัดการแอปบนหน้าจอหลักของคุณ</string>
     <string name="micloud_space_applist_title">จัดการแอป</string>
     <string name="micloud_space_duokan_detail">ดาวน์โหลดและจัดการอีบุ๊คด้วยแอป Duokan</string>
+    <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">ทำการบันทึกเสียงบนเครื่องของคุณ</string>
     <string name="micloud_space_soundrecorder_title">กำลังบันทึกเสียง</string>
     <string name="micloud_storage_expires_auto_renewal_sum">กรุณาต่ออายุสมาชิกภาพ</string>
@@ -291,6 +297,8 @@
     <string name="micloud_storage_expires_soon_title">พื้นที่จัดเก็บ Xiaomi คลาวด์ใกล้หมดอายุแล้ว</string>
     <string name="micloud_storage_expires_very_soon_title">พื้นที่จัดเก็บ Xiaomi คลาวด์ใกล้หมดอายุแล้ว</string>
     <string name="micloud_storage_full">Mi คลาวด์ พื้นที่เต็ม</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">ซิงค์รูปภาพ รายชื่อผู้ติดต่อ บันทึกย่อ และไฟล์อื่นระหว่างอุปกรณ์ต่างๆของคุณ</string>
     <string name="micloud_sync_alert_dialog_negative">ยกเลิก</string>
     <string name="micloud_sync_alert_dialog_positive">ตกลง</string>
@@ -339,6 +347,7 @@
     <string name="mx_dspt_provision_with_voip2">นโยบายความเป็นส่วนตัว</string>
     <string name="mx_sub_dspt_provision">ข้อความ Mi</string>
     <string name="mx_sub_dspt_provision_with_voip">การโทรทางอินเทอร์เน็ต</string>
+    <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">ไม่พบซิมการ์ด</string>
     <string name="pay_info_dialog_confirm_to_pay">จ่าย %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">ใช้เครดิต Mi ที่เหลือ: %s</string>
@@ -349,6 +358,80 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">ซิงค์รูปภาพของรายชื่อผู้ติดต่อผ่าน Wi-Fi เท่านั้น</string>
     <string name="pref_title_sync_contacts_title">ซิงค์รายชื่อ</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">ซิงค์รูปภาพผ่าน Wi-Fi เท่านั้น</string>
+    <string name="priv_dialog_finddevice_all_purpose_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
+    <string name="priv_dialog_finddevice_all_purpose_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost."</string>
+    <string name="priv_dialog_sync_all_purpose">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+    <string name="priv_doc_cloudservice">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at <font color="#FF0000"><b>i.mi.com</b></font>".
+
+An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, Xiaomi Cloud needs to connect to the internet and requires the following permissions in order to collect your personal information:
+• Calendar:
+For syncing events
+• Accessing SMS:
+For syncing messages
+• Accessing MMS:
+For syncing messages
+• Accessing contacts:
+For syncing contacts
+• Editing contacts:
+For syncing contacts
+• Storage:
+For saving items on your device (e.g. images, videos, songs)
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </u></a>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </u></a>"before using Xiaomi Cloud.
+"</string>
+    <string name="priv_doc_finddevice_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "<font color="#FF0000"><b>i.mi.com</b></font>" to locate, lock, or reset it.
+
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
+• Accessing device info:
+For identifying your device
+• Location:
+For locating your device and switching to the lost mode
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </u></a>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </u></a>"before using Find device.
+"</string>
+    <string name="priv_doc_finddevice_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "<font color="#FF0000"><b>i.mi.com</b></font>" to locate, lock, or reset it.
+
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
+• Accessing device info:
+For identifying your device
+• Location:
+For locating your device and switching to the lost mode
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </u></a>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </u></a>"before using Find device.
+"</string>
+    <string name="priv_doc_finddevice_with_telephony_feature_pad">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "<font color="#FF0000"><b>i.mi.com</b></font>" to locate, lock, or reset it.
+
+An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+
+An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
+• Accessing device info:
+For identifying your device
+• Location:
+For locating your device and switching to the lost mode
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </u></a>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </u></a>"before using Find device.
+"</string>
+    <string name="priv_doc_finddevice_with_telephony_feature_phone">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. You can go to "<font color="#FF0000"><b>i.mi.com</b></font>" to locate, lock, or reset it.
+
+An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+
+An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+To be able to work normally, Find device needs to connect to the internet and requires the following permissions in order to collect your personal information:
+• Accessing device info:
+For identifying your device
+• Location:
+For locating your device and switching to the lost mode
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
+Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.license"><u> User Agreement </u></a>and<a href="app://com.miui.cloudservice.gdpr.license"><u> Privacy Policy </u></a>"before using Find device.
+"</string>
     <string name="privacy_and_agreement">ข้อตกลงและเงื่อนไข</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="provision_sync_items_loading">กำลังเตรียมการเพื่อซิงค์รายการ</string>
@@ -417,6 +500,8 @@
     <string name="trying_to_connect_to_network">กำลังเชื่อมต่อกับเครือข่าย…</string>
     <string name="user_agreement_content">ในการใช้บริการนี้ถือว่าคุณได้ตกลงและยินยอมตาม %s</string>
     <string name="user_agreement_link">เงื่อนไขการใช้งานบริการ Xiaomi คลาวด์</string>
+    <string name="user_agreement_p5">"
+"</string>
     <string name="user_agreement_title">เงื่อนไขการใช้งานบริการ Xiaomi คลาวด์</string>
     <string name="user_storage_info_available_text_prefix">ใช้งานได้ %s</string>
     <string name="waiting_for_sync">กำลังรอ…</string>
@@ -435,6 +520,7 @@
     <string name="wipe_data_dialog_button_check_sync">ตรวจสอบหากซิงค์</string>
     <string name="wipe_data_dialog_msg">บางรายการ %s ยังไม่ได้ซิงค์ มันจะถูกบันทึกไว้ในโทรศัพท์ของคุณและจะไม่ถูกลบ</string>
     <string name="wipe_data_dialog_msg_and_on">, และรายการบางอย่าง</string>
+    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">รายการยังไม่ถูกซิงค์</string>
     <string name="wipe_secret_photo_dialog_title">รูปภาพที่ซ่อนยังไม่ได้ซิงค์</string>
     <string name="xiaomi_cloud_service">คลาวด์</string>

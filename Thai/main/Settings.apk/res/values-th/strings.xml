@@ -124,24 +124,24 @@
     <string name="accessibility_screen_magnification_navbar_summary">"คุณจะซูมหน้าจอเข้าได้เมื่อเปิดการขยาย
 
 "<b>วิธีซูมคือ</b>" เริ่มการขยาย จากนั้นแตะบริเวณที่ต้องการซูมในหน้าจอ
-"<li><ul>"• ลากนิ้วอย่างน้อย 2 นิ้วเพื่อเลื่อน
-"<li>• บีบนิ้วอย่างน้อย 2 นิ้วเพื่อปรับการซูม</li></ul></li>"
+"<ul><li>• ลากนิ้วอย่างน้อย 2 นิ้วเพื่อเลื่อน</li>"
+"<li>• บีบนิ้วอย่างน้อย 2 นิ้วเพื่อปรับการซูม</li></ul>"
 
 "<b>วิธีซูมชั่วคราวคือ</b>" เริ่มการขยาย จากนั้นแตะบริเวณที่ต้องการซูมในหน้าจอค้างไว้
-"<li><ul>"• ลากเพื่อไปยังส่วนต่างๆ ในหน้าจอ
-"<li>• ยกนิ้วขึ้นเพื่อซูมออก</li></ul></li>"
+"<ul><li>• ลากเพื่อไปยังส่วนต่างๆ ในหน้าจอ</li>"
+"<li>• ยกนิ้วขึ้นเพื่อซูมออก</li></ul>"
 
 คุณซูมเข้าโดยใช้แป้นพิมพ์หรือแถบนำทางไม่ได้"</string>
     <string name="accessibility_screen_magnification_navbar_title">ขยายโดยใช้ทางลัด</string>
     <string name="accessibility_screen_magnification_short_summary">แตะ 3 ครั้งเพื่อซูม</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">ขยายโดยใช้ทางลัดและการแตะ 3 ครั้ง</string>
     <string name="accessibility_screen_magnification_summary"><b>หากต้องการซูม</b>" ให้แตะหน้าจอ 3 ครั้งเร็วๆ
-"<li><ul>"ลากนิ้ว 2 นิ้วหรือมากกว่าเพื่อเลื่อน
-"<li>บีบนิ้ว 2 นิ้วหรือมากกว่าเพื่อปรับการซูม</li></ul></li>"
+"<ul><li>ลากนิ้ว 2 นิ้วหรือมากกว่าเพื่อเลื่อน</li>"
+"<li>บีบนิ้ว 2 นิ้วหรือมากกว่าเพื่อปรับการซูม</li></ul>"
 
 "<b>หากต้องการซูมชั่วคราว</b>" ให้แตะหน้าจอ 3 ครั้งเร็วๆ และกดนิ้วค้างไว้ขณะแตะครั้งที่ 3
-"<li><ul>"ลากเพื่อเลื่อนไปยังส่วนต่างๆ ของหน้าจอ
-"<li>ยกนิ้วเพื่อซูมออก</li></ul></li>"
+"<ul><li>ลากเพื่อเลื่อนไปยังส่วนต่างๆ ของหน้าจอ</li>"
+"<li>ยกนิ้วเพื่อซูมออก</li></ul>"
 
 คุณไม่สามารถซูมเข้าในแป้นพิมพ์และแถบการนำทาง"</string>
     <string name="accessibility_screen_magnification_title">การขยาย</string>
@@ -2645,6 +2645,12 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="gxzw_dialog_ok">รับทราบ</string>
     <string name="gxzw_dialog_title">เกี่ยวกับเซ็นเซอร์ลายนิ้วมือในหน้าจอ</string>
     <string name="gxzw_enroll_again">ยกนิ้วขึ้นและกดลงบนตัวสแกนลายนิ้วมืออีกครั้ง</string>
+    <string name="gxzw_quick_open_enable_summary">ใช้ปุ่มลัดท่าทางเพื่อเปิดแอปหรือใช้คุณสมบัติแอปเมื่อปลดล็อคอุปกรณ์ของคุณ</string>
+    <string name="gxzw_quick_open_enable_title">ปุ่มลัดลายนิ้วมือ</string>
+    <string name="gxzw_quick_open_fast_summary">เลื่อนเพื่อใช้ปุ่มลัดเมื่ออุปกรณ์ของคุณถูกปลดล็อกแล้ว</string>
+    <string name="gxzw_quick_open_fast_title">เลื่อนด่วน (ขั้นสูง)</string>
+    <string name="gxzw_quick_open_slow_summary">กดค้างที่ไอคอนลายนิ้วมือเพื่อเปิดเมนูปุ่มลัด เลื่อนเพื่อใช้ปุ่มลัด</string>
+    <string name="gxzw_quick_open_slow_title">กดค้าง</string>
     <string name="gxzw_quick_open_title">ปุ่มลัด</string>
     <string name="handy_mode">โหมดถนัดมือ</string>
     <string name="handy_mode_enable">โหมดถนัดมือ</string>
@@ -7661,18 +7667,12 @@ PIN อาจไม่ถูกต้อง"</string>
     <string name="zone_menu_by_region">เลือกตามภูมิภาค</string>
     <string name="zone_time_type_dst">เวลาออมแสง</string>
     <string name="zone_time_type_standard">เวลามาตรฐาน</string>
-    <string name="device_description_battery">ความจุแบตเตอรี่</string>
+	<string name="device_description_battery">ความจุแบตเตอรี่</string>
     <string name="device_description_camera">กล้องหลัง</string>
     <string name="device_description_cpu">CPU</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">ความละเอียด</string>
     <string name="device_description_screen">ขนาดหน้าจอ</string>
-    <string name="gxzw_quick_open_enable_summary">ใช้ปุ่มลัดท่าทางเพื่อเปิดแอปหรือใช้คุณสมบัติแอปเมื่อปลดล็อคอุปกรณ์ของคุณ</string>
-    <string name="gxzw_quick_open_enable_title">ปุ่มลัดลายนิ้วมือ</string>
-    <string name="gxzw_quick_open_fast_summary">เลื่อนเพื่อใช้ปุ่มลัดเมื่ออุปกรณ์ของคุณถูกปลดล็อกแล้ว</string>
-    <string name="gxzw_quick_open_fast_title">เลื่อนด่วน (ขั้นสูง)</string>
-    <string name="gxzw_quick_open_slow_summary">กดค้างที่ไอคอนลายนิ้วมือเพื่อเปิดเมนูปุ่มลัด เลื่อนเพื่อใช้ปุ่มลัด</string>
-    <string name="gxzw_quick_open_slow_title">กดค้าง</string>
 	<string name="alarm_icon_title">ซ่อนไอคอนสัญญาณเตือน</string>
 	<string name="battery_light_100">ตัวบ่งชี้การชาร์จเต็ม</string>
 	<string name="battery_light_100_summary">ในตอนท้ายของการชาร์จไฟ Led จะยังคงสว่างอยู่</string>
@@ -7740,8 +7740,8 @@ PIN อาจไม่ถูกต้อง"</string>
 	<string name="two_lines_app_title">ชื่อแอปพลิเคชัน ใน 2 บรรทัด</string>
 	<string name="use_in_theme_server">เซิร์ฟเวอร์ธีมทั่วโลก</string>
 	<string name="use_new_miui_fonts_title">การใช้แบบอักษร MIUI ใหม่</string>
-	<string name="use_new_miui_fonts_summary">ใช้แบบอักษร MIUI ใหม่แทนค่าเริ่มต้น  Roboto ใช้งานได้เฉพาะเมื่อใช้ Default ใน ธีม</string>
 	<string name="show_bottom_search_bar_title">แสดงแถบค้นหา</string>
+	<string name="use_new_miui_fonts_summary">ใช้แบบอักษร MIUI ใหม่แทนค่าเริ่มต้น  Roboto ใช้งานได้เฉพาะเมื่อใช้ Default ใน ธีม</string>
 	<string name="disable_screenshot_secure_title">จับภาพหน้าจอในแอปใดก็ได้</string>
     <string name="disable_screenshot_secure_summary">อนุญาตให้จับภาพหน้าจอในแอปที่ปลอดภัย</string>
     <string name="replace_by_wellbeing_title">ใช้ Digital Wellbeing แทน Screen time</string>
