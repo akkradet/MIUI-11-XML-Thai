@@ -493,7 +493,7 @@
     <string name="app_permission_summary_not_allowed">ไม่อนุญาต</string>
     <string name="app_permissions">เครื่องมือจัดการสิทธิ์</string>
     <string name="app_permissions_summary">แอปต่างๆ ที่ใช้%1$s</string>
-    <string name="app_process_limit_title">กำหนดการดำเนินการในพื้นหลัง</string>
+    <string name="app_process_limit_title">กำหนดการดำเนินการเบื้องหลัง</string>
     <string name="app_restrictions_custom_label">ตั้งข้อจำกัดแอป</string>
     <string name="app_sees_restricted_accounts">แอปนี้สามารถเข้าถึงบัญชีของคุณ</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">แอปนี้สามารถเข้าถึงบัญชีของคุณได้ ควบคุมโดย %1$s</string>
@@ -503,7 +503,7 @@
     <string name="app_usage_preference">ค่ากำหนดการใช้งานแอป</string>
     <string name="app_version">เวอร์ชัน</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="application_forbid_auto_startup">หยุดการเริ่มทำงานบนพื้นหลังของ %s</string>
+    <string name="application_forbid_auto_startup">หยุดการเริ่มทำงานเบื้องหลังของ %s</string>
     <string name="application_info_label">ข้อมูลแอป</string>
     <string name="application_item_already_permission">อนุญาตแล้ว</string>
     <string name="application_item_disable">ปฎิเสธ</string>
@@ -645,20 +645,20 @@
 
 หากต้องการจำกัด ให้เปิดการเพิ่มประสิทธิภาพแบตเตอรี่ก่อน"</string>
     <string name="background_activity_summary">อนุญาตให้แอปทำงานในเบื้องหลัง</string>
-    <string name="background_activity_summary_disabled">ไม่อนุญาตให้แอปทำงานในพื้นหลัง</string>
-    <string name="background_activity_summary_whitelisted">จำกัดการใช้งานในพื้นหลังไม่ได้</string>
-    <string name="background_activity_title">การจำกัดการใช้งานในพื้นหลัง</string>
-    <string name="background_activity_warning_dialog_text">แอปอาจทำงานผิดพลาดหากคุณจำกัดกิจกรรมในพื้นหลัง</string>
-    <string name="background_activity_warning_dialog_title">จำกัดกิจกรรมในพื้นหลังใช่ไหม</string>
-    <string name="background_check_pref">การตรวจสอบพื้นหลัง</string>
-    <string name="background_check_title">การเข้าถึงพื้นหลังอย่างเต็มรูปแบบ</string>
-    <string name="background_data">ข้อมูลพื้นหลัง</string>
+    <string name="background_activity_summary_disabled">ไม่อนุญาตให้แอปทำงานเบื้องหลัง</string>
+    <string name="background_activity_summary_whitelisted">จำกัดการใช้งานเบื้องหลังไม่ได้</string>
+    <string name="background_activity_title">การจำกัดการใช้งานเบื้องหลัง</string>
+    <string name="background_activity_warning_dialog_text">แอปอาจทำงานผิดพลาดหากคุณจำกัดกิจกรรมเบื้องหลัง</string>
+    <string name="background_activity_warning_dialog_title">จำกัดกิจกรรมเบื้องหลังใช่ไหม</string>
+    <string name="background_check_pref">การตรวจสอบเบื้องหลัง</string>
+    <string name="background_check_title">การเข้าถึงเบื้องหลังอย่างเต็มรูปแบบ</string>
+    <string name="background_data">ข้อมูลเบื้องหลัง</string>
     <string name="background_data_dialog_message">การปิดอินเทอร์เน็ตที่ใช้งานอยู่เบื้องหลังจะทำให้แบตเตอรี่ใช้งานได้ยาวนานขึ้นและลดการใช้ข้อมูลลง แอปพลิเคชันบางอย่างอาจยังคงใช้การเชื่อมต่ออินเทอร์เน็ตที่ใช้งานอยู่เบื้องหลังอยู่</string>
     <string name="background_data_dialog_title">ปิดอินเทอร์เน็ตที่ใช้งานอยู่เบื้องหลัง</string>
     <string name="background_data_summary">แอปพลิเคชันสามารถซิงค์ ส่ง และรับข้อมูลได้ตลอดเวลา</string>
     <string name="background_process_stop_description">นี่เป็นกระบวนการของแอปพลิเคชันเก่าที่ยังคงทำงานอยู่ในกรณีที่ต้องมีการเรียกใช้อีก โดยปกติแล้วไม่จำเป็นต้องปิดกระบวนการดังกล่าว</string>
     <string name="background_restrict_app_dialog_message">การจำกัดการเข้าถึงเครือข่ายในพื้นหลังสำหรับแอปนี้อาจทำให้แอปไม่สามารถทำงานได้ตามปกติ รับข้อความ ดาวน์โหลดเนื้อหา ฯลฯ จำกัดหรือไม่?</string>
-    <string name="background_traffic">พื้นหลัง %s</string>
+    <string name="background_traffic">เบื้องหลัง %s</string>
     <string name="backtouch_enable_title">ปรับระดับเสียงที่ด้านหลัง</string>
     <string name="backup_configure_account_default_summary">ไม่มีบัญชีใดในปัจจุบันที่จัดเก็บข้อมูลที่สำรองไว้</string>
     <string name="backup_configure_account_title">บัญชีข้อมูลสำรอง</string>
@@ -845,12 +845,12 @@
     <string name="battery_tip_high_usage_title">ใช้งานโทรศัพท์มากกว่าปกติ</string>
     <string name="battery_tip_low_battery_summary">แบตเตอรี่มีอายุการใช้งานไม่ยาวนาน</string>
     <string name="battery_tip_low_battery_title">ความจุแบตเตอรี่ต่ำ</string>
-    <string name="battery_tip_restrict_app_dialog_message">หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอป %1$s ใช้งานแบตเตอรี่ในพื้นหลัง แอปนี้อาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า</string>
+    <string name="battery_tip_restrict_app_dialog_message">หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอป %1$s ใช้งานแบตเตอรี่เบื้องหลัง แอปนี้อาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า</string>
     <string name="battery_tip_restrict_app_dialog_ok">จำกัด</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอปเหล่านี้ใช้งานแบตเตอรี่ในพื้นหลัง แอปที่ถูกจำกัดอาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอปเหล่านี้ใช้งานแบตเตอรี่เบื้องหลัง แอปที่ถูกจำกัดอาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า
 
 แอปดังกล่าวได้แก่"</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอปเหล่านี้ใช้งานแบตเตอรี่ในพื้นหลัง แอปที่ถูกจำกัดอาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"หากต้องการประหยัดแบตเตอรี่ ต้องไม่ให้แอปเหล่านี้ใช้งานแบตเตอรี่เบื้องหลัง แอปที่ถูกจำกัดอาจไม่ทำงานตามปกติและการแจ้งเตือนอาจล่าช้า
 
 แอปดังกล่าวได้แก่
 %1$s"</string>
@@ -1401,7 +1401,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="checking_find_device_status">กำลังตรวจสอบสถานะการค้นหาอุปกรณ์…</string>
     <string name="checking_for_updates">กำลังตรวจสอบอัปเดต…</string>
     <string name="choose_a_card_to_reset">เลือกซิมการ์ดเพื่อรีเซ็ต</string>
-    <string name="choose_keyguard_clock_style">ฟอร์แมตนาฬิกาบนหน้าจอล็อก</string>
+    <string name="choose_keyguard_clock_style">แบบนาฬิกาบนหน้าจอล็อก</string>
     <string name="choose_keyguard_clock_summary">การตั้งค่านี้ไม่สามารถใช้ได้กับธีมของบุคคลที่สาม</string>
     <string name="choose_lock_pattern_header_text">ตั้งค่ารูปแบบ</string>
     <string name="choose_network_title">เลือกเครือข่าย</string>
@@ -1696,7 +1696,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="data_usage_app">การใช้งานแอป</string>
     <string name="data_usage_app_info_label">ข้อมูลแอป</string>
     <string name="data_usage_app_items_header_text">การใช้งานแอป</string>
-    <string name="data_usage_app_restrict_background">ข้อมูลพื้นหลัง</string>
+    <string name="data_usage_app_restrict_background">ข้อมูลเบื้องหลัง</string>
     <string name="data_usage_app_restrict_background_summary">เปิดใช้อินเทอร์เน็ตมือถือในเบื้องหลัง</string>
     <string name="data_usage_app_restrict_background_summary_disabled">ก่อนอื่นให้ตั้งค่าขีดจำกัดในการใช้เน็ตมือถือก่อน เพื่อจำกัดอินเทอร์เน็ตที่แอปนี้ใช้งานอยู่เบื้องหลัง</string>
     <string name="data_usage_app_restrict_dialog">"ฟีเจอร์นี้อาจทำให้แอปพลิเคชันที่ต้องอาศัยอินเทอร์เน็ตที่ใช้งานอยู่เบื้องหลังหยุดทำงานเมื่อมีแต่เครือข่ายมือถือเท่านั้นที่ใช้งานได้
@@ -1731,9 +1731,9 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="data_usage_enable_3g">ข้อมูล 2G-3G</string>
     <string name="data_usage_enable_4g">ข้อมูล 4G</string>
     <string name="data_usage_enable_mobile">เน็ตมือถือ</string>
-    <string name="data_usage_forground_label">พื้นหน้า:</string>
-    <string name="data_usage_label_background">พื้นหลัง</string>
-    <string name="data_usage_label_foreground">พื้นหน้า</string>
+    <string name="data_usage_forground_label">เบื้องหน้า:</string>
+    <string name="data_usage_label_background">เบื้องหลัง</string>
+    <string name="data_usage_label_foreground">เบื้องหน้า</string>
     <string name="data_usage_limit_dialog_mobile">"โทรศัพท์ของคุณจะปิดอินเทอร์เน็ตมือถือเมื่อถึงขีดจำกัดที่คุณตั้งไว้
 
 เนื่องจากว่าปริมาณการใช้อินเทอร์เน็ตนั้นวัดโดยโทรศัพท์ของคุณ ผู้ให้บริการอาจมีวิธีบันทึกการใช้ที่แตกต่างออกไป ดังนั้น โปรดกำหนดขีดจำกัดอย่างระมัดระวัง"</string>
@@ -1753,7 +1753,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="data_usage_menu_sim_cards">ซิมการ์ด</string>
     <string name="data_usage_menu_split_4g">แยกการใช้งาน 4G</string>
     <string name="data_usage_metered_auto">อัตโนมัติ</string>
-    <string name="data_usage_metered_body">ระบุว่าเครือข่าย Wi-Fi ใดที่เป็นฮอตสปอตแบบพกพา คุณสามารถห้ามไม่ให้แอปใช้งานเครือข่ายเหล่านี้บนพื้นหลังได้ นอกจากนี้แอปจะแจ้งให้คุณทราบก่อนที่จะใช้เครือข่ายเหล่านี้เพื่อดาวน์โหลดข้อมูลขนาดใหญ่</string>
+    <string name="data_usage_metered_body">ระบุว่าเครือข่าย Wi-Fi ใดที่เป็นฮอตสปอตแบบพกพา คุณสามารถห้ามไม่ให้แอปใช้งานเครือข่ายเหล่านี้อยู่เบื้องหลังได้ นอกจากนี้แอปจะแจ้งให้คุณทราบก่อนที่จะใช้เครือข่ายเหล่านี้เพื่อดาวน์โหลดข้อมูลขนาดใหญ่</string>
     <string name="data_usage_metered_mobile">เครือข่ายมือถือ</string>
     <string name="data_usage_metered_no">ไม่มีการวัดปริมาณอินเทอร์เน็ต</string>
     <string name="data_usage_metered_title">ข้อจำกัดของเครือข่าย</string>
@@ -1764,10 +1764,10 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="data_usage_other_apps">แอปอื่นๆ ที่รวมอยู่ในการใช้งาน</string>
     <string name="data_usage_pick_cycle_day">วันที่ของเดือนในการรีเซ็ตรอบการใช้ข้อมูล:</string>
     <string name="data_usage_received_sent">รับ %1$s, ส่ง %2$s</string>
-    <string name="data_usage_restrict_background">หากคุณห้ามใช้งานเครือข่ายข้อมูลมือถือบนพื้นหลัง บางแอปและบริการบางอย่างจะไม่สามารถใช้งานได้จนกว่าคุณจะเชื่อมต่อเครือข่าย Wi-Fi</string>
-    <string name="data_usage_restrict_background_multiuser">หากคุณห้ามใช้งานข้อมูลมือถือบนพื้นหลัง บางแอปและบริการบางอย่างจะไม่สามารถใช้งานเป็นปกติได้จนกว่าคุณจะเชื่อมต่อเครือข่าย Wi-Fi</string>
+    <string name="data_usage_restrict_background">หากคุณห้ามใช้งานเครือข่ายข้อมูลมือถือเบื้องหลัง บางแอปและบริการบางอย่างจะไม่สามารถใช้งานได้จนกว่าคุณจะเชื่อมต่อเครือข่าย Wi-Fi</string>
+    <string name="data_usage_restrict_background_multiuser">หากคุณห้ามใช้งานข้อมูลมือถือเบื้องหลัง บางแอปและบริการบางอย่างจะไม่สามารถใช้งานเป็นปกติได้จนกว่าคุณจะเชื่อมต่อเครือข่าย Wi-Fi</string>
     <string name="data_usage_restrict_background_title">ต้องการจำกัดอินเทอร์เน็ตที่ใช้งานอยู่เบื้องหลังหรือไม่</string>
-    <string name="data_usage_restrict_denied_dialog">คุณสามารถจำกัดอินเทอร์เน็ตในพื้นหลังได้เมื่อคุณได้ตั้งค่าขีดจำกัดอินเทอร์เน็ตมือถือไว้เท่านั้น</string>
+    <string name="data_usage_restrict_denied_dialog">คุณสามารถจำกัดอินเทอร์เน็ตเบื้องหลังได้เมื่อคุณได้ตั้งค่าขีดจำกัดอินเทอร์เน็ตมือถือไว้เท่านั้น</string>
     <string name="data_usage_summary_format">ใช้อินเทอร์เน็ตไป %1$s</string>
     <string name="data_usage_summary_title">ปริมาณการใช้อินเทอร์เน็ต</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
@@ -1945,9 +1945,9 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="dial_pad_tones_title">เสียงแป้นหมายเลข</string>
     <string name="dialog_background_check_message">"โทรศัพท์ไม่สามารถจัดการแบตเตอรี่ได้ตามปกติเนื่องจาก %1$s ปลุกให้โทรศัพท์ตื่นอยู่ตลอด
 
-คุณสามารถหยุดและป้องกันไม่ให้ %1$s ทำงานในพื้นหลังเพื่อลองแก้ปัญหานี้"</string>
+คุณสามารถหยุดและป้องกันไม่ให้ %1$s ทำงานในเบื้องหลังเพื่อลองแก้ปัญหานี้"</string>
     <string name="dialog_background_check_ok">ปิด</string>
-    <string name="dialog_background_check_title">ปิดการใช้งานในพื้นหลังและหยุดแอปไหม</string>
+    <string name="dialog_background_check_title">ปิดการใช้งานเบื้องหลังและหยุดแอปไหม</string>
     <string name="dialog_chose_item">เลือกรายการที่จะแสดง</string>
     <string name="dialog_content_login">ลงชื่อเข้าใช้บัญชี Mi ของคุณเพื่ออัปเดตระบบ?</string>
     <string name="dialog_location_message">"โทรศัพท์ไม่สามารถจัดการแบตเตอรี่ได้ตามปกติเนื่องจาก %1$s ขอตำแหน่งของคุณอยู่ตลอดตอนที่คุณไม่ได้ใช้แอป
@@ -2423,7 +2423,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="fingerprint_list_title">ลายนิ้วมือ</string>
     <string name="fingerprint_lock_first">ปลดล็อกพื้นที่ปกติ</string>
     <string name="fingerprint_lock_screen_setup_skip_dialog_text">ปกป้องโทรศัพท์ด้วยตัวเลือกล็อกหน้าจอเพื่อไม่ให้ผู้อื่นใช้ได้หากโทรศัพท์สูญหายหรือถูกขโมย คุณยังต้องใช้ตัวเลือกล็อกหน้าจอเพื่อตั้งค่าลายนิ้วมือด้วย แตะ \"ยกเลิก\" แล้วตั้ง PIN รูปแบบ หรือรหัสผ่าน</string>
-    <string name="fingerprint_lock_second">ปลดล็อกพื้นที่ทับซ้อน</string>
+    <string name="fingerprint_lock_second">ปลดล็อกพื้นที่ที่สอง</string>
     <string name="fingerprint_manage">จัดการลายนิ้วมือ</string>
     <string name="fingerprint_manage_category_title">จัดการลายนิ้วมือ</string>
     <string name="fingerprint_manage_tittle">ลายนิ้วมือ</string>
@@ -2460,8 +2460,8 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="firewall_restrict_data">จำกัดการใช้ข้อมูลมือถือ</string>
     <string name="firewall_restrict_notify_title">%s ไม่สามารถใช้เครือข่ายได้</string>
     <string name="firewall_restrict_wlan">จำกัดการใช้การเชื่อมต่อ Wi-Fi</string>
-    <string name="firewall_set_bg_firewall_default_dialog_summary">หากคุณจำกัดการเชื่อมต่อพื้นหลัง แอปพลิเคชันใหม่จะไม่สามารถเชื่อมต่ออินเทอร์เน็ตในพื้นหลังได้หลังจากติดตั้งแอป อาจไม่สามารถรับข้อความหรือดาวน์โหลดเนื้อหาหลังจากนี้ได้ จำกัดหรือไม่?</string>
-    <string name="firewall_set_bg_firewall_default_dialog_title">จำกัดการเชื่อมต่อพื้นหลังสำหรับแอปพลิเคชันใหม่</string>
+    <string name="firewall_set_bg_firewall_default_dialog_summary">หากคุณจำกัดการเชื่อมต่อเบื้องหลัง แอปพลิเคชันใหม่จะไม่สามารถเชื่อมต่ออินเทอร์เน็ตเบื้องหลังได้หลังจากติดตั้งแอป อาจไม่สามารถรับข้อความหรือดาวน์โหลดเนื้อหาหลังจากนี้ได้ จำกัดหรือไม่?</string>
+    <string name="firewall_set_bg_firewall_default_dialog_title">จำกัดการเชื่อมต่อเบื้องหลังสำหรับแอปพลิเคชันใหม่</string>
     <string name="firewall_temp_rule_reason">%2$s จำกัดการเชื่อมต่ออินเทอร์เน็ตสำหรับ %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">แอปที่ติดตั้งจะไม่สามารถเชื่อมต่อและใช้อินเตอร์เน็ตได้ หากคุณปิดสวิตช์นี้</string>
@@ -2699,10 +2699,10 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="high_power_filter_on">ไม่ได้เพิ่มประสิทธิภาพ</string>
     <string name="high_power_off">เพิ่มประสิทธิภาพการใช้แบตเตอรี</string>
     <string name="high_power_on">ไม่ได้เพิ่มประสิทธิภาพ</string>
-    <string name="high_power_prompt_body">"การอนุญาตให้ %1$s ทำงานในพื้นหลังทุกครั้งอาจลดอายุการใช้งานแบตเตอรี่ 
+    <string name="high_power_prompt_body">"การอนุญาตให้ %1$s ทำงานเบื้องหลังทุกครั้งอาจลดอายุการใช้งานแบตเตอรี่ 
 
 คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในภายหลังจากการตั้งค่า > แอปและการแจ้งเตือน"</string>
-    <string name="high_power_prompt_title">ให้แอปทำงานในพื้นหลังทุกครั้งไหม</string>
+    <string name="high_power_prompt_title">ให้แอปทำงานเบื้องหลังทุกครั้งไหม</string>
     <string name="high_power_system">การเพิ่มประสิทธิภาพแบตเตอรี่ไม่พร้อมใช้งาน</string>
     <string name="history_details_title">รายละเอียดประวัติ</string>
     <string name="home">การตั้งค่าหน้าจอหลัก</string>
@@ -3010,7 +3010,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="lights_title">ไฟ LED</string>
     <string name="line_breaking_summary">เพิ่มประสิทธิภาพการตัดบรรทัดย่อหน้า</string>
     <string name="line_breaking_title">เพิ่มประสิทธิภาพข้อความ</string>
-    <string name="list_bg_header_text">หากคุณจำกัดการเชื่อมต่อพื้นหลัง แอปพลิเคชันใหม่จะไม่สามารถเชื่อมต่ออินเทอร์เน็ตในพื้นหลังได้หลังจากติดตั้งแอป อาจไม่สามารถรับข้อความหรือดาวน์โหลดเนื้อหาหลังจากนี้ได้</string>
+    <string name="list_bg_header_text">หากคุณจำกัดการเชื่อมต่อเบื้องหลัง แอปพลิเคชันใหม่จะไม่สามารถเชื่อมต่ออินเทอร์เน็ตเบื้องหลังได้หลังจากติดตั้งแอป อาจไม่สามารถรับข้อความหรือดาวน์โหลดเนื้อหาหลังจากนี้ได้</string>
     <string name="list_empty_text">ว่าง</string>
     <string name="live_caption_summary">แสดงคำบรรยายสื่อโดยอัตโนมัติ</string>
     <string name="live_caption_title">คำบรรยายภาพสด</string>
@@ -3170,14 +3170,14 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="lockdown_settings_title">แสดงตัวเลือกการปิดล็อก</string>
     <string name="locked_work_profile_notification_title">เมื่อโปรไฟล์งานล็อกอยู่</string>
     <string name="lockpassword_cancel_label">ยกเลิก</string>
-    <string name="lockpassword_choose_for_second_user">ตั้งรหัสผ่านพื้นที่ทับซ้อน</string>
+    <string name="lockpassword_choose_for_second_user">ตั้งรหัสผ่านพื้นที่ที่สอง</string>
     <string name="lockpassword_choose_lock_generic_header">เลือกการล็อกหน้าจอ</string>
     <string name="lockpassword_choose_your_password_header">ตั้งรหัสผ่านของคุณ</string>
     <string name="lockpassword_choose_your_password_header_for_face">ตั้งค่าตรวจสอบสิทธิ์สำรองนอกจากใช้ใบหน้า</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">หากต้องการใช้ลายนิ้วมือ ให้ตั้งรหัสผ่าน</string>
     <string name="lockpassword_choose_your_password_message">เพื่อความปลอดภัย โปรดตั้งรหัสผ่าน</string>
     <string name="lockpassword_choose_your_password_second_space">"ตั้งรหัสผ่าน 
- สำหรับพื้นที่ทับซ้อน"</string>
+ สำหรับพื้นที่ที่สอง"</string>
     <string name="lockpassword_choose_your_pattern_header">กำหนดรูปแบบการล็อก</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">ตั้งค่าตรวจสอบสิทธิ์สำรองนอกจากใช้ใบหน้า</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">หากต้องการใช้ลายนิ้วมือ ให้ตั้งค่ารูปแบบ</string>
@@ -3186,12 +3186,12 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="lockpassword_choose_your_pin_header_for_face">ตั้ง PIN เพื่อใช้การสอบสิทธิ์ด้วยใบหน้า</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">หากต้องการใช้ลายนิ้วมือ ให้ตั้งค่า PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"ตั้งรหัส PIN 
- สำหรับพื้นที่ทับซ้อน"</string>
+ สำหรับพื้นที่ที่สอง"</string>
     <string name="lockpassword_choose_your_pin_message">เพื่อความปลอดภัย โปรดตั้ง PIN</string>
     <string name="lockpassword_choose_your_pin_title" formatted="false">ป้อน %d-%d ตัวเลข</string>
     <string name="lockpassword_choose_your_screen_lock_header">ตั้งค่าการล็อกหน้าจอ</string>
     <string name="lockpassword_clear_label">ล้าง</string>
-    <string name="lockpassword_confirm_for_second_user">ยืนยันรหัสผ่านพื้นที่ทับซ้อนของคุณ</string>
+    <string name="lockpassword_confirm_for_second_user">ยืนยันรหัสผ่านพื้นที่ที่สองของคุณ</string>
     <string name="lockpassword_confirm_label">ยืนยัน</string>
     <string name="lockpassword_confirm_passwords_dont_match">รหัสผ่านไม่ตรงกัน</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN ไม่ตรงกัน</string>
@@ -3252,12 +3252,12 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="lockpattern_pattern_entered_header">บันทึกรูปแบบแล้ว</string>
     <string name="lockpattern_pattern_same_with_others">ควรจะแตกต่างจากรหัสผ่านพื้นที่อื่นๆ</string>
     <string name="lockpattern_pattern_same_with_owner">ควรจะแตกต่างจากรหัสผ่านพื้นที่ปกติ</string>
-    <string name="lockpattern_pattern_same_with_security_space">ควรจะแตกต่างจากรหัสผ่านพื้นที่ทับซ้อน</string>
+    <string name="lockpattern_pattern_same_with_security_space">ควรจะแตกต่างจากรหัสผ่านพื้นที่ที่สอง</string>
     <string name="lockpattern_recording_incorrect_too_short">โยงอย่างน้อย %d จุด ลองอีกครั้ง</string>
     <string name="lockpattern_recording_inprogress">ปล่อยนิ้วมือเมื่อเสร็จสิ้น</string>
     <string name="lockpattern_recording_intro_footer">กดเมนูเพื่อขอความช่วยเหลือ</string>
     <string name="lockpattern_recording_intro_header">วาดรูปแบบปลดล็อก:</string>
-    <string name="lockpattern_recording_intro_header_second_space">วาดรูปแบบปลดล็อกสำหรับพื้นที่ทับซ้อน:</string>
+    <string name="lockpattern_recording_intro_header_second_space">วาดรูปแบบปลดล็อกสำหรับพื้นที่ที่สอง:</string>
     <string name="lockpattern_restart_button_text">วาดอีกครั้ง</string>
     <string name="lockpattern_retry_button_text">แจ่มใส</string>
     <string name="lockpattern_settings_change_lock_pattern">เปลี่ยนรูปแบบปลดล็อก:</string>
@@ -3458,9 +3458,9 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="menu_new">APN ใหม่</string>
     <string name="menu_proc_stats_duration">ระยะเวลา</string>
     <string name="menu_proc_stats_type">ประเภทสถิติ</string>
-    <string name="menu_proc_stats_type_background">พื้นหลัง</string>
+    <string name="menu_proc_stats_type_background">เบื้องหลัง</string>
     <string name="menu_proc_stats_type_cached">แคช</string>
-    <string name="menu_proc_stats_type_foreground">พื้นหน้า</string>
+    <string name="menu_proc_stats_type_foreground">เบื้องหน้า</string>
     <string name="menu_restore">รีเซ็ต</string>
     <string name="menu_save">บันทึก</string>
     <string name="menu_share">แชร์</string>

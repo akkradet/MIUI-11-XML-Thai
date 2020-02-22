@@ -3,24 +3,24 @@
     <string-array name="audio_effect_file_showing_names">
         <item>ล็อก</item>
         <item>ปลดล็อก</item>
-        <item>EffectTick</item>
-        <item>KeypressDelete</item>
-        <item>KeypressReturn</item>
-        <item>KeypressStandard</item>
-        <item>KeypressSpacebar</item>
-        <item>CameraClick</item>
-        <item>VideoRecord</item>
-        <item>CameraCountDown</item>
-        <item>CameraBeepSuccess</item>
-        <item>CameraBeepFail</item>
-        <item>CameraBbeepInProgress</item>
-        <item>CameraBeepInProgress1</item>
-        <item>CameraBeepInProgress2</item>
+        <item>เอฟเฟกต์เมื่อติ๊ก</item>
+        <item>กดปุ่มลบ</item>
+        <item>กดปุ่มรีเทิร์น</item>
+        <item>กดปุ่มมาตรฐาน</item>
+        <item>กดปุ่มวรรค</item>
+        <item>คลิกกล้อง</item>
+        <item>บันทึกวิดีโอ</item>
+        <item>นับถอยหลังกล้อง</item>
+        <item>เสียงกล้องเมื่อสำเร็จ</item>
+        <item>เสียงกล้องเมื่อล้มเหลว</item>
+        <item>เสียงกล้องกำลังทำงาน</item>
+        <item>เสียงกล้องกำลังทำงาน1</item>
+        <item>เสียงกล้องกำลังทำงาน2</item>
         <item>MusicShake</item>
-        <item>MessageComplete</item>
-        <item>SoundRecorderPlay</item>
-        <item>SoundRecorderPause</item>
-        <item>SoundRecorderRewind</item>
-        <item>LowBattery</item>
+        <item>ข้อความสมบูรณ์</item>
+        <item>เล่นตัวบันทึกเสียง</item>
+        <item>พักตัวบันทึกเสียง</item>
+        <item>กรอตัวบันทึกเสียง</item>
+        <item>แบตเตอรี่ต่ำ</item>
     </string-array>
 </resources>
