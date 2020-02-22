@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_showing_names">
+        <item>ล็อก</item>
+        <item>ปลดล็อก</item>
+        <item>เอฟเฟกต์เมื่อติ๊ก</item>
+        <item>กดปุ่มลบ</item>
+        <item>กดปุ่มรีเทิร์น</item>
+        <item>กดปุ่มมาตรฐาน</item>
+        <item>กดปุ่มวรรค</item>
+        <item>คลิกกล้อง</item>
+        <item>บันทึกวิดีโอ</item>
+        <item>นับถอยหลังกล้อง</item>
+        <item>เสียงกล้องเมื่อสำเร็จ</item>
+        <item>เสียงกล้องเมื่อล้มเหลว</item>
+        <item>เสียงกล้องกำลังทำงาน</item>
+        <item>เสียงกล้องกำลังทำงาน1</item>
+        <item>เสียงกล้องกำลังทำงาน2</item>
+        <item>MusicShake</item>
+        <item>ข้อความสมบูรณ์</item>
+        <item>เล่นตัวบันทึกเสียง</item>
+        <item>พักตัวบันทึกเสียง</item>
+        <item>กรอตัวบันทึกเสียง</item>
+        <item>แบตเตอรี่ต่ำ</item>
+    </string-array>
+</resources>
