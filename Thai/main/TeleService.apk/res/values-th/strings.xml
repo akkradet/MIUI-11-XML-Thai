@@ -1515,7 +1515,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_hint_label_incoming_wifi_call">Wi-Fi เรียกเข้า</string>
     <string name="status_hint_label_wifi_call">โทร Wi-Fi</string>
-    <string name="status_unavailable">ไม่ว่าง</string>
+    <string name="status_unavailable">ไม่พร้อมใช้งาน</string>
     <string name="stk_cc_ss_to_dial_error">คำร้องขอ SS ได้แก้ไขเป็นการโทรออก</string>
     <string name="stk_cc_ss_to_dial_video_error">คำร้องขอ SS ได้แก้ไขเป็นการโทรวิดีโอ</string>
     <string name="stk_cc_ss_to_ss_error">คำร้องขอ SS ได้แก้ไขเป็นการร้องขอ SS ใหม่</string>

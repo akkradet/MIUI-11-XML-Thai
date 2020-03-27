@@ -318,11 +318,11 @@
     <string name="sleep_analysis">สถิติ</string>
     <string name="sleep_date_provider_text">ข้อมูลการนอนหลับจัดทำโดย Mi Health</string>
     <string name="sleep_duration">"ระยะเวลาการนอนหลับ: "</string>
-    <string name="sleep_duration_avg_text_diff">Average sleep duration (%1$s-%2$s)</string>
-    <string name="sleep_duration_desc">Slept for %1$s %2$s</string>
+    <string name="sleep_duration_avg_text_diff">ระยะเวลาการนอนหลับเฉลี่ย (%1$s-%2$s)</string>
+    <string name="sleep_duration_desc">นอนไป %1$s %2$s</string>
     <string name="sleep_duration_no_data">ข้อมูลไม่เพียงพอตอนนี้</string>
     <string name="sleep_duration_recommendation">คนส่วนใหญ่ต้องการนอน 7 ถึง 9 ชั่วโมงต่อคืน</string>
-    <string name="sleep_duration_text">%1$s %2$s</string>
+    <string name="sleep_duration_text">%1$s %2$s    </string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">โหมดห้ามรบกวน</string>
     <string name="sleep_no_disturbance_desc">สลับเป็นโหมดห้ามรบกวนจนกว่าคุณจะตื่นขึ้นมา</string>

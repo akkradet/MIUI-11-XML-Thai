@@ -127,11 +127,11 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>ปิดใช้งาน</item>
+        <item>ปิดใช้อยู่</item>
         <item>เปิดใช้งานตัวกรอง</item>
-        <item>เปิดใช้งานตัวกรองส่วนหัว</item>
-        <item>เปิดใช้งานตัวกรองแพ็คเก็ตสื่อ</item>
         <item>เปิดใช้งาน</item>
+        <item>เปิดใช้งาน ตัวกรองส่วนหัว</item>
+        <item>เปิดใช้งาน ตัวกรองแพ็คเก็ตสื่อมีเดีย</item>
     </string-array>
     <string-array name="clock_options">
         <item>แสดงชั่วโมง นาที และวินาที</item>

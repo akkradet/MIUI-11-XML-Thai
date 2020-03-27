@@ -103,6 +103,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="divDesc">หาร</string>
+    <string name="dob_selection_error">วันเดือนปีเกิดต้องมาก่อนวันที่วันนี้</string>
     <string name="dotDesc">จุดทศนิยม</string>
     <string name="e">e</string>
     <string name="eDesc">ตัวเลขของออยเลอร์</string>
@@ -139,6 +140,7 @@
     <string name="hint_annual_rate">ป้อนอัตรารายปี</string>
     <string name="hint_enter_amount">ป้อนจำนวนเงิน</string>
     <string name="hint_floatwindow_alpha_guide_text">แตะเพื่อปรับความโปร่งแสง</string>
+    <string name="history_delete_confirmation">ล้างประวัติเดี๋ยวนี้?</string>
     <string name="home_loan">ดอกเบี้ยจำนอง</string>
     <string name="home_title_calculator">เครื่องคิดเลข</string>
     <string name="house_rent">การเช่า</string>
@@ -170,14 +172,19 @@
     <string name="item_title_vel_conversion">ความเร็ว</string>
     <string name="item_title_volume_conversion">ปริมาตร</string>
     <string name="item_title_weight_conversion">แปลงน้ำหนัก</string>
+    <string name="label_about">เกี่ยวกับ</string>
+    <string name="label_clear_history">ล้างทั้งหมด</string>
     <string name="label_date_difference">ความแตกต่าง</string>
     <string name="label_days">วัน</string>
+    <string name="label_delete">ล้าง</string>
     <string name="label_emi">EMI</string>
     <string name="label_first_repayment">ชำระคืนงวดแรก</string>
     <string name="label_from_date">จาก</string>
+    <string name="label_history">ประวัติ</string>
     <string name="label_interest">ดอกเบี้ย</string>
     <string name="label_loan_tenure">ระยะเวลาการให้สินเชื่อ</string>
     <string name="label_months">เดือน</string>
+    <string name="label_no_history">ยังไม่มีรายการ</string>
     <string name="label_principal">เงินต้น</string>
     <string name="label_share">แชร์</string>
     <string name="label_start_date">วันเริ่มต้น</string>

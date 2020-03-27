@@ -10,7 +10,6 @@
     <string name="retry">ลองใหม่</string>
     <string name="cloud_app_current_device">เครื่องปัจจุบัน</string>
     <string name="cloud_app_other_devices">เครื่องอื่นๆ</string>
-    <string name="cloud_app_restore_app_and_data">ตั้งค่าตัวเครื่อง</string>
     <string name="cloud_app_restore_data">ข้อมูลส่วนตัวและแอปที่เพิ่งลงไว้จะปรากฎในเครื่องของคุณอัตโนมัติ</string>
     <string name="cloud_app_dont_restore">ตั้งค่าเป็นเครื่องใหม่</string>
     <string name="cloud_app_restore_wifi_prompt">เรียกคืนค่าจากข้อมูลสำรองในคลาวด์</string>
@@ -222,4 +221,5 @@
     <string name="restore_task_unfinished">ไม่สามารถกู้คืนได้</string>
     <string name="restore_failed_reason_network_error">เครือข่ายเกิดข้อผิดพลาด รอประมาณ 1-2 นาทีแล้วลองอีกครั้ง</string>
     <string name="restore_failed_reason_disk_space_not_enough">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ เพิ่มที่จัดเก็บข้อมูลก่อน</string>
+    <string name="cloud_app_restore_app_and_data">ตั้งค่าตัวเครื่อง</string>
 </resources>
