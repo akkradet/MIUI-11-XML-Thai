@@ -13,6 +13,11 @@
         <item>ทุกวันธรรมดา</item>
         <item>กำหนดเอง</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>รูปแบบ</item>
+        <item>PIN</item>
+        <item>รหัสผ่าน</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>"เมื่อวานนี้ (ข้อมูลมือถือ) "</item>
         <item>"วันนี้ (ข้อมูลมือถือ) "</item>

@@ -163,6 +163,7 @@
     <string name="confirm_exit">บันทึกการเปลี่ยนแปลง?</string>
     <string name="connect_now">เชื่อมต่อ</string>
     <string name="connecting_apk">กำลังเชื่อมต่อ…</string>
+    <string name="copy">คัดลอก</string>
     <string name="create_playlist">สร้างรายการเพลง</string>
     <string name="create_playlist_failure">สร้างรายการเพลงไม่ได้</string>
     <string name="create_playlist_input_hint">ป้อนชื่อเพลย์ลิสต์</string>
@@ -567,6 +568,7 @@
     <string name="not_login">ยังไม่ลงชื่อเข้าใช้</string>
     <string name="not_now">ภายหลัง</string>
     <string name="not_selected">เลือกเพลง</string>
+    <string name="not_set">ไม่ได้ตั้งค่า</string>
     <string name="not_support_documentui">DocumentUI ไม่สนับสนุนบนอุปกรณ์นี้</string>
     <string name="notif_title_file_size">ทั้งหมด %1$d</string>
     <string name="notif_title_single_downloading">กำลังดาวน์โหลด %1$s</string>
@@ -665,6 +667,7 @@
     <string name="please_download_first">คุณต้องดาวน์โหลดเพลงนี้ก่อนจึงจะสามารถตั้งเป็นเสียงเรียกเข้า</string>
     <string name="please_select_song">ต้องเลือกเพลงก่อน</string>
     <string name="power_save_mode_dialog_msg">ตัวประหยัดแบตเตอรี่เปิดอยู่ เริ่มต้นการดาวน์โหลดตอนนี้?</string>
+    <string name="preference_copied">คัดลอก \"%1$s\" ไปยังคลิปบอร์ดแล้ว</string>
     <string name="preset_music_playlist">รายการเพลง Mi</string>
     <string name="priority_storage">เก็บไว้ใน SD การ์ดภายนอก</string>
     <string name="priority_storage_summary">ดาวน์โหลดเก็บไว้ใน SD การ์ดภายนอกโดยอัตโนมัติถ้ามี</string>

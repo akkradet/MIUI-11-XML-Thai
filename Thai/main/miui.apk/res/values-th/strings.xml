@@ -7,7 +7,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_day" />
     <string name="copyright">ลิขสิทธิ์</string>
-    <string name="user_agreement">ข้อตกลงและเงื่อนไขการใช้งาน</string>
+    <string name="user_agreement">เงื่อนไขการให้บริการ</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="user_manual">คู่มือการใช้</string>
     <string name="no_sim">ไม่พบซิมการ์ด</string>
@@ -53,7 +53,7 @@
     <string name="perm_payment_lab">Mi Pay</string>
     <string name="perm_payment_dspt">อนุญาตให้แอปชำระเงินผ่านบริการ Mi Pay</string>
     <string name="check_phone_error_title">ซิงค์ถูกปิด</string>
-    <string name="check_phone_io_error">เชื่อมต่อเครือข่ายไม่ได้</string>
+    <string name="check_phone_io_error">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="send_sms_for_sync_title">คำเตือนการใช้งานข้อมูล</string>
     <string name="send_sms_for_sync_notice">การลงทะเบียนต้องการส่งข้อความออกซึ่งจะมีค่าใช้จ่าย ผู้ให้บริการจะหักเงินของคุณสำหรับข้อความนี้</string>
     <string name="activate">เปิดใช้งาน</string>
@@ -252,7 +252,7 @@
     <string name="birthday">วันเกิด</string>
     <string name="website">เว็บไซต์</string>
     <string name="address">ที่อยู่</string>
-    <string name="note">จดบันทึก</string>
+    <string name="note">บันทึกย่อ</string>
     <string name="the_eve_of_the_spring_festival">วันเทศกาลฤดูใบไม้ผลิ</string>
     <string name="the_spring_festival">เทศกาลฤดูใบไม้ผลิ</string>
     <string name="the_second_day">วันที่สอง</string>

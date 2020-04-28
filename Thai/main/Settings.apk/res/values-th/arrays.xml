@@ -311,6 +311,30 @@
         <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ (330kbps/303kbps)</item>
         <item>ความพยายามที่ดีที่สุด (ปรับเปลี่ยนอัตราบิต)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>ความหน่วงสั้น</item>
+        <item>ความหน่วงปานกลาง</item>
+        <item>ความหน่วงยาว</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>ความหน่วงสั้น (50~100ms)</item>
+        <item>ความหน่วงปานกลาง (150~200ms)</item>
+        <item>ความหน่วงยาว (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>เพิ่มประสิทธิภาพสำหรับความหน่วงต่ำ</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ</item>
+        <item>สมดุลคุณภาพเสียงและการเชื่อมต่อ</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพเสียง</item>
+        <item>ความพยายามที่ดีที่สุด (อัตราบิตอัตโนมัติ)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>เพิ่มประสิทธิภาพสำหรับความหน่วงต่ำ (256kbps)</item>
+        <item>เพิ่มประสิทธิภาพคุณภาพการเชื่อมต่อ (400kbps)</item>
+        <item>คุณภาพเสียงและการเชื่อมต่อที่สมดุล (500/560kbps)</item>
+        <item>ปรับให้เหมาะสมสำหรับคุณภาพเสียง (900kbps)</item>
+        <item>ความพยายามที่ดีที่สุด (อัตราบิตอัตโนมัติ)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>ใช้งานการเลือกระบบ (ค่าเริ่มต้น)</item>
         <item>44.1 kHz</item>
@@ -333,6 +357,10 @@
         <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
+        <item>เสียง Qualcomm® aptX™ TWS+</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
@@ -344,6 +372,10 @@
         <item>เสียง Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>เสียง Qualcomm® aptX™ Adaptive</item>
+        <item>เสียงQualcomm® aptX™ TWS+</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
@@ -383,8 +415,8 @@
         <item>ปิดใช้อยู่</item>
         <item>เปิดใช้งานตัวกรอง</item>
         <item>เปิดใช้งาน</item>
-        <item>เปิดใช้งาน ตัวกรองส่วนหัว</item>
-        <item>เปิดใช้งาน ตัวกรองแพ็คเก็ตสื่อมีเดีย</item>
+        <item>เปิดใช้งาน \"ตัวกรองส่วนหัว\"</item>
+        <item>เปิดใช้งาน \"ตัวกรองแพ็คเก็ตสื่อมีเดีย\"</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 วินาที</item>
@@ -1199,12 +1231,12 @@
     <string-array name="screen_optimize_summary">
         <item>ปรับสีตามแสงปัจจุบัน</item>
         <item>เพิ่มสีสันเสมอ</item>
-        <item>คืนค่าสีมาตรฐานของเนื้อหาบนหน้าจอด้วยการปรับเทียบสี</item>
+        <item>ความเปรียบต่างตั้งไว้คงที่</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>อัตโนมัติ (แนะนำ)</item>
         <item>อิ่มสี</item>
-        <item>สีดั้งเดิม</item>
+        <item>มาตรฐาน</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1340,6 +1372,16 @@
         <item>ภาพเคลื่อนไหวซูม 2x</item>
         <item>ภาพเคลื่อนไหวซูม 5x</item>
         <item>ภาพเคลื่อนไหวซูม 10x</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>ปรับสีตามแสงปัจจุบัน</item>
+        <item>เพิ่มสีสันเสมอ</item>
+        <item>คืนค่าสีมาตรฐานของเนื้อหาบนหน้าจอด้วยการปรับเทียบสี</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>อัตโนมัติ (แนะนำ)</item>
+        <item>อิ่มสี</item>
+        <item>สีดั้งเดิม</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>ช้ามาก</item>
@@ -1515,7 +1557,7 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>ใช้ที่อยู่ MAC แบบสุ่ม (ค่าเริ่มต้น)</item>
+        <item>ใช้ที่อยู่ MAC แบบสุ่ม</item>
         <item>ใช้ที่อยู่ MAC ของอุปกรณ์</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

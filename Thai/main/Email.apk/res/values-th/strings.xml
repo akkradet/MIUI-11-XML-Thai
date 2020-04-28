@@ -181,7 +181,6 @@
     <string name="add_pre_message_attachments_no">ไม่ต้องใส่</string>
     <string name="add_pre_message_attachments_yes">แนบ</string>
     <string name="add_star">ติดดาว</string>
-    <string name="all_purpose">Welcome to Mail! This email client was created by Kingsoft for Xiaomi. You can use this app to send and receive emails.</string>
     <string name="allread">อ่านทั้งหมด</string>
     <string name="always_bcc_myself">ส่งสำเนาลับถึงตนเองเสมอ</string>
     <string name="always_show_images">แสดงรูปภาพจากผู้ส่งรายนี้เสมอ</string>
@@ -810,10 +809,7 @@
     <string name="permission_access_provider_label">เข้าถึงข้อมูลผู้ใช้</string>
     <string name="permission_des_calendar">สำหรับการซิงค์กิจกรรมปฏิทิน</string>
     <string name="permission_des_contact">For accessing emails of your contacts in order to autocomplete recipients</string>
-    <string name="permission_des_detail">หากคุณไม่เห็นด้วยที่จะให้อนุญาตหรือแชร์และอัพโหลดข้อมูลส่วนตัวของคุณ คุณจะไม่สามารถใช้แอปนี้ได้ คุณสามารถเลือกที่จะถอนการติดตั้งแอปนี้ ลงชื่อออก หรือจำกัดสิทธิ์ในการตั้งค่าในกรณีดังกล่าว</string>
     <string name="permission_des_external_storage">For creating new emails, as well as saving and adding attachments</string>
-    <string name="permission_des_phone_status">สำหรับการเข้าถึง IMEI เพื่อระบุอุปกรณ์ของคุณ</string>
-    <string name="permission_des_storage">For creating new emails, as well as saving and adding attachments</string>
     <string name="permission_read_attachment_desc">อนุญาตให้แอปอ่านไฟล์แนบอีเมลของคุณ</string>
     <string name="permission_read_attachment_label">เปิดเอกสารแนบ</string>
     <string name="personal_data_collection_summary">เมื่อสวิตช์เปิดใช้งาน คุณยอมรับว่าเราอาจรวบรวมข้อมูลส่วนบุคคลของคุณ คุณสามารถสลับปิดการเพิกถอนการอนุญาตและลบข้อมูลของคุณจากเซิร์ฟเวอร์ของเราได้ตลอดเวลา</string>
